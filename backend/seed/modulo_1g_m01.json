@@ -1,0 +1,3292 @@
+{
+ "codigo": "1G-M01",
+ "grado": "1º grado",
+ "area": "Matemática",
+ "ejeCurricular": "Números y Operaciones.",
+ "contenido": "Comparación de colecciones y posiciones utilizando distintas estrategias (correspondencia, estimación, conteo).\nRecorte: Reconocimiento, conteo y representación de cantidades hasta 10.",
+ "titulo": "Tesoros en el Iberá",
+ "subtitulo": "Kapi y Tataendy nos invitan a recoger frutos deliciosos.",
+ "docentesResponsables": "Vega Patricia; Galarza Patricia; Di Núbila Verónica; Romero Antonela.",
+ "especialistaResponsable": "Centurión Lorena.",
+ "correctorResponsable": "Ramirez Camila",
+ "fundamentacion": {
+  "propositoGeneral": "En este módulo se propone generar situaciones significativas de conteo y resolución de problemas que permitan a los niños construir y ampliar sus conocimientos sobre los números del 1 al 10, poniendo en juego y avanzando sobre sus procedimientos personales para determinar y comunicar cantidades.\nA través de diferentes desafíos, se busca favorecer el pasaje desde procedimientos iniciales de reconocimiento de cantidades, como la correspondencia uno a uno y la percepción global, hacia el uso del conteo como una estrategia eficaz para determinar una cantidad y construir una colección equivalente a otra que no se encuentra presente, estableciendo, además, relaciones entre cantidades y sus diferentes representaciones.\nEl módulo propone como hilo conductor una aventura de Kapi y el guacamayo Tataendy, quien necesita recolectar frutos para sus pichones y regresar a su nido. En este contexto, los distintos desafíos ofrecerán oportunidades para que los niños construyan colecciones equivalentes, cuenten y analicen diferentes maneras de representar una colección.",
+  "aprendizajeEsperado": "Se espera que los niños avancen en la construcción de conocimientos sobre los números del 1 al 10 a partir de situaciones relacionadas con la función del número como memoria de la cantidad. Se espera que puedan utilizar diferentes estrategias personales para armar una colección equivalente a una dada y que avancen hacia el conteo como estrategia para determinar el cardinal de una colección.\nAsimismo, se espera que puedan relacionar cantidades con sus representaciones numéricas.",
+  "relacionCurricular": "La propuesta se vincula con el eje Números y Operaciones, particularmente con situaciones que favorecen el uso y reconocimiento de los números naturales en contextos significativos, el conteo de colecciones, la exploración de relaciones entre cantidades y representaciones numéricas. Las actividades proponen que los niños resuelvan problemas en los que sea necesario contar, comparar, establecer correspondencias, determinar cantidades y representarlas, favoreciendo la construcción progresiva del sentido del número.\nEl recorrido contempla diferentes formas de resolución: contar los frutos, contar los pichones, señalar los elementos mientras se cuenta, realizar correspondencia uno a uno, reconocer visualmente cantidades y utilizar representaciones numéricas como apoyo para resolver las situaciones. De este modo, se promueve que el conocimiento matemático se construye a partir de la acción, la exploración, la reflexión sobre los procedimientos utilizados y la confrontación de diferentes estrategias.",
+  "conocimientosPrevios": "El niño cuenta con experiencias cotidianas en las que utiliza expresiones vinculadas con cantidades y números: repartir objetos, reconocer pequeñas cantidades, contar elementos de su entorno, comparar colecciones y establecer relaciones de “más”, “menos” o “igual”. También puede haber tenido experiencias escolares previas de conteo oral, reconocimiento de algunos números escritos y resolución de situaciones sencillas de correspondencia entre objetos y cantidades.\nEstos conocimientos constituyen el punto de partida para avanzar hacia procedimientos más organizados. El módulo recupera y amplía estas experiencias mediante situaciones de juego en las que el niño deberá contar los pichones de Tataendy, recolectar la cantidad correspondiente de frutos y relacionar maneras diferentes de representar el cardinal de una colección. La intervención del docente y las ayudas incorporadas en las actividades permitirán acompañar la construcción de estrategias cada vez más autónomas, respetando los diferentes ritmos y procedimientos de resolución.",
+  "procedimientosPersonales": "Frente a las situaciones planteadas, el niño puede:\n-Realizar percepción global, es decir, reconocer algunas cantidades visualmente cuando se trata de colecciones pequeñas.\n- Utilizar la correspondencia uno a uno entre los frutos y los pichones de Tataendy.\n- Contar los pichones y luego los frutos, señalando cada uno de los elementos de la colección.\n- En las actividades de reconocimiento del cardinal, contar los objetos que aparecen en el mensaje, reconocer algunas cantidades y/o recurrir a la banda numérica para identificar el número que representa el cardinal de la colección.",
+  "mate": {
+   "procedimientosPosibles": "Frente a las situaciones planteadas, el niño puede:\nRealizar percepción global, es decir, reconocer algunas cantidades visualmente cuando se trata de colecciones pequeñas.\n- Utilizar la correspondencia uno a uno entre los frutos y los pichones de Tataendy.\n- Contar los pichones y luego los frutos, señalando cada uno de los elementos de la colección.\n- En las actividades de reconocimiento del cardinal, contar los objetos que aparecen en el mensaje, reconocer algunas cantidades y/o recurrir a la banda numérica para identificar el número que representa el cardinal de la colección.",
+   "estrategiasCorrectas": "Reconocer visualmente pequeñas cantidades cuando la colección lo permite.\nEstablecer correspondencia uno a uno entre los pichones y los frutos de la palmera de pindó.\nContar los elementos de una colección para determinar su cardinal.\nUtilizar el cardinal obtenido para construir una colección equivalente.\nRelacionar el cardinal con diferentes representaciones, incluido el número escrito.",
+   "estrategiasAlternativas": "Cuando el niño todavía no domina el conteo de manera estable, puede apoyarse en el señalamiento y movimiento de los objetos, así como en la organización espacial de los frutos.\nPuede señalar un pichón y luego seleccionar un fruto, estableciendo una correspondencia uno a uno.\nTambién puede utilizar el reconocimiento visual de pequeñas cantidades o recurrir a la comparación directa entre colecciones.\nEstas estrategias permiten resolver algunas situaciones iniciales, pero no resultan suficientes en aquellas en las que la colección de referencia deja de estar disponible. En esos casos, la situación favorece la necesidad de conservar la cantidad obtenida y avanzar hacia el conteo como procedimiento más eficaz.",
+   "erroresFrecuentes": "Es probable que el niño cuente un mismo objeto más de una vez o que omita alguno durante el conteo, perdiendo la correspondencia entre los objetos y las palabras-número.\nEn algunos casos, puede no reconocer que el último número nombrado en el conteo representa la cantidad total de elementos de la colección.\nPuede recolectar frutos al azar y luego completar la colección con los que falten.\nPuede ocurrir también que no logre mantener el orden convencional de la serie oral.\nTambién pueden aparecer dificultades al relacionar un número escrito con la cantidad que representa. Por ejemplo, algunos niños podrían seleccionar o producir escrituras como “666666” o “123456” ante una colección de 6 elementos, mostrando que todavía necesitan fortalecer la relación entre la escritura numérica y el cardinal de la colección.",
+   "variablesDidacticas": "La cantidad de elementos de las colecciones, la disposición espacial de los objetos, el grado de organización o desorden de los frutos, la posibilidad de observar o no simultáneamente las colecciones y el tipo de tareas propuestas constituyen variables que permiten graduar la dificultad de las actividades y aumentar progresivamente la necesidad de utilizar el conteo como estrategia para resolver la situación.",
+   "anticipaciones": "En la Actividad 1, el niño puede anticipar, a partir de la observación, si la cantidad de frutos será suficiente para los pichones y luego comprobarlo mediante la correspondencia o el conteo. En la Actividad 2, al desaparecer la colección de referencia, puede anticipar y conservar la cantidad obtenida para utilizarla posteriormente al seleccionar los frutos.",
+   "conocimientosMovilizar": "El conteo oral de colecciones, la correspondencia uno a uno, la cardinalidad de una colección, la comparación y construcción de cantidades equivalentes, el reconocimiento de los números escritos del 1 al 10 y la relación entre número y cantidad.\nAsimismo, se espera que el niño pueda poner en juego diferentes procedimientos para resolver una situación, modificar sus estrategias de resolución cuando éstas no resultan efectivas y, principalmente, avanzar desde estrategias más espontáneas hacia el conteo cuando la colección de pichones no puede ser comparada directamente con la de los frutos.\nSe espera, además, poner en funcionamiento diferentes maneras de representar una misma cantidad, compararlas y decidir sobre la más adecuada o pertinente.\nPor otro lado, se espera favorecer aprendizajes vinculados con lo emocional y lo social, promoviendo la empatía, la colaboración, el cuidado del otro y la disposición a ayudar y trabajar con otros. A través de las interacciones entre los personajes y de las situaciones planteadas, se busca que los niños reconozcan el valor de escuchar, compartir ideas, pedir y ofrecer ayuda y construir estrategias junto con otros. La propuesta contempla, a su vez, diversas formas de participación, interacción y expresión, posibilitando que cada niño se involucre desde sus posibilidades y explore diferentes caminos para resolver los desafíos, en consonancia con una perspectiva de Diseño Universal para el Aprendizaje (DUA)."
+  }
+ },
+ "momentos": {
+  "1": "Kapi recorre los esteros para encontrar los pedazos del mapa perdido. En el camino, se encuentra con Tataendy, un guacamayo que necesita ayuda para buscar los frutos de pindó para que todos los pichones puedan comer un fruto, sin que sobren ni falten.",
+  "2": "Continuando el recorrido, Kapi y Tataendy descubren que hay otros nidos con pichones en un árbol que tienen hambre y deciden ayudarlos, pero esta vez hay que recordar cuántos frutos traer para todos los pichones sin que sobre ni falte, porque luego del vuelo hasta la palmera, ya no pueden divisarse los nidos.",
+  "3": "Kapi descubre otros nidos con pichones y decide enviarle un mensaje a Tataendy para que pueda traer la cantidad justa, pero estos mensajes distintos se le mezclaron y necesita ayuda para identificar los que representan la misma cantidad.",
+  "4": "Kapi y Tataendy recuperan los saberes construidos hasta el momento, que pueden servir como estrategias para la resolución de nuevos problemas: el conteo como herramienta para construir una colección equivalente sin que esté presente y las diferentes maneras de registrar una cantidad. Kapi guarda sus papeles en su bolsito para recuperarlos en otras situaciones.",
+  "5": "El niño debe construir un grupo de otros pichones de los esteros y luego armar un mensaje para que Tataendy tenga presente la cantidad al volar en la búsqueda de los frutos. Al finalizar, Tataendy le entrega a Kapi un pedazo de mapa que estaba buscando en recompensa por su gran ayuda."
+ },
+ "actividades": [
+  {
+   "numero": 1,
+   "importado": [],
+   "nombre": "Juntando frutos para los pichones de Tataendy",
+   "objetivo": "Utilizar estrategias personales de percepción, correspondencia y conteo, para construir una colección equivalente a otra dada, reconociendo que cada pichón necesita un fruto y verificando que no sobren ni falten elementos.",
+   "contenido": "Correspondencia término a término y conteo. Construcción de una colección equivalente a otra dada (cardinalidad entre 6 y 10).",
+   "propositoDidactico": "Favorecer la construcción de estrategias de correspondencia uno a uno y conteo para armar una colección equivalente a otra dada en un contexto lúdico y significativo.",
+   "relacionAnterior": "Es la actividad de apertura: comienza con la presentación de los personajes y la situación narrativa que da inicio a toda la secuencia.",
+   "relacionSiguiente": "Una vez resuelta la recolección, Kapi y Tataendy continúan su recorrido por los esteros en busca de una nueva pista para recuperar el mapa, dando paso a la siguiente actividad.",
+   "evidencia": "El niño selecciona la cantidad de frutos correspondiente a la cantidad de pichones que tiene en pantalla.",
+   "pasajeSiguiente": "Al lograr la cantidad exacta de frutos y presionar LISTO, la actividad se resuelve y avanza automáticamente a la siguiente pantalla continuando la historia.",
+   "situacion": {
+    "contexto": "Kapi está perdido y busca el camino de regreso a su laguna. Aparece Tataendy, un guacamayo que ofrece ayudarlo a cambio de que lo acompañe a reunir frutos de pindó para alimentar a sus pichones. Juntos llegan a la palmera, donde los frutos están escondidos entre hojas, troncos y arbustos.",
+    "escenario": "Esteros del Iberá con palmera de pindó en el centro, árboles, arbustos, pastizales y suelo natural. Frutos distribuidos y escondidos en distintos lugares de la escena.",
+    "personajes": "Kapi (carpincho protagonista), Tataendy (guacamayo rojo), 7 pichones en el globo de pensamiento de Tataendy, Narrador.",
+    "queOcurre": "Tataendy necesita reunir un fruto por cada pichón. Se sabe cuántos pichones hay (7) pero no se sabe si hay suficientes frutos escondidos.",
+    "queProblema": "Hay que encontrar la cantidad exacta de frutos para que cada pichón reciba uno, sin que sobren ni falten."
+   },
+   "consigna": {
+    "textoPantalla": "“Juntando frutos”\nReuní los frutos necesarios para que cada pichón reciba uno, sin que sobre ni falte ninguno.",
+    "textoAudio": "Reuní los frutos necesarios para que cada pichón reciba uno, sin que sobre ni falte ninguno.",
+    "quienLoDice": "Kapi",
+    "tono": "Cálido, cercano, afectivo — estilo conversacional con niños, con rasgos del español rioplatense",
+    "velocidad": "Moderada."
+   },
+   "mapa": {
+    "puntoEntrada": "P1-01. Botón EMPEZAR al finalizar el relato de la pantalla de inicio",
+    "pantallasInvolucradas": "P1-01 (Inicio), P1-02 (Llegada a la palmera), P1-03 (Recolección y juego)",
+    "decisionesNino": "Dónde tocar para buscar frutos; Cuántos frutos juntar; Confirmar con LISTO; Elegir SEGUIR o ELIMINAR según corresponda.",
+    "caminosPosibles": "Encuentra la cantidad exacta y presiona LISTO: avance directo.\nEncuentra menos y presiona LISTO: sigue buscando. Necesita ayuda→ recibe pistas.\nEncuentra más y presiona LISTO: elimina los sobrantes. Necesita ayuda → recibe pistas.",
+    "reintentosAyudas": "A los 20 segundos sin acción, se mueve una hoja/tronco como pista visual. Si persiste: Kapi indica verbalmente dónde hay un fruto. Reintentos ilimitados.",
+    "recorrido": "INICIO: P1-01: Audio y video de presentación. Kapi perdido, aparece Tataendy, proponen la ayuda mutua. Finaliza con botón EMPEZAR → avanza a P1-02. P1-02: Llegada a la palmera, se muestra la cantidad de pichones en el globo de pensamiento. Botón CONTINUAR → avanza a P1-03.\nACCIÓN: El niño toca zonas de la escena donde pueden estar los frutos. Al encontrar uno, este se desplaza a la canasta. Puede observar la cantidad acumulada en todo momento.\nDECISIÓN: Determinar cuándo la cantidad coincide con la de los pichones y presionar LISTO. Si hay diferencia, elegir: buscar más o eliminar sobrantes.\nCONSECUENCIA: Exacta: pichones celebran, Kapi felicita → avance automático\nFaltan: pichones tristes, Kapi invita a seguir buscando\nSobran: Kapi recuerda la regla, se habilitan opciones de ajuste\nFEEDBACK: No punitivo: animaciones de los pichones + devolución verbal orientadora.\nPRÓXIMA ACCIÓN: Faltan: seguir buscando; Sobran: quitar los extras; Correcta: cierre de la actividad y continuación de la historia.\nCIERRE: Kapi: ¡Lo hicimos! Tataendy agradece. El narrador anuncia que continúan el recorrido en busca de la siguiente pista."
+   },
+   "pantallas": [
+    {
+     "id": "imp-130d00bc362644d1",
+     "idPantalla": "P1-01",
+     "nombre": "Tesoros en el Iberá",
+     "proposito": "Presentar personajes, el contexto y el vínculo de ayuda mutua. Relato completo del narrador y diálogos entre Kapi y Tataendy.",
+     "contenidoTextual": "Relato del narrador y diálogos completos entre Kapi y Tataendy. No requiere texto permanente adicional en pantalla.",
+     "imagenesFondo": "Esteros del Iberá, mañana soleada, Kapi caminando preocupado, Tataendy sobrevolando.",
+     "botones": "EMPEZAR grande, visible, al finalizar el audio",
+     "animacion": "Kapi camina con expresión triste; aparición de Tataendy con aleteo.",
+     "audio": "Narración + diálogos completos + efecto de aleteo",
+     "condicionAvance": "Tocar EMPEZAR."
+    },
+    {
+     "id": "imp-4bb5fc18c9cd405a",
+     "idPantalla": "P1-02",
+     "nombre": "Llegada a la palmera.",
+     "proposito": "Presentar el problema y la cantidad de referencia (pichones).",
+     "contenidoTextual": "Diálogo de Tataendy y Kapi; globo de pensamiento con los pichones.",
+     "imagenesFondo": "Palmeras de pindó, Kapi y Tataendy en escena, globo con 7 pichones (rango 6-10).",
+     "botones": "CONTINUAR",
+     "animacion": "Narrador + diálogos de Tataendy y Kapi.",
+     "audio": "Narrador + diálogos de Tataendy y Kapi",
+     "condicionAvance": "tocar CONTINUAR"
+    },
+    {
+     "id": "imp-3931e62ac0f14a39",
+     "idPantalla": "P1-03",
+     "nombre": "Juntando frutos (juego)",
+     "proposito": "Construir la colección equivalente mediante búsqueda y conteo.",
+     "contenidoTextual": "Título + consigna visible y audible; canasta con contador visual; botones LISTO, RECOLECTAR/ ELIMINAR",
+     "imagenesFondo": "Misma palmera; zonas con hojas, troncos y arbustos donde ocultar frutos; canasta vacía que se llena.",
+     "botones": "LISTO (principal). RECOLECTAR / ELIMINAR (aparecen en simultáneo luego de una respuesta errónea)",
+     "animacion": "Al tocar una zona con fruto → aparece y vuela a la canasta; pichones celebran o muestran tristeza; Kapi acompaña con gestos.",
+     "audio": "Consigna; sonido al encontrar fruto; celebraciones; devoluciones.",
+     "condicionAvance": "La Cantidad de frutos es igual a la cantidad de pichones → avance automático."
+    }
+   ],
+   "interacciones": [
+    {
+     "id": "imp-2c3dd2c2365f4104",
+     "accion": "Tocar (botón EMPEZAR)\nP1-01",
+     "descripcion": "Observa y escucha la presentación. Al finalizar el audio, toca el botón EMPEZAR.",
+     "respuesta": "Avanza a P1-02"
+    },
+    {
+     "id": "imp-63a5eb2cba28483b",
+     "accion": "Tocar ( botón CONTINUAR)\nP1-02",
+     "descripcion": "Escucha el diálogo de los personajes, observa el globo de pensamiento con los pichones y toca el botón CONTINUAR.",
+     "respuesta": "Avanza a P1-03"
+    },
+    {
+     "id": "imp-36a25e03eee44551",
+     "accion": "Tocar\nP1-03",
+     "descripcion": "Toca zonas de la escena donde pueden estar los frutos (hojas, detrás de tronco, cerca de la laguna).",
+     "respuesta": "Al tocar un fruto, este aparece y se mueve animadamente a la canasta."
+    },
+    {
+     "id": "imp-4e46605265554db1",
+     "accion": "Tocar ( botón ¡LISTO!)",
+     "descripcion": "Observa la cantidad acumulada en todo momento. Puede tocar LISTO cuando considere que terminó",
+     "respuesta": "Evalúa que la cantidad de frutos encontrada se corresponda con la cantidad de pichones en el nido y continúa feedback correspondiente."
+    },
+    {
+     "id": "imp-7936d381dd974579",
+     "accion": "Tocar (RECOLECTAR/ELIMINAR)",
+     "descripcion": "El niño (que no respondió correctamente) decide si debe seguir recolectando frutos o eliminar algunos de la canasta.",
+     "respuesta": "Habilita la posibilidad de seguir buscando frutos o eliminar los de la canasta al presionar sobre ellos según sea el caso. Se habilita nuevamente el botón LISTO."
+    }
+   ],
+   "estados": [
+    {
+     "id": "imp-b136ee1f02494a71",
+     "estado": "1 Menos pichones",
+     "queHizo": "Reunió una cantidad de frutos menor a la cantidad de pichones (ej: 5 frutos / 7 pichones) y presionó LISTO.",
+     "queInterpreta": "El niño aún no completó la colección equivalente; necesita seguir recolectando.",
+     "queOcurre": "Los pichones que quedaron sin fruto aparecen con expresión triste. Kapi da la devolución verbal y escrita. Aparecen los botones RECOLECTAR/ELIMINAR.",
+     "proximoPaso": "El niño toca RECOLECTAR y vuelve a buscar frutos en la escena, conservando los ya recolectados. Luego vuelve a presionar LISTO."
+    },
+    {
+     "id": "imp-e490c9b896d54102",
+     "estado": "2 Cantidad exacta",
+     "queHizo": "Reunió la misma cantidad de frutos que de pichones y presionó LISTO.",
+     "queInterpreta": "El niño construyó correctamente la colección equivalente. Logro alcanzado.",
+     "queOcurre": "Los pichones celebran. Kapi y Tataendy dan el mensaje de cierre. La actividad avanza automáticamente a la siguiente propuesta.",
+     "proximoPaso": "Transición automática a la siguiente pantalla / actividad."
+    },
+    {
+     "id": "imp-35f06b4cc08040de",
+     "estado": "3 Más frutos que pichones",
+     "queHizo": "Reunió más frutos que pichones y presionó LISTO.",
+     "queInterpreta": "El niño excedió la cantidad necesaria; puede ajustar eliminando los que sobran.",
+     "queOcurre": "Aparece un pichón con expresión de duda. Kapi da la devolución. Aparecen los botones ELIMINAR / RECOLECTAR.",
+     "proximoPaso": "El niño toca ELIMINAR, y elimina los frutos sobrantes. Luego vuelve a presionar LISTO."
+    },
+    {
+     "id": "imp-7e8f2c4a77774f39",
+     "estado": "4 — Sin interacción / Necesita ayuda",
+     "queHizo": "Permanece en pantalla más de 20 segundos sin tocar ninguna zona.",
+     "queInterpreta": "El niño puede necesitar una guía visual o verbal para iniciar la búsqueda.",
+     "queOcurre": "Primero: animación de hoja o tronco que se mueve sugiriendo dónde buscar. Si persiste sin acción: Kapi dice su pista verbal.",
+     "proximoPaso": "El niño retoma la búsqueda siguiendo la indicación visual o verbal."
+    }
+   ],
+   "feedback": [
+    {
+     "id": "imp-8d6091f64e894a17",
+     "queDebe": "Evidencia visual + invitación a revisar y agregar. Sin juicio de valor.",
+     "textoExacto": "No aplica.",
+     "audioExacto": "(aparecen pichones con expresión triste) Mmm… Parece que todavía falta algún fruto. Podés volver a mirar y seguir recolectando.",
+     "quienLoDice": "Kapi.",
+     "velocidad": "Media, pausada, tono suave y alentador",
+     "estadoRef": "ESTADO 1: Menos frutos que pichones."
+    },
+    {
+     "id": "imp-4d474856079f4971",
+     "queDebe": "Celebración colectiva, confirmación de que cada pichón tiene su fruto y avance a la siguiente etapa de la historia.",
+     "textoExacto": "No aplica.",
+     "audioExacto": "Kapi: —¡Lo hicimos!\nTataendy: —¡Gracias, Kapi! Ahora cada uno de mis pichones tiene su fruto y no sobró ninguno.\nNarrador: - Kapi y Tataendy continúan su recorrido por los esteros. Tal vez, en el camino, encuentren una nueva pista para recuperar el mapa.",
+     "quienLoDice": "Kapi (entusiasta) → Tataendy (agradecida, cálida) → Narrador (suave, invitante)",
+     "velocidad": "Media",
+     "estadoRef": "ESTADO 2: Cantidad exacta"
+    },
+    {
+     "id": "imp-ae74c75caef34453",
+     "queDebe": "Oportunidad de ajustar. Recordatorio de la regla (\"uno por cada pichón\") + opciones para corregir.",
+     "textoExacto": "No aplica.",
+     "audioExacto": "\"Parece que juntamos algunos frutos de más. Recordá que cada pichón necesita uno solo.\" (aparecen pichones con cara verde)",
+     "quienLoDice": "Kapi tono reflexivo, sin reproche.",
+     "velocidad": "Media.",
+     "estadoRef": "ESTADO 3: Más frutos que pichones"
+    },
+    {
+     "id": "imp-6e8a4b38bab94b3c",
+     "queDebe": "Sugerencia de ubicación, sin dar la respuesta completa.",
+     "textoExacto": "No aplica.",
+     "audioExacto": "Kapi: —¡Parece que vi un fruto detrás del tronco!",
+     "quienLoDice": "Kapi: Media-alegre y de descubrimiento.",
+     "velocidad": "Moderado",
+     "estadoRef": "ESTADO 4: Necesita ayuda."
+    }
+   ],
+   "personaje": [
+    {
+     "id": "imp-9008fe51bdb94272",
+     "cuandoAparece": "P1-01",
+     "quienHabla": "Narrador",
+     "audio": "Mmm… Es una hermosa mañana soleada en los Esteros del Iberá.\n¡Ahí está Kapi! Es un carpincho muy curioso.",
+     "textoPantalla": "No aplica.",
+     "accionPersonaje": "Kapi camina despacito, mirando el suelo y buscando algo.",
+     "accionNino": "Escucha- Observa"
+    },
+    {
+     "id": "imp-755809cc52904121",
+     "cuandoAparece": "P1-01",
+     "quienHabla": "Narrador",
+     "audio": "¿Ven eso? Kapi está preocupado. Está buscando el camino de regreso a su laguna.",
+     "textoPantalla": "No aplica.",
+     "accionPersonaje": "Cara triste de Kapi.",
+     "accionNino": "Escucha- Observa"
+    },
+    {
+     "id": "imp-6f0a6634d7f84238",
+     "cuandoAparece": "P1-01",
+     "quienHabla": "Kapi",
+     "audio": "¿Y ahora cómo vuelvo a casa?",
+     "textoPantalla": "No aplica.",
+     "accionPersonaje": "Cara triste de Kapi",
+     "accionNino": "Escucha- Observa"
+    },
+    {
+     "id": "imp-c45a805b0e8344ee",
+     "cuandoAparece": "P1-01",
+     "quienHabla": "Narrador",
+     "audio": "Pero esperen… ¿Qué es eso que se acerca volando?\n¡Es Tataendy! Un guacamayo de hermosos colores.\nTataendy vuela muy alto y, desde el cielo, puede observar todo lo que sucede en los esteros. Tal vez pueda ayudar a Kapi…\n(Sonido de aleteo: fru, fru, fru)",
+     "textoPantalla": "No aplica.",
+     "accionPersonaje": "Aparece Tataendy sobrevolando los esteros.",
+     "accionNino": "Escucha- Observa"
+    },
+    {
+     "id": "imp-e2da6c3e523e4e42",
+     "cuandoAparece": "P1-01",
+     "quienHabla": "Tataendy",
+     "audio": "¡Hola, Kapi! ¿Qué pasó?... ¿Estás buscando algo?",
+     "textoPantalla": "No aplica.",
+     "accionPersonaje": "Bate las alas suavemente.",
+     "accionNino": "Escucha- Observa"
+    },
+    {
+     "id": "imp-fa8fbdfbd7954834",
+     "cuandoAparece": "P1-01",
+     "quienHabla": "Kapi",
+     "audio": "Sí... perdí mi mapa y no sé cómo volver a mi laguna.",
+     "textoPantalla": "No aplica.",
+     "accionPersonaje": "Mira al suelo, luego a Tataendy, expresión sincera.",
+     "accionNino": "Escucha- Observa"
+    },
+    {
+     "id": "imp-2cd626e19f8f4058",
+     "cuandoAparece": "P1-01",
+     "quienHabla": "Narrador",
+     "audio": "Tataendy piensa un momento. Entonces, se le ocurre una idea.",
+     "textoPantalla": "No aplica.",
+     "accionPersonaje": "Tataendy con cara de pensativo.",
+     "accionNino": "Escucha- Observa"
+    },
+    {
+     "id": "imp-c1200b2098f5435d",
+     "cuandoAparece": "P1-01",
+     "quienHabla": "Tataendy",
+     "audio": "Yo puedo ayudarte. Desde el cielo puedo ver una parte del camino.",
+     "textoPantalla": "No aplica.",
+     "accionPersonaje": "Tataendy decidido.",
+     "accionNino": "Escucha- Observa"
+    },
+    {
+     "id": "imp-3c081933a5a64ac2",
+     "cuandoAparece": "P1-01",
+     "quienHabla": "Kapi",
+     "audio": "¿De verdad? ¡Qué bueno! ¡Gracias, Tataendy!",
+     "textoPantalla": "No aplica.",
+     "accionNino": "Escucha- Observa"
+    },
+    {
+     "id": "imp-7ea8bb28119a41c0",
+     "cuandoAparece": "P1-01",
+     "quienHabla": "Tataendy",
+     "audio": "Pero antes necesito tu ayuda. Mis pichones tienen hambre. ¿Me ayudás a buscar algunos frutos para ellos?",
+     "textoPantalla": "No aplica.",
+     "accionNino": "Escucha- Observa"
+    },
+    {
+     "id": "imp-a52d60db0d4049f9",
+     "cuandoAparece": "P1-01",
+     "quienHabla": "Kapi",
+     "audio": "¡Claro que sí! ¡Vamos a buscarlos juntos!",
+     "textoPantalla": "No aplica.",
+     "accionPersonaje": "Sonríe, postura decidida.",
+     "accionNino": "Escucha- Observa"
+    },
+    {
+     "id": "imp-acae7fb6e2aa43e1",
+     "cuandoAparece": "P1-01",
+     "quienHabla": "Narrador",
+     "audio": "Y así, Kapi y Tataendy comienzan a recorrer los esteros en busca de frutos… y también de una pista que ayude a Kapi a encontrar el camino a casa.\n¿Los ayudamos?",
+     "textoPantalla": "No aplica.\nUna vez finalizado el audio del relato, aparece el botón EMPEZAR.",
+     "accionNino": "Escucha- Observa"
+    },
+    {
+     "id": "imp-19690ccd6ed34595",
+     "quienHabla": "·"
+    },
+    {
+     "id": "imp-39a0de71d52b45c9",
+     "cuandoAparece": "P1-02",
+     "quienHabla": "Narrador",
+     "audio": "¡Miren! Tataendy y Kapi llegaron hasta una palmera de pindó. Tiene frutos muy dulces.\nPero… parece que algunos están escondidos entre las hojas, detrás de los troncos y cerca de los arbustos.",
+     "textoPantalla": "No aplica.",
+     "accionPersonaje": "Kapi y Tataendy llegan hasta una palmera de pindó, pero a simple vista los frutos no se alcanzan a ver.",
+     "accionNino": "Escucha- Observa"
+    },
+    {
+     "id": "imp-506051fb8d654f78",
+     "cuandoAparece": "P1-02",
+     "quienHabla": "Tataendy",
+     "audio": "—¿Encontraremos suficientes frutos para que cada uno de mis pichones tenga uno?",
+     "textoPantalla": "No aplica.",
+     "accionPersonaje": "Tataendy se imagina el nido con los pichones: aparece un globo de pensamiento con 7 pichones.",
+     "accionNino": "Escucha- Observa"
+    },
+    {
+     "id": "imp-bbb4a8b7f2914401",
+     "cuandoAparece": "P1-02",
+     "quienHabla": "Kapi",
+     "audio": "Mmm… Tenemos que averiguarlo.",
+     "textoPantalla": "No aplica.",
+     "accionPersonaje": "Kapi piensa, se rasca la cabeza",
+     "accionNino": "Escucha- Observa"
+    },
+    {
+     "id": "imp-9eaa5c7b22364b6d",
+     "cuandoAparece": "P1-02",
+     "quienHabla": "Narrador",
+     "audio": "¿Podrán encontrar la cantidad de frutos que necesitan?",
+     "textoPantalla": "No aplica.",
+     "accionPersonaje": "Aparece el botón CONTINUAR para acceder a la siguiente pantalla.",
+     "accionNino": "Escucha- Observa. Presiona CONTINUAR"
+    },
+    {
+     "id": "imp-f39bd6396a574074",
+     "cuandoAparece": "P1-03 · Pista verbal (tras 20 segundos sin hallazgos)",
+     "quienHabla": "Kapi",
+     "audio": "¡Parece que vi un fruto detrás del tronco! (sin texto)",
+     "accionPersonaje": "Señala hacia el tronco con el hocico.",
+     "accionNino": "Toca la zona indicada o busca otra."
+    },
+    {
+     "id": "imp-94c4f8ebafb84943",
+     "cuandoAparece": "P1-03 · Faltan frutos.",
+     "quienHabla": "Kapi",
+     "audio": "Mmm… Parece que todavía falta algún fruto. Podés volver a mirar y seguir recolectando.\n(Sin texto)",
+     "accionPersonaje": "Mira la canasta, luego al niño con expresión amable.",
+     "accionNino": "Vuelve a buscar"
+    },
+    {
+     "id": "imp-eef29da85a4641f0",
+     "cuandoAparece": "P1-03 · Sobran frutos.",
+     "quienHabla": "Kapi",
+     "audio": "Parece que juntamos algunos frutos de más. Recordá que cada pichón puede comer un solo fruto. (Sin texto)",
+     "accionPersonaje": "Mira la canasta, levanta una patita contando \"uno\".",
+     "accionNino": "Elige ELIMINAR o RECOLECTAR"
+    },
+    {
+     "id": "imp-cd99b87d63bd4be6",
+     "cuandoAparece": "P1-03 · Éxito",
+     "quienHabla": "Kapi",
+     "audio": "¡Lo hicimos!",
+     "accionPersonaje": "Salta alegremente.",
+     "accionNino": "Escucha- Observa"
+    },
+    {
+     "id": "imp-19a3c03754274ffe",
+     "cuandoAparece": "P1-03 · Luego de la respuesta correcta y la devolución de Kapi.",
+     "quienHabla": "Tataendy",
+     "audio": "¡Gracias, Kapi! Ahora cada uno de mis pichones tiene su fruto y no sobró ninguno.",
+     "accionPersonaje": "Tataendy alegre mira a Kapi.",
+     "accionNino": "Escucha- Observa"
+    },
+    {
+     "id": "imp-1728f1a976a74924",
+     "cuandoAparece": "P1-03 · Luego de la respuesta correcta y la intervención de Kapi y Tataendy.",
+     "quienHabla": "Narrador",
+     "audio": "Kapi y Tataendy continúan su recorrido por los esteros. Tal vez, en el camino, encuentren una nueva pista para recuperar el mapa.",
+     "accionPersonaje": "Kapi y Tataendy avanzan en su recorrido.",
+     "accionNino": "Escucha- Observa. Avanza automáticamente a la siguiente actividad"
+    }
+   ],
+   "visual": {
+    "escenarioFondo": "Paisaje diurno de los Esteros del Iberá: agua tranquila, vegetación verde exuberante, palmeras de pindó, cielo celeste claro con sol suave. Luz de mañana. Pendiente de definición por Guía de Pautas en detalles de paleta exacta.",
+    "coloresDominantes": "Verde (vegetación), celeste/azul (cielo y agua), amarillo-dorado (luz del sol), tonos marrones/cálidos en Kapi, rojo-azul-amarillo vibrante en Tataendy. Pendiente de Guía de Pautas para códigos exactos.",
+    "objetosPersonajes": "Kapi (centro-izquierda), Tataendy (arriba/derecha, posado o volando), palmera de pindó (fondo central), canasta vacía/llena (centro-abajo), globo de pensamiento con 7 pichones (esquina superior derecha), zonas táctiles: hojas grandes, tronco, arbustos cerca del agua.",
+    "tamanoUbicacion": "- Personajes: tamaño grande, visibles y reconocibles desde el inicio.\n- Globo de pichones: esquina superior derecha, permanente, claro y legible.\n- Canasta: zona inferior central, destacada.\n- Botones: tamaño grande, centrados, colores que resalten sin saturar.\nPendiente de Guía de Pautas para medidas exactas.",
+    "iconografia": "- Fruto escondido: zona sutilmente diferenciada; al tocarlo → fruto visible con movimiento hacia la canasta.\n- Canasta vacía: contorno simple; con frutos: se ven dentro, contador implícito.\n- Pichones: expresión neutra inicial → tristeza → alegría → duda según estado.\n- Botón ¡EMPEZAR! / CONTINUAR / ¡LISTO!: estilo destacado, mismo diseño en toda la actividad.\n- Botones ELIMINAR / SEGUIR : estilo secundario pero claro."
+   },
+   "sonido": [
+    {
+     "id": "imp-1980e220ccdb4c9e",
+     "sonId": "AUD-1-01",
+     "tipo": "Narración — Narrador",
+     "descripcion": "Apertura: Kapi perdido",
+     "duracion": "~45 seg",
+     "disparador": "Al entrar a P1-01 automáticamente",
+     "alternativa": "No aplica"
+    },
+    {
+     "id": "imp-64bc79a5c8dc4049",
+     "sonId": "AUD-1-02",
+     "tipo": "Efecto sonoro",
+     "descripcion": "Aleteo: \"fru, fru, fru\"",
+     "duracion": "~3 seg",
+     "disparador": "Al entrar Tataendy en escena",
+     "alternativa": "—"
+    },
+    {
+     "id": "imp-44a4e2758f904116",
+     "sonId": "AUD-1-03",
+     "tipo": "Narración — Llegada a la palmera",
+     "descripcion": "Descripción de la escena y los frutos escondidos",
+     "duracion": "~20 seg",
+     "disparador": "Al entrar a P1-02",
+     "alternativa": "No"
+    },
+    {
+     "id": "imp-a81517ae06434077",
+     "sonId": "AUD-1-04",
+     "tipo": "Diálogo — Tataendy y Kapi",
+     "descripcion": "Pregunta por los pichones → respuesta de Kapi",
+     "duracion": "~15 seg",
+     "disparador": "Tras descripción de la palmera",
+     "alternativa": "No"
+    },
+    {
+     "id": "imp-22d8da042f1d4298",
+     "sonId": "AUD-1-05",
+     "tipo": "Narración — Consigna P1-03",
+     "descripcion": "\"Juntar frutos… sin que sobren ni falten\"",
+     "duracion": "~18 seg",
+     "disparador": "Al entrar a P1-03 automáticamente",
+     "alternativa": "Sí, texto destacado"
+    },
+    {
+     "id": "imp-c5742b954c8440fa",
+     "sonId": "AUD-1-06",
+     "tipo": "Efecto sonoro",
+     "descripcion": "Fruto encontrado y trasladado a la canasta",
+     "duracion": "~2 seg",
+     "disparador": "Al tocar zona con fruto",
+     "alternativa": "—"
+    },
+    {
+     "id": "imp-4c95f3f4670d4f15",
+     "sonId": "AUD-1-07",
+     "tipo": "Diálogo — Kapi",
+     "descripcion": "Pista verbal: \"¡Parece que vi un fruto detrás del tronco!\"",
+     "duracion": "~7 seg",
+     "disparador": "Tras 20+ segundos sin hallazgos",
+     "alternativa": "No"
+    },
+    {
+     "id": "imp-266e2d4f056c4768",
+     "sonId": "AUD-1-08",
+     "tipo": "Feedback — Kapi",
+     "descripcion": "Faltan frutos: invitación a seguir recolectando",
+     "duracion": "~12 seg",
+     "disparador": "Al tocar ¡LISTO! con cantidad insuficiente",
+     "alternativa": "No"
+    },
+    {
+     "id": "imp-3323a52cfc324a69",
+     "sonId": "AUD-1-09",
+     "tipo": "Feedback — Kapi",
+     "descripcion": "Sobran frutos: recordatorio de \"uno por pichón\"",
+     "duracion": "~10 seg",
+     "disparador": "Al tocar ¡LISTO! con cantidad excesiva",
+     "alternativa": "No"
+    },
+    {
+     "id": "imp-1c95136fa79e4339",
+     "sonId": "AUD-1-10",
+     "tipo": "Feedback — Kapi y Tataendy",
+     "descripcion": "Éxito: \"¡Lo hicimos!\" + agradecimiento",
+     "duracion": "~15 seg",
+     "disparador": "Al tocar ¡LISTO! con cantidad exacta",
+     "alternativa": "Sí"
+    },
+    {
+     "id": "imp-719db7486e6c47a2",
+     "sonId": "SFX-1-01",
+     "tipo": "Música de fondo",
+     "descripcion": "Melodía suave, instrumental, alegre y tranquila",
+     "duracion": "En bucle durante toda la actividad",
+     "disparador": "Desde P1-01 hasta cierre",
+     "alternativa": "—"
+    }
+   ],
+   "accesibilidad": {
+    "audioTexto": "sólo consigna",
+    "instruccionesClaras": "Lenguaje sencillo, directo y adaptado a niñas y niños de 6 a 7 años: frases cortas, vocabulario cercano, sin términos complejos. Las indicaciones son explícitas: \"Tocá los frutos para juntarlos en la canasta\", \"Buscá uno para cada pichón\", \"Si sobran, tocá los que estén de más para quitarlos\". Se acompañan con ejemplos visuales y se reformulan con ayuda de Kapi si el niño o niña no comprende a la primera. Se usan expresiones orales naturales: \"Mmm…\", \"¿Sabés?\", manteniendo el tono afectuoso de los personajes.\nCategoría: Lenguaje claro-",
+    "alternativasColor": "El color nunca es el único indicador de estado, acierto o error:\n· Cantidad correcta: además de color → los pichones celebran con animación, sonido de alegría, mensaje de texto de Kapi y Tataendy.\n· Faltan frutos: además de color → los pichones sin fruto tienen expresión triste, mensaje de Kapi y botón visible \"Seguir recolectando\".\n· Sobran frutos: además de color → un pichón con cara confundida, mensaje explicativo y botón \"Eliminar frutos\".\n· Frutos en la canasta: se distinguen por forma, tamaño y etiqueta, no solo por tono. Los elementos escondidos se revelan por animación, no solo por cambio de color.\n· Tipo de alternativa: iconografia",
+    "tamanoBotones": "Cumplirá con los lineamientos que establezca la Guía de Pautas de Diseño Digital y Accesibilidad vigente. Categoría: Pendiente de Guía de Pautas",
+    "cantidadInfo": "Cada pantalla presenta una sola acción principal, sin sobrecargar la vista:\n• Pantalla 1: Solo la historia de presentación + botón \"¡Empezar!\"\n• Pantalla 2: Solo la situación de la palmera y la pregunta de Tataendy + botón \"Continuar\"\n• Pantalla 3: La consigna clara, la canasta, el globo con los 7 pichones y los frutos para buscar. No se acumulan textos largos ni elementos distractores. Los espacios son amplios, los elementos ordenados y se da tiempo suficiente para procesar antes de avanzar. Las ayudas aparecen de forma progresiva sin saturar la escena.\nCategoría: dos o más consignas relacionadas-"
+   },
+   "accesibilidadExtra": {
+    "modoAlternativo": "Existen vías alternativas para acceder a todo el contenido:\n• Si necesita más tiempo: la actividad no avanza sola; se puede pausar, repetir el audio y tomarse el tiempo necesario para contar y buscar.\n• Navegación compatible con teclado y lectores de pantalla.\n• Pistas progresivas: si no encuentra frutos, la propia actividad guía sin necesidad de ayuda externa.\n· Selección: Audio-"
+   },
+   "datos": {
+    "queRegistra": "El sistema registra el avance completo de la actividad: 1) Seguir la historia y tocar para continuar; 2) Identificar que Tataendy necesita frutas para alimentar a sus pichones; 3) Ayudar a Kapi a buscar y recolectar los frutos correctos por los Esteros del Iberá; 4) Seleccionar solo las frutas/comidas que corresponden a la alimentación de los pichones; 5) Entregar los frutos y confirmar que los pichones quedan satisfechos.",
+    "tipoRespuesta": "Selección",
+    "respuestaEsperada": "Avanzar: Tocar \"Continuar\" o la flecha para seguir la historia\nComprender el objetivo: Reconocer que Tataendy necesita frutas para sus pichones\nRecolectar: Tocar/elegir los frutos correctos que aparecen en el camino\nSeleccionar bien: Elegir solo las frutas y alimentos adecuados para los pichones\nFinalizar: Tocar para entregar los alimentos y ver a los pichones felices comiendo",
+    "alternativasValidas": "no aplica",
+    "parcialmenteValidas": "no aplica. En todos los casos se da la oportunidad de reintentar sin bloquear el juego."
+   },
+   "navFinal": {
+    "cuandoTermina": "Cuando la cantidad de frutos en la canasta coincide con la cantidad de pichones y el niño presiona ¡LISTO!",
+    "cuandoHabilita": "Inmediatamente después de la confirmación del éxito → avance automático sin necesidad de tocar botón adicional",
+    "completarTodo": "Puede continuar ajustando sin límite de intentos. No se avanza a la siguiente actividad hasta lograr la coincidencia exacta, pero nunca se bloquea ni se da por perdida.",
+    "variosIntentos": "Se conserva el progreso: los frutos ya encontrados permanecen en la canasta. El niño puede agregar o quitar libremente. No hay penalización ni límite de reintentos.",
+    "siAbandona": "Se guarda el estado actual (cantidad de frutos recolectados, pantalla). Al reingresar, retoma exactamente donde quedó."
+   },
+   "matriz": [
+    {
+     "id": "imp-f860128f826c4b66",
+     "accionNino": "Escucha y mira la presentación en\nP1-01",
+     "respuestaEsperada": "Recibe la historia",
+     "respuestaSistema": "Reproduce audio + animaciones sincronizadas",
+     "feedback": "Narrador guía la historia",
+     "proximaAccion": "Toca ¡EMPEZAR! al finalizar"
+    },
+    {
+     "id": "imp-3632339f407545b3",
+     "accionNino": "Toca ¡EMPEZAR!",
+     "respuestaEsperada": "Avanzar a la actividad",
+     "respuestaSistema": "Transición suave carga P1-02",
+     "feedback": "—",
+     "proximaAccion": "Escena de la palmera"
+    },
+    {
+     "id": "imp-66ac9709d2914df2",
+     "accionNino": "Escucha y mira en P1-02",
+     "respuestaEsperada": "Comprende el objetivo: 7 frutos para 7 pichones",
+     "respuestaSistema": "Muestra globo con 7 pichones + diálogo de los personajes",
+     "feedback": "—",
+     "proximaAccion": "Toca CONTINUAR"
+    },
+    {
+     "id": "imp-4f2a703c24d9478f",
+     "accionNino": "Toca CONTINUAR",
+     "respuestaEsperada": "Iniciar la recolección",
+     "respuestaSistema": "Carga P1-03 con consigna y canasta vacía",
+     "feedback": "Aparece consigna escrita + audio",
+     "proximaAccion": "Comienza a buscar frutos"
+    },
+    {
+     "id": "imp-642c1f855bb54039",
+     "accionNino": "Toca zona con fruto",
+     "respuestaEsperada": "Encontrar y sumar a la canasta",
+     "respuestaSistema": "El fruto se revela, se anima y se traslada a la canasta con sonido",
+     "feedback": "—",
+     "proximaAccion": "Sigue buscando o toca ¡LISTO!"
+    },
+    {
+     "id": "imp-8fef85fd026b4da9",
+     "accionNino": "Toca zona sin fruto",
+     "respuestaEsperada": "Explora la escena",
+     "respuestaSistema": "No ocurre nada visible; la zona permanece igual",
+     "feedback": "—",
+     "proximaAccion": "Sigue explorando"
+    },
+    {
+     "id": "imp-7ccdc73ed6d6414c",
+     "accionNino": "Espera sin tocar >20s",
+     "respuestaEsperada": "Necesita guía",
+     "respuestaSistema": "Se mueve una hoja/tronco como pista visual",
+     "feedback": "Sugerencia visual",
+     "proximaAccion": "Toca la zona indicada"
+    },
+    {
+     "id": "imp-0bf807f940254f8f",
+     "accionNino": "Sigue sin tocar tras pista visual",
+     "respuestaEsperada": "Necesita guía verbal",
+     "respuestaSistema": "Kapi dice la pista verbal",
+     "feedback": "Mensaje de Kapi",
+     "proximaAccion": "Toca detrás del tronco"
+    },
+    {
+     "id": "imp-e17bd587fcb24b97",
+     "accionNino": "Toca ¡LISTO! con menos de 7 frutos",
+     "respuestaEsperada": "Confirma recolección incompleta",
+     "respuestaSistema": "Pichones sin fruto: expresión triste. Aparece SEGUIR",
+     "feedback": "Kapi: \"Falta algún fruto…\"",
+     "proximaAccion": "Toca SEGUIR completa"
+    },
+    {
+     "id": "imp-1d32943333584c3b",
+     "accionNino": "Toca ¡LISTO!\ncon 7 frutos",
+     "respuestaEsperada": "Logra la correspondencia",
+     "respuestaSistema": "Pichones celebran. Kapi y Tataendy felicitan. Avance automático",
+     "feedback": "Kapi: ¡Lo hicimos! Tataendy: agradece",
+     "proximaAccion": "Pasa a siguiente actividad"
+    },
+    {
+     "id": "imp-1da510fa3cd1458a",
+     "accionNino": "Toca ¡LISTO!\ncon más de 7 frutos",
+     "respuestaEsperada": "Confirma recolección excesiva",
+     "respuestaSistema": "Pichón con duda. Aparecen ELIMINAR + SEGUIR",
+     "feedback": "Kapi: \"Juntamos de más…\"",
+     "proximaAccion": "Elige opción de ajuste"
+    },
+    {
+     "id": "imp-2b4af7fb348a44f3",
+     "accionNino": "Toca ELIMINAR frutos",
+     "respuestaEsperada": "Quita los sobrantes",
+     "respuestaSistema": "Cada toque elimina un fruto de la canasta. Actualiza visualmente.",
+     "feedback": "—",
+     "proximaAccion": "Al llegar a 7\ntoca ¡LISTO!"
+    },
+    {
+     "id": "imp-06cb0f37d8dc4257",
+     "accionNino": "Toca SEGUIR",
+     "respuestaEsperada": "Vuelve a buscar",
+     "respuestaSistema": "Se mantienen los frutos encontrados; puede buscar más",
+     "feedback": "—",
+     "proximaAccion": "Continúa recolectando"
+    }
+   ],
+   "storyboard": [
+    {
+     "id": "imp-dccb612358ac4fdf",
+     "pantallaRef": "P1-01 — Inicio",
+     "queVe": "Paisaje soleado de Esteros del Iberá. Kapi camina despacito, mirando el suelo con cara triste. Aparece Tataendy volando. Dialogan. Al finalizar todo el audio → botón ¡EMPEZAR! grande y centrado.",
+     "queEscucha": "Narración de apertura",
+     "queHace": "Escucha, mira. Cuando aparece, toca ¡EMPEZAR!.",
+     "quePuedePasar": "Toca antes de tiempo → el botón no aparece hasta que termina el audio.",
+     "queHaceSistema": "Reproduce audio en secuencia; sincroniza animaciones de los personajes; muestra el botón solo al finalizar. Al tocarlo → transición a P1-02.",
+     "feedback": "Todo el relato es la devolución narrativa.",
+     "comoContinua": "Pasa a P1-02 automáticamente tras tocar el botón."
+    },
+    {
+     "id": "imp-93a3055c20e8464e",
+     "pantallaRef": "P1-02 — La palmera y los pichones",
+     "queVe": "Palmera de pindó en escena. Kapi y Tataendy llegan. Aparece globo de pensamiento con 7 pichones. Dialogan. Botón CONTINUAR.",
+     "queEscucha": "Narrador: descripción de la palmera y frutos escondidos → Tataendy pregunta si encontrarán suficientes para los 7 pichones → Kapi: hay que averiguarlo → Narrador: ¿Podrán encontrarlos?",
+     "queHace": "Escucha, observa el número de pichones. Toca CONTINUAR.",
+     "quePuedePasar": "Toca otras zonas de la pantalla → no hay interacción; solo avanza el botón.",
+     "queHaceSistema": "Reproduce audio y muestra el globo con los 7 pichones de forma permanente. Al tocar CONTINUAR → carga P1-03.",
+     "feedback": "Diálogo narrativo.",
+     "comoContinua": "Pasa a P1-03 con la consigna y la canasta."
+    },
+    {
+     "id": "imp-a471638b2ffd4d20",
+     "pantallaRef": "P1-03 — Juntando frutos (Actividad principal)",
+     "queVe": "Escena de la palmera. Globo con 7 pichones arriba a la derecha. Canasta vacía abajo centro. Consigna escrita: \"Juntando frutos… sin que sobren ni falten\". Zonas táctiles marcadas sutilmente. Botón ¡LISTO! debajo de la canasta.",
+     "queEscucha": "Lectura de la consigna → silencio para actuar → según lo que haga: pista visual/pista verbal/faltan/sobran/éxito.",
+     "queHace": "Toca hojas, tronco, arbustos. Los frutos encontrados van a la canasta. Cuando cree tener los 7 → toca ¡LISTO!. Si sobran → elimina tocando los frutos.",
+     "quePuedePasar": "• Toca y encuentra fruto a la canasta\n• Toca y no hay sin efecto\n• No toca >10s pista visual\n• Sigue sin tocar Kapi habla\n• Menos de 7 pichones tristes + SEGUIR\n• Exacto 7 celebración + avance\n• Más de 7 pichón duda + ELIMINAR/SEGUIR",
+     "queHaceSistema": "Detecta toques en zonas con/sin fruto. Mueve frutos a la canasta. Cuenta y compara frutos vs pichones. Dispara pistas según tiempo. Muestra los botones correspondientes.",
+     "feedback": "• Pista visual: movimiento de hoja\n• Pista verbal: Kapi indica dónde mirar\n• Faltan: invitación a completar\n• Sobran: recordatorio de \"uno por cada uno\"\n• Éxito: celebración colectiva + cierre de historia",
+     "comoContinua": "Al llegar a 7 avance automático a la siguiente actividad de la secuencia."
+    }
+   ],
+   "casosLimite": [
+    {
+     "id": "imp-806c8393529e4e83",
+     "situacion": "El niño no responde durante un tiempo prolongado.",
+     "comportamiento": "Primero: hoja/tronco se mueve suavemente. Luego: Kapi dice \"¡Parece que vi un fruto detrás del tronco!\"",
+     "feedback": "",
+     "accionPosterior": "El niño retoma la búsqueda; las pistas no bloquean la pantalla.",
+     "noAplica": false,
+     "condicion": "Tras 20 seg sin tocar nada → animación de pista visual. Tras otros 15 seg sin acción → Kapi habla.",
+     "nota": "Situación en el documento: No responde tiempo prolongado"
+    },
+    {
+     "id": "imp-849ad47e5f9c4937",
+     "situacion": "Toca repetidamente sin avanzar.",
+     "comportamiento": "Ningún mensaje negativo; si no hay fruto, no pasa nada.",
+     "feedback": "",
+     "accionPosterior": "Continúa buscando; no hay límite de toques.",
+     "noAplica": false,
+     "condicion": "Toca la misma zona o varias zonas sin encontrar fruto",
+     "nota": ""
+    },
+    {
+     "id": "imp-dcc5ad1e410946fe",
+     "situacion": "Arrastra un objeto a una zona incorrecta.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-27cef57dddb74a98",
+     "situacion": "Intenta colocar un objeto donde no corresponde.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-d638d05117d047ee",
+     "situacion": "Responde parcialmente.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-bc797c7312fe4bf4",
+     "situacion": "Selecciona dos opciones a la vez.",
+     "comportamiento": "Se procesa la primera acción detectada; se resalta el botón activo.",
+     "feedback": "",
+     "accionPosterior": "Continúa según la opción elegida.",
+     "noAplica": false,
+     "condicion": "Toca ELIMINAR y SEGUIR simultáneamente",
+     "nota": "Situación en el documento: Selecciona dos botones a la vez"
+    },
+    {
+     "id": "imp-d67d7eac64a0485c",
+     "situacion": "Borra una respuesta ya dada.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-9c276ee4eb864a3e",
+     "situacion": "Abandona la actividad.",
+     "comportamiento": "Recupera la cantidad de frutos que tenía guardada. Si estaba en mitad de un diálogo, lo retoma.",
+     "feedback": "",
+     "accionPosterior": "Continúa sin reiniciar.",
+     "noAplica": false,
+     "condicion": "Cierra y vuelve a entrar",
+     "nota": "Situación en el documento: Abandona y reingresa"
+    },
+    {
+     "id": "imp-0cc6516c81d54dc8",
+     "situacion": "Vuelve a entrar (reingreso).",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-bf3137389ea44b57",
+     "situacion": "Reinicia la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-c087eeb22689445b",
+     "situacion": "Pierde la conexión a mitad de la actividad.",
+     "comportamiento": "Guarda el último estado local. Al reconectar: \"Seguimos donde estábamos\".",
+     "feedback": "",
+     "accionPosterior": "Retoma exactamente donde quedó.",
+     "noAplica": false,
+     "condicion": "Se corta internet a mitad de la actividad",
+     "nota": "Situación en el documento: Pierde conexión"
+    },
+    {
+     "id": "imp-156dc694a1554f8f",
+     "situacion": "Usa una pantalla reducida.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-0ef9836c95534a7d",
+     "situacion": "Usa tablet.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-68da980916ad448a",
+     "situacion": "Usa netbook.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-e1c7e789ba03497f",
+     "situacion": "Escucha sin mirar la pantalla.",
+     "comportamiento": "El audio indica dónde tocar, qué pasa, cómo va.",
+     "feedback": "",
+     "accionPosterior": "Puede resolver solo con audio.",
+     "noAplica": false,
+     "condicion": "Toda la información relevante tiene audio descriptivo",
+     "nota": "Situación en el documento: Escucha sin mirar pantalla"
+    },
+    {
+     "id": "imp-5b4ef83eec5b41c1",
+     "situacion": "Mira sin escuchar.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-ceb0b21ec2a24bb1",
+     "situacion": "Toca fruto ya recolectado / en canasta",
+     "comportamiento": "El fruto sale de la canasta y vuelve a su lugar original. Contador se actualiza.",
+     "feedback": "",
+     "accionPosterior": "Puede seguir recolectando.",
+     "noAplica": false,
+     "condicion": "Toca un fruto dentro de la canasta estando en modo \"eliminar\"",
+     "nota": ""
+    },
+    {
+     "id": "imp-c16bf9e533684cd8",
+     "situacion": "Presiona ¡LISTO! sin frutos",
+     "comportamiento": "Kapi: \"Mmm… Parece que todavía falta algún fruto. Podés volver a mirar y seguir recolectando.\"",
+     "feedback": "",
+     "accionPosterior": "Vuelve a buscar sin restricción.",
+     "noAplica": false,
+     "condicion": "Canasta vacía + toca ¡LISTO!",
+     "nota": ""
+    },
+    {
+     "id": "imp-805f59566790482d",
+     "situacion": "Borra / elimina todos los frutos",
+     "comportamiento": "La canasta se ve vacía; no hay mensaje de error.",
+     "feedback": "",
+     "accionPosterior": "Puede volver a buscar todos los frutos.",
+     "noAplica": false,
+     "condicion": "Elimina hasta dejar la canasta vacía",
+     "nota": ""
+    }
+   ]
+  },
+  {
+   "numero": 2,
+   "importado": [],
+   "nombre": "Vuelo a la palmera",
+   "objetivo": "Reconocer el conteo como herramienta para recordar y reproducir una cantidad, aun cuando la referencia visual ya no esté presente.",
+   "contenido": "Conservación de la cantidad; correspondencia uno a uno; uso del conteo como estrategia para comparar colecciones sin presencia simultánea.",
+   "relacionSecuencia": "Sigue a la Actividad 1 — el juego de reconocimiento de cantidades. Ahora el niño debe aplicar el conteo para \"guardar\" una cantidad y reproducirla en otro lugar sin verla.",
+   "propositoDidactico": "Que cada niño explore por sí mismo: cuento, guardo en la cabeza, viajo sin ver y elijo la misma cantidad.",
+   "relacionAnterior": "En la Actividad 1 se contó con apoyo visual permanente; en esta actividad, la referencia desaparece y el niño debe confiar en lo que contó.",
+   "relacionSiguiente": "En la Actividad 3 se compartirán distintas formas de contar y se sistematizará la estrategia; aquí se construye la experiencia individual.",
+   "evidencia": "El niño cuenta uno por uno antes de viajar; selecciona la misma cantidad de frutos; si se equivoca, reacomoda o vuelve a contar con apoyo.",
+   "pasajeSiguiente": "Se habilita al tocar el botón SEGUIR, cuando el niño ha confirmado la selección y recibido la devolución.",
+   "situacion": {
+    "contexto": "Kapi y Tataendy deben llevar frutos a la palmera para los pichones. Primero cuentan cuántos pichones hay; luego viajan y ya no los ven; deben elegir la misma cantidad de frutos para que cada pichón reciba uno.",
+    "escenario": "P2-01 — Árbol con pichones visibles; P2-02 — Palmera de pindó con frutos; fondo de estero y cielo despejado; transición de vuelo entre ambas escenas.",
+    "personajes": "Kapi (carpincho), Tataendy (guacamayo)",
+    "queOcurre": "En el árbol hay pichones. Se cuentan uno por uno. Al viajar a la palmera ya no se ven. Hay que elegir la misma cantidad de frutos.",
+    "queProblema": "Cuando llegan a la palmera, los pichones ya no se ven. No se puede comparar mirando. Hay que confiar en lo que se contó antes de viajar."
+   },
+   "consigna": {
+    "textoPantalla": "Ayudá a Tataendy a recoger la cantidad de frutos necesaria para que cada pichón reciba uno. (en P2-02)",
+    "textoAudio": "Ayudá a Tataendy a recoger la cantidad de frutos necesaria para que cada pichón reciba uno.",
+    "quienLoDice": "Narrador",
+    "tono": "Cálido, invitante, entusiasta.",
+    "velocidad": "Moderada"
+   },
+   "mapa": {
+    "puntoEntrada": "P2-01 — El árbol de los pichones",
+    "pantallasInvolucradas": "P2-01, P2-02, P2-03 (apoyo)",
+    "decisionesNino": "Contar pichones → viajar → seleccionar frutos → confirmar → recibir resultado.",
+    "caminosPosibles": "Selección correcta → celebración y avance. Menor cantidad → apoyo para recontar y reintentar. Mayor cantidad → recordatorio de correspondencia uno a uno y reintentar.",
+    "reintentosAyudas": "Puede volver a contar en P2-01 antes de viajar. Si se equivoca en P2-02 → se habilita P2-03 con los pichones visibles para recontar con apoyo visual y auditivo.",
+    "recorrido": "INICIO: P2-01: Escena del árbol con pichones visibles. Diálogo entre Kapi y Tataendy. Botón: INICIAR.\nACCIÓN: P2-01:El niño puede contar los pichones tocando uno por uno. Se escucha el conteo. Cuando termina → presiona INICIAR.\nDECISIÓN: Transición de vuelo → P2-02: palmera con frutos. Los pichones ya no se ven. El niño selecciona la cantidad que recuerda: toca frutos → se marcan. Presiona RECOGER para confirmar.\nCONSECUENCIA: El sistema compara cantidad contada con cantidad seleccionada. Coincide celebración. Menor → \"Faltan frutos\" → va a P2-03. Mayor → \"Sobran\" → va a P2-03.\nFEEDBACK: ¡Exacto! Cada pichón tiene su fruto. Lo lograron. Faltan: \"Volvamos a contar juntos\" → P2-03 con apoyo. Sobran: \"Recordá: un fruto para cada uno\" → P2-03 con apoyo.\nPRÓXIMA ACCIÓN: Tras el apoyo en P2-03 → regresa a P2-02 y reintenta la selección.\nCIERRE: Acierto → Tataendy: \"¿Viste? Contar nos ayudó a saber cuántos frutos recoger.\" → SEGUIR → Actividad 3."
+   },
+   "pantallas": [
+    {
+     "id": "imp-534bed596dae456e",
+     "idPantalla": "P2-01",
+     "nombre": "El árbol de los pichones\nVuelo a la palmera",
+     "proposito": "Observar y contar la cantidad antes de viajar.",
+     "contenidoTextual": "Kapi, Tataendy y el árbol con los pichones. Botón INICIAR.",
+     "imagenesFondo": "Árbol frondoso con pichones visibles en los nidos(entre 6 y 10 pichones). Kapi y Tataendy al pie. Fondo de estero y cielo despejado.",
+     "botones": "INICIAR — inferior central, amplio.",
+     "animacion": "Al tocar cada pichón se ilumina suavemente; el conteo se escucha en voz. Al presionar iniciar, Tataendy inicia su vuelo hacia la palmera.",
+     "audio": "diálogo entre Kapi y Tataendy; Conteo: \"Uno… dos… tres…\"(al presionar sobre cada pichón de la imagen)",
+     "condicionAvance": "Presiona INICIAR."
+    },
+    {
+     "id": "imp-27a50bb7136b4ddf",
+     "idPantalla": "P2-02",
+     "nombre": "La palmera\nElegí los frutos.",
+     "proposito": "Seleccionar la misma cantidad sin ver la referencia.",
+     "contenidoTextual": "consigna textual: Ayudá a Tataendy a recoger la cantidad de frutos necesarios para que cada pichón reciba uno.",
+     "imagenesFondo": "Palmera con frutos visibles y bien espaciados. Kapi y Tataendy esperando. No hay pichones a la vista.",
+     "botones": "RECOGER — inferior central.",
+     "animacion": "Al tocar un fruto se marca visualmente (contorno + señal); no solo por color.",
+     "audio": "Ayudá a Tataendy a recoger la cantidad de frutos necesarios para que cada pichón reciba uno.",
+     "condicionAvance": "Presionar RECOGER tras seleccionar."
+    },
+    {
+     "id": "imp-a8cc31ed210c48a8",
+     "idPantalla": "P2-03",
+     "nombre": "Contemos juntos (apoyo)\nContemos de nuevo.",
+     "proposito": "Reconstruir la cantidad con apoyo visual y auditivo cuando hay error.",
+     "contenidoTextual": "Podés contar los pichones para saber cuántos frutos hay que recoger.",
+     "imagenesFondo": "El árbol con los pichones nuevamente visibles y resaltados al ser tocados. Misma perspectiva que P2-01.",
+     "botones": "VOLVER — inferior central",
+     "animacion": "Al tocar cada pichón se ilumina y se dice el número en voz.",
+     "audio": "Conteo acompañado paso a paso.",
+     "condicionAvance": "Presionar VOLVER → regresa a P2-02 con la referencia ya reafirmada."
+    }
+   ],
+   "interacciones": [
+    {
+     "id": "imp-2f0dee81e47743ee",
+     "accion": "TOCAR (pichones)",
+     "descripcion": "Recorre los pichones uno por uno con el dedo.",
+     "respuesta": "Cada pichón se ilumina y se nombra el número en voz: \"Uno… dos… tres…\""
+    },
+    {
+     "id": "imp-3ad08147b2364209",
+     "accion": "Presionar INICIAR",
+     "descripcion": "Confirma que ya sabe la cantidad.",
+     "respuesta": "Efecto de aleteo y transición suave → P2-02"
+    },
+    {
+     "id": "imp-6965682495be4101",
+     "accion": "SELECCIONAR",
+     "descripcion": "Elige un fruto en la palmera",
+     "respuesta": "Se marca con señal visual + efecto sonoro; se mantiene la cuenta visible. Si vuelve a seleccionar el mismo fruto, este se desmarca y se actualiza la cuenta."
+    },
+    {
+     "id": "imp-44aa2e06596146f5",
+     "accion": "Presionar RECOGER",
+     "descripcion": "Confirma su elección.",
+     "respuesta": "El sistema compara cantidad contada vs. seleccionada → devuelve resultado"
+    },
+    {
+     "id": "imp-9ba49525861b4cc1",
+     "accion": "Recibir apoyo y reintentar",
+     "descripcion": "Va a P2-03, reacomoda su recuerdo y vuelve a P2-02.",
+     "respuesta": "Se repite el conteo guiado; regresa a la palmera sin borrar el aprendizaje"
+    }
+   ],
+   "estados": [
+    {
+     "id": "imp-6678151f40754afd",
+     "estado": "1: Selección correcta",
+     "queHizo": "Seleccionó la cantidad de frutos correspondiente a la cantidad de pichones correctamente y presionó RECOGER.",
+     "queInterpreta": "La respuesta es correcta.",
+     "queOcurre": "Tataendy revolotea alegremente. La imagen muestra a Tataendy volviendo al árbol y de ve a los pichones contentos.",
+     "proximoPaso": "Avance directo a la Actividad 3."
+    },
+    {
+     "id": "imp-52c619edaa844bae",
+     "estado": "2: Menor cantidad seleccionada",
+     "queHizo": "Elige menos frutos que pichones y presiona RECOGER.",
+     "queInterpreta": "Recuerda parcialmente; necesita reafirmar la referencia.",
+     "queOcurre": "“Faltan frutos. Volvamos a contar juntos.\" → P2-03.",
+     "proximoPaso": "Recontar con apoyo → reintentar."
+    },
+    {
+     "id": "imp-82d5421bb91c4192",
+     "estado": "3: Mayor cantidad seleccionada",
+     "queHizo": "Elige más frutos que pichones y presiona RECOGER.",
+     "queInterpreta": "No consolidó la correspondencia uno a uno.",
+     "queOcurre": "\"Sobran frutos. Recordemos: un fruto para cada pichón.\" → P2-03",
+     "proximoPaso": "Recontar con apoyo → reintentar."
+    },
+    {
+     "id": "imp-34f55eb5b75842fc",
+     "estado": "4: Sin respuesta / duda",
+     "queHizo": "Mira los frutos sin tocar.",
+     "queInterpreta": "Necesita tiempo o recordatorio de la consigna.",
+     "queOcurre": "Tras pausa: \"¿Cuántos pichones contaste? Esa misma cantidad de frutos necesitamos.\"",
+     "proximoPaso": "Esperar o ayudar a recordar."
+    },
+    {
+     "id": "imp-631c4d1cd0634e4e",
+     "estado": "5: Interacción incompleta",
+     "queHizo": "No presiona botones, ni responde.",
+     "queInterpreta": "Necesita tiempo o recordatorio.",
+     "queOcurre": "Tras 20 segundos sin avance: se reitera la consigna suavemente.",
+     "proximoPaso": "Continúa en la misma pantalla."
+    },
+    {
+     "id": "imp-4c71b211e0404f46",
+     "estado": "6: Abandono",
+     "queHizo": "Sale sin terminar.",
+     "queInterpreta": "Se guarda: cantidad contada, pantalla, frutos seleccionados.",
+     "queOcurre": "Al reingresar retoma desde ese punto sin reiniciar.",
+     "proximoPaso": "Continúa normalmente."
+    },
+    {
+     "id": "imp-b5524db449f74a32",
+     "estado": "7: Reingreso",
+     "queHizo": "Vuelve tras interrupción",
+     "queInterpreta": "Recupera su proceso",
+     "queOcurre": "Retoma con la cantidad que ya había contado",
+     "proximoPaso": "Continúa su recorrido"
+    }
+   ],
+   "feedback": [
+    {
+     "id": "imp-79e9f994697046d0",
+     "estadoRef": "Selección correcta",
+     "queDebe": "Reconocimiento del logro y vinculación con la estrategia: contar es útil para armar una colección equivalente.",
+     "textoExacto": "No aplica",
+     "audioExacto": "¡Exacto! Cada pichón tiene su fruto. Lo lograron. Contar les ayudó a saber cuántos frutos recoger, aunque no veían a los pichones.",
+     "quienLoDice": "Tataendy",
+     "velocidad": "Moderada, entusiasta, cálida."
+    },
+    {
+     "id": "imp-0328041e954f470f",
+     "estadoRef": "Menor cantidad seleccionada",
+     "queDebe": "No reprochar; invitar a volver a mirar y contar con apoyo.",
+     "textoExacto": "No aplica",
+     "audioExacto": "Mmm… parece que faltan frutos. Volvé al árbol para contar los pichones y probá de nuevo.",
+     "quienLoDice": "Kapi",
+     "velocidad": "Suave, alentadora, sin reproche."
+    },
+    {
+     "id": "imp-8058f7a2ef81430c",
+     "estadoRef": "Mayor cantidad seleccionada",
+     "queDebe": "Recordar la regla sin calificar como error; volver a contar juntos.",
+     "textoExacto": "No aplica.",
+     "audioExacto": "Creo que elegimos algunos de más. Recordá que debe haber un fruto para cada pichón.Volvé al árbol para contarlos y probá de nuevo.",
+     "quienLoDice": "Kapi",
+     "velocidad": "Acompañante, orientadora."
+    },
+    {
+     "id": "imp-63863ccd73af481e",
+     "estadoRef": "Apoyo en P2-03",
+     "queSignifica": "Reconstruye la referencia con apoyo visual y auditivo; refuerza la correspondencia antes de reintentar.",
+     "queDebe": "Conteo guiado, claro, paso a paso; invitar a volver a aplicar.",
+     "textoExacto": "No aplica.",
+     "audioExacto": "al presionar los pichones:uno… dos… tres...\nAl presionar VOLVER: Ahora sí, buscá los frutos.",
+     "quienLoDice": "Kapi",
+     "velocidad": "Lenta, clara, acompañada."
+    }
+   ],
+   "personaje": [
+    {
+     "id": "imp-90d0c4f1fffc4f53",
+     "quienHabla": "Narrador",
+     "cuandoAparece": "P2-01",
+     "audio": "Kapi y Tataendy continúan recorriendo los esteros, pero… un momento.\n¡Tataendy, mirá hacia aquel árbol! Hay algunos nidos con pichones.",
+     "textoPantalla": "No aplica",
+     "accionPersonaje": "Se observa a Kapi y Tataendy llegando al árbol y levantando la vista para ver a los pichones",
+     "accionNino": "Escucha y observa."
+    },
+    {
+     "id": "imp-ad5fc16ec6e44dd0",
+     "quienHabla": "Tataendy",
+     "cuandoAparece": "P2-01",
+     "audio": "¡Uy! A estos pichones también les falta comida.",
+     "textoPantalla": "No aplica",
+     "accionNino": "Escucha y observa."
+    },
+    {
+     "id": "imp-862cba813701496f",
+     "quienHabla": "Kapi",
+     "cuandoAparece": "P2-01",
+     "audio": "Esta vez tenemos que estar muy atentos. ¿Podremos recordar cuántos frutos necesitamos?",
+     "textoPantalla": "No aplica",
+     "accionNino": "Escucha y observa."
+    },
+    {
+     "id": "imp-cfdf5d34b29642ce",
+     "quienHabla": "Narrador",
+     "cuandoAparece": "P2-01",
+     "audio": "Tataendy va a volar hasta la palmera para buscar los frutos.\nPero hay algo importante: cuando llegue a la palmera, ya no podrá ver los nidos.\nEntonces, ¿cómo podrá saber cuántos frutos necesita?\n(Pausa breve.)\n¡Claro! Primero tendremos que recordar cuántos pichones había.",
+     "textoPantalla": "No aplica",
+     "accionNino": "Observa y escucha."
+    },
+    {
+     "id": "imp-1e80c3447cdb4103",
+     "quienHabla": "Kapi",
+     "cuandoAparece": "P2-01",
+     "audio": "Tenemos que recordar bien cuántos son.",
+     "textoPantalla": "No aplica",
+     "accionPersonaje": "Señala los pichones con la manito.",
+     "accionNino": "Contar tocando uno por uno. Presiona INICIAR"
+    },
+    {
+     "id": "imp-abaa0b6a7940432a",
+     "quienHabla": "Narrador",
+     "cuandoAparece": "Selección correcta P2-02",
+     "audio": "¡Tataendy vuelve volando, feliz! Los pichones ya van a comer.",
+     "textoPantalla": "¡Lo logramos!",
+     "accionPersonaje": "Tataendy vuela hacia el árbol.",
+     "accionNino": "observa y escucha."
+    },
+    {
+     "id": "imp-fbd0f586d8c24112",
+     "quienHabla": "Tataendy",
+     "cuandoAparece": "Selección correcta P2-02",
+     "audio": "¡Lo logramos Kapi! ¡Cada pichón tiene su fruto!",
+     "textoPantalla": "No aplica",
+     "accionPersonaje": "Celebra volando alegremente.",
+     "accionNino": "Observa y escucha."
+    },
+    {
+     "id": "imp-e8b5cb9c09be4161",
+     "quienHabla": "Kapi",
+     "cuandoAparece": "Selección correcta P2-02",
+     "audio": "¡Sí! ¡Qué bueno que pudimos ayudarlos!",
+     "textoPantalla": "No aplica",
+     "accionPersonaje": "Kapi celebra.",
+     "accionNino": "Observa y escucha."
+    },
+    {
+     "id": "imp-c60eb75ef320491b",
+     "quienHabla": "Narrador",
+     "cuandoAparece": "Selección correcta P2-02",
+     "audio": "Tataendy y Kapi se preparan para continuar su camino, pero de repente Kapi mira hacia otros árboles.",
+     "textoPantalla": "No aplica",
+     "accionPersonaje": "Kapi y Tataendy continúan su camino.",
+     "accionNino": "Observa y escucha."
+    },
+    {
+     "id": "imp-61ff64ed28db4a19",
+     "quienHabla": "Kapi",
+     "cuandoAparece": "Selección correcta P2-02",
+     "audio": "Pero, Tataendy… ¡mirá! ¡Hay más pichones que están esperando su comida!",
+     "textoPantalla": "No aplica",
+     "accionPersonaje": "Kapi señala un árbol a lo lejos.",
+     "accionNino": "Observa y escucha"
+    },
+    {
+     "id": "imp-b2a76dfbfaea4169",
+     "quienHabla": "Kapi",
+     "cuandoAparece": "Error\nP2-02",
+     "audio": "Creo que elegimos algunos frutos de más. Recordá que necesitamos un fruto para cada pichón.\nVolvé al árbol para contarlos y probá de nuevo.",
+     "textoPantalla": "No aplica",
+     "accionPersonaje": "Aparece Kapi con cara dudosa.",
+     "accionNino": "va a P2-03"
+    },
+    {
+     "id": "imp-282d35b6ed92493f",
+     "quienHabla": "Kapi",
+     "cuandoAparece": "Error\nP2-02",
+     "audio": "Mmm… Parece que faltan frutos. Volvamos al árbol y para contar los pichones y probá de nuevo.",
+     "textoPantalla": "No aplica",
+     "accionPersonaje": "Aparece Kapi con cara dudosa.",
+     "accionNino": "va a P2-03"
+    },
+    {
+     "id": "imp-8346e532cbfa44f4",
+     "quienHabla": "Kapi",
+     "cuandoAparece": "P2-03",
+     "audio": "Ahora sí, buscá los frutos. (luego de presionar VOLVER)",
+     "textoPantalla": "Contemos.",
+     "accionPersonaje": "Alienta.",
+     "accionNino": "Selecciona los pichones y Kapi cuenta (audio)"
+    },
+    {
+     "id": "imp-a9fadab1b80a469b",
+     "quienHabla": "Tataendy",
+     "cuandoAparece": "Reintento exitoso",
+     "audio": "¡Esta vez sí! ¡Lo hiciste solito!",
+     "textoPantalla": "¡Genial!",
+     "accionPersonaje": "Aplaude con las alas.",
+     "accionNino": "Sentir confianza en su estrategia."
+    }
+   ],
+   "visual": {
+    "escenarioFondo": "Estilo uniforme del estero — tonos verdes, ocres, cielos claros. Ilustraciones grandes y reconocibles.",
+    "coloresDominantes": "Verde (hojas), marrón (tronco), naranja-dorado (frutos), amarillo suave (pichones). Transiciones suaves entre escenas.",
+    "objetosPersonajes": "Kapi abajo a la izquierda, Tataendy arriba a la derecha. Siempre visibles sin estorbar. Pichones y frutos con tamaño amplio.",
+    "tamanoUbicacion": "Lo que hay que contar o elegir siempre en el centro, tamaño destacado. Botones amplios abajo. Nada tapa lo importante.",
+    "iconografia": "Seleccionado = contorno + sombra + señal, NUNCA solo color. Iluminación suave al tocar. Transición de vuelo con movimiento suave."
+   },
+   "sonido": [
+    {
+     "id": "imp-0181bc1527274b15",
+     "sonId": "AUD-2-01",
+     "tipo": "Narración",
+     "descripcion": "Diálogo inicial entre Kapi y Tataendy",
+     "duracion": "20s",
+     "disparador": "Entrada a la pantalla P2-01",
+     "alternativa": "No"
+    },
+    {
+     "id": "imp-5048c7005a5a4465",
+     "sonId": "AUD-2-02",
+     "tipo": "Narración",
+     "descripcion": "Consigna inicial P2-02",
+     "duracion": "~20 s",
+     "disparador": "Entrada a pantalla",
+     "alternativa": "Sí"
+    },
+    {
+     "id": "imp-9c7b02cafba0418c",
+     "sonId": "AUD-2-03",
+     "tipo": "Conteo oral",
+     "descripcion": "\"Uno… dos… tres…\" al tocar pichones",
+     "duracion": "Por cada pichón",
+     "disparador": "Al tocar cada uno",
+     "alternativa": "No"
+    },
+    {
+     "id": "imp-cbaac80364fc495c",
+     "sonId": "SFX-2-01",
+     "tipo": "Efecto sonoro",
+     "descripcion": "Aleteo y vuelo al presionar INICIAR",
+     "duracion": "2 s",
+     "disparador": "Presionar botón",
+     "alternativa": "—"
+    },
+    {
+     "id": "imp-6905d166bf6043b5",
+     "sonId": "AUD-2-04",
+     "tipo": "Narración P2-02",
+     "descripcion": "Invitación a elegir frutos",
+     "duracion": "~15 s",
+     "disparador": "Entrada a pantalla",
+     "alternativa": "No"
+    },
+    {
+     "id": "imp-fbf5b888af614be7",
+     "sonId": "SFX-2-02",
+     "tipo": "Efecto sonoro",
+     "descripcion": "Tono agradable al seleccionar fruto",
+     "duracion": "1 s",
+     "disparador": "Tocar fruto",
+     "alternativa": "—"
+    },
+    {
+     "id": "imp-38459b6c2ad3448d",
+     "sonId": "AUD-2-05",
+     "tipo": "Feedback positivo",
+     "descripcion": "¡Exacto! Cada pichón tiene su fruto",
+     "duracion": "~10 s",
+     "disparador": "Tras RECOGER",
+     "alternativa": "No"
+    },
+    {
+     "id": "imp-1d123d9c779d4efa",
+     "sonId": "AUD-2-06",
+     "tipo": "Devolución menor",
+     "descripcion": "Faltan frutos. Volvamos a contar",
+     "duracion": "~12 s",
+     "disparador": "Tras RECOGER",
+     "alternativa": "Sí"
+    },
+    {
+     "id": "imp-ff5bc0b28b564d7c",
+     "sonId": "AUD-2-07",
+     "tipo": "Devolución mayor",
+     "descripcion": "Sobran frutos. Recordemos: uno para cada uno",
+     "duracion": "~12 s",
+     "disparador": "Tras RECOGER",
+     "alternativa": "Sí"
+    },
+    {
+     "id": "imp-0608090296d040fb",
+     "sonId": "AUD-2-08",
+     "tipo": "Conteo guiado P2-03",
+     "descripcion": "Uno… dos… tres. Hay tres pichones",
+     "duracion": "~15 s",
+     "disparador": "Entrada a pantalla",
+     "alternativa": "no"
+    },
+    {
+     "id": "imp-8b285183ade84f99",
+     "sonId": "MUS-2-01",
+     "tipo": "Música",
+     "descripcion": "Melodía suave de fondo, volumen bajo",
+     "duracion": "En bucle",
+     "disparador": "Toda actividad",
+     "alternativa": "—"
+    }
+   ],
+   "accesibilidad": {
+    "audioTexto": "No. Sólo la consigna aparece con audio y texto. El resto aparece sólo en audio",
+    "instruccionesClaras": "Lenguaje claro — frases cortas, vocabulario cercano, preguntas directas · Categoría: Lenguaje claro",
+    "alternativasColor": "Forma — contorno — sombra — señal; nunca solo el color indica selección o estado · Tipo de alternativa: Forma, iconografía, texto",
+    "tamanoBotones": "Adecuada — amplios, bien espaciados, fáciles de seleccionar · Categoría: Adecuada",
+    "cantidadInfo": "Una consigna principal; no se sobrecarga de elementos · Categoría: Una consigna principal"
+   },
+   "accesibilidadExtra": {
+    "modoAlternativo": "Audio — Texto — Sin límite de tiempo — Solo selección táctil, no requiere escritura · Selección: Audio, texto, táctil\nNo aplica."
+   },
+   "datos": {
+    "queRegistra": "cantidad de frutos seleccionada",
+    "tipoRespuesta": "Selección táctil — correspondencia de cantidades",
+    "respuestaEsperada": "Misma cantidad de frutos que de pichones",
+    "alternativasValidas": "No aplica",
+    "parcialmenteValidas": "No aplica"
+   },
+   "navFinal": {
+    "cuandoTermina": "Cuando el niño selecciona correctamente, confirma y recibe la celebración. No hay límite de intentos.",
+    "cuandoHabilita": "Tras presionar SEGUIR en pantalla de cierre.",
+    "completarTodo": "Puede continuar siempre. Cada error deriva en apoyo y reintento; no hay bloqueo.",
+    "variosIntentos": "Puede usar P2-03 cuantas veces necesite. Cada paso refuerza el aprendizaje; no se penaliza.",
+    "siAbandona": "Se guarda la pantalla, la cantidad contada y los frutos seleccionados. Al reingresar retoma sin reiniciar todo el recorrido."
+   },
+   "matriz": [
+    {
+     "id": "imp-c3d782897fd4402f",
+     "accionNino": "Contar los pichones tocando uno por uno",
+     "respuestaSistema": "Iluminar cada uno + nombrar el número; respetar su ritmo"
+    },
+    {
+     "id": "imp-e3137bfb51d44a8f",
+     "accionNino": "Presionar INICIAR cuando se sienta seguro",
+     "respuestaSistema": "Transición suave; desaparecer los pichones; presentar la consigna clara"
+    },
+    {
+     "id": "imp-1697c8bf7c0f4f12",
+     "accionNino": "Seleccionar/deseleccionar frutos según su recuerdo",
+     "respuestaSistema": "Marcar con señal visible + efecto; mantener la cuenta a la vista; sin juzgar"
+    },
+    {
+     "id": "imp-f5611ae010ca4a24",
+     "accionNino": "Presionar RECOGER para confirmar",
+     "respuestaSistema": "Comparar y devolver claro: coincide / faltan / sobran"
+    },
+    {
+     "id": "imp-f70959fd768f45a5",
+     "accionNino": "Reintentar tras el apoyo de P2-03",
+     "respuestaSistema": "Reconstruir la referencia; enviar a reelegir sin calificar como fracaso"
+    },
+    {
+     "id": "imp-0e395ab7acbf460e",
+     "accionNino": "Acierta y presiona SEGUIR",
+     "respuestaSistema": "Celebrar y vincular: → avanzar a Actividad 3"
+    }
+   ],
+   "storyboard": [
+    {
+     "id": "imp-5162eca7ad774f68",
+     "pantallaRef": "P2-01 — El árbol de los pichones",
+     "queHaceSistema": "Aparece el árbol con pichones → narración del contexto.\nEl niño toca y cuenta → cada pichón se ilumina y se nombra.\nPresiona INICIAR → efecto de transición → P2-02."
+    },
+    {
+     "id": "imp-7392a46de08d4759",
+     "pantallaRef": "P2-02 — La palmera",
+     "queHaceSistema": "Aparece la palmera con frutos, sin pichones → entra la consigna.\nEl niño toca frutos → se marcan. Puede cambiar hasta confirmar.\nPresiona RECOGER → el sistema compara:\nCoincide → celebración → SEGUIR .\nNo coincide → devolución → P2-03."
+    },
+    {
+     "id": "imp-896438b6132b4a1f",
+     "pantallaRef": "P2-03 — Contemos juntos (apoyo)",
+     "queHaceSistema": "Reaparecen los pichones → conteo guiado paso a paso.\nPresiona VOLVER → regresa a P2-02 con la referencia reforzada.\nReintenta la selección → confirma → resultado final → avance."
+    }
+   ],
+   "casosLimite": [
+    {
+     "id": "imp-68791fc05dea44db",
+     "situacion": "El niño no responde durante un tiempo prolongado.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-bd2c41932c824d92",
+     "situacion": "Toca repetidamente sin avanzar.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-d8cfdc5c75fd4d0a",
+     "situacion": "Arrastra un objeto a una zona incorrecta.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-88ea48bb1afe435a",
+     "situacion": "Intenta colocar un objeto donde no corresponde.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-d1a0bd8e1059421f",
+     "situacion": "Responde parcialmente.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-a8741d019be34d48",
+     "situacion": "Selecciona dos opciones a la vez.",
+     "comportamiento": "\"¿Necesitamos frutos para los pichones? Elegí la cantidad que recordás\"",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": "Situación en el documento: Selecciona cero frutos"
+    },
+    {
+     "id": "imp-858a355e25db477f",
+     "situacion": "Borra una respuesta ya dada.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-74e17a96ad0c4f5e",
+     "situacion": "Abandona la actividad.",
+     "comportamiento": "Al volver retoma ahí o directamente a P2-02, según lo que convenga",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": "Situación en el documento: Abandona en P2-03"
+    },
+    {
+     "id": "imp-1a1bf41f79794e64",
+     "situacion": "Vuelve a entrar (reingreso).",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-c1d786d01c464c66",
+     "situacion": "Reinicia la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-b9a27af8dfab475e",
+     "situacion": "Pierde la conexión a mitad de la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-748f42b1382b41bc",
+     "situacion": "Usa una pantalla reducida.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-9eb23ba3e8ad42e4",
+     "situacion": "Usa tablet.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-471a66f68fb8435b",
+     "situacion": "Usa netbook.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-0448e83001ab4cc7",
+     "situacion": "Escucha sin mirar la pantalla.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-95d205d6c13c4503",
+     "situacion": "Mira sin escuchar.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-1ccfea36ddd74efd",
+     "situacion": "Cambia de opinión varias veces antes de confirmar",
+     "comportamiento": "Se permite sin límite; cada cambio se refleja visualmente; confirma cuando quiera",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-4463245bfeee4c40",
+     "situacion": "Pide volver a P2-01 desde P2-02",
+     "comportamiento": "Se habilita sin penalización; puede recontar y viajar de nuevo",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-94d3448e11fd4a90",
+     "situacion": "Confirma sin haber seleccionado nada",
+     "comportamiento": "\"Aún no elegiste frutos. Tocá los que necesitás.\"",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-777c293d8d704873",
+     "situacion": "Se demora mucho en P2-02",
+     "comportamiento": "Tras 30 segundos: “¿Te acordás de cuántos pichones eran? Buscá esa misma cantidad de frutos.”",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    }
+   ]
+  },
+  {
+   "numero": 3,
+   "importado": [],
+   "nombre": "“Un mensaje para Tataendy”",
+   "objetivo": "Reconocer que una misma cantidad puede representarse de diferentes maneras.",
+   "contenido": "Relación entre cantidad y diferentes representaciones del cardinal; equivalencias entre colecciones.",
+   "relacionSecuencia": "",
+   "propositoDidactico": "Favorecer que el niño confronte diferentes formas de representar una misma cantidad y reconozca que el cardinal permanece aunque cambie la disposición.",
+   "relacionAnterior": "Retoma la experiencia de la Actividad 2, en la que el niño debió observar y contar los pichones para recordar una cantidad y luego seleccionar la misma cantidad de frutos.",
+   "relacionSiguiente": "Los conocimientos construidos en esta actividad serán recuperados y sistematizados en la Actividad 4 (donde se explicita que contar permite determinar cantidades y que una misma cantidad puede representarse de distintas maneras).",
+   "evidencia": "El niño selecciona las tarjetas que representan la misma cantidad, estableciendo relaciones, aunque las representaciones presentan diferentes disposiciones o formas.",
+   "pasajeSiguiente": "Una vez que el niño identifica correctamente las representaciones equivalentes del segundo mazo, aparece la devolución de Tataendy y se habilita automáticamente el paso a la Actividad 4 de sistematización.",
+   "situacion": {
+    "contexto": "Kapi observa que algunos pichones todavía necesitan alimento y propone dejarle un mensaje a Tataendy para que pueda saber cuántos frutos debe recoger, incluso cuando los pichones estén lejos.",
+    "escenario": "Los Esteros del Iberá. Kapi se encuentra junto al árbol y prepara diferentes mensajes para que Tataendy pueda reconocer la cantidad de frutos que necesita llevar.",
+    "personajes": "Kapi- Tataendy- Narrador",
+    "queOcurre": "Kapi necesita comunicarle a Tataendy cuántos frutos debe llevar para alimentar a los pichones. Para hacerlo, prepara diferentes mensajes.",
+    "queProblema": "Hay varios mensajes y no todos representan la misma cantidad."
+   },
+   "consigna": {
+    "textoPantalla": "“Observá los mensajes y seleccioná los que representan la misma cantidad.”",
+    "textoAudio": "“Observá los mensajes y seleccioná los que representan la misma cantidad.”",
+    "quienLoDice": "Kapi.",
+    "tono": "Claro y alentador.",
+    "velocidad": "Moderada"
+   },
+   "mapa": {
+    "puntoEntrada": "P3-01",
+    "pantallasInvolucradas": "P3-01 y P3-02.",
+    "decisionesNino": "El niño debe observar las tarjetas y decidir cuáles representan la misma cantidad.",
+    "caminosPosibles": "Existen diferentes caminos de resolución según las elecciones del niño. Puede seleccionar correctamente las representaciones, seleccionar alguna tarjeta que no corresponda o seleccionar solo algunas de las representaciones correctas.",
+    "reintentosAyudas": "El niño puede seleccionar nuevamente una tarjeta para deshacer su elección.",
+    "recorrido": "INICIO: Aparece Kapi junto al árbol con los pichones. Explica que preparó diferentes mensajes para Tataendy, pero necesita descubrir cuáles representan la misma cantidad. Finalizada la explicación, aparece el primer grupo de tarjetas.\nACCIÓN: El niño observa las cuatro tarjetas del primer grupo y compara sus representaciones. Puede contar los frutos o puntos, reconocer cantidades y relacionarlas con los números escritos. Selecciona las tarjetas que considera equivalentes.\nDECISIÓN: El niño decide qué tarjetas representan la misma cantidad y puede seleccionar o deseleccionar cada tarjeta. Cuando considere que completó su elección, presiona ENVIAR.\nCONSECUENCIA: El sistema analiza las tarjetas seleccionadas. Si hay una tarjeta que no corresponde, se solicita revisar la elección. Si faltan tarjetas correctas, se invita a continuar observando. Si la selección es correcta, se valida la respuesta y se habilita el segundo mazo.\nFEEDBACK: Ante una selección incorrecta: Kapi: “Mmm… Parece que no todas representan la misma cantidad. Revisá tus elecciones y quitá la que no corresponda.” Ante una selección incompleta: Kapi: “Todavía podés encontrar otro mensaje que represente la misma cantidad. Volvé a observar las tarjetas.” Ante una respuesta correcta: Tataendy: “¡Entendido! Estos mensajes representan la misma cantidad.”\nPRÓXIMA ACCIÓN: Una vez elegidos correctamente el primer grupo de mensajes, el niño pasa al segundo. Allí debe volver a observar, comparar y seleccionar las representaciones que corresponden a la misma cantidad.\nCIERRE: Al seleccionar correctamente el segundo grupo, Tataendy valida los mensajes seleccionados. La actividad finaliza y se habilita el paso a la Actividad 4: “Lo que aprendimos con Kapi y Tataendy”, destinada a sistematizar los conocimientos construidos."
+   },
+   "pantallas": [
+    {
+     "id": "imp-3df4a0014d1348b7",
+     "idPantalla": "P3-01",
+     "nombre": "Un mensaje para Tataendy.",
+     "proposito": "Introducir la situación problema mediante el relato narrativo y justificar la necesidad de usar representaciones numéricas.",
+     "contenidoTextual": "(Sin texto en pantalla durante el audio inicial; solo títulos contextuales si la interfaz lo requiere).",
+     "imagenesFondo": "Los esteros del Iberá, copa de los árboles con vegetación autóctona. Kapi en el suelo con expresión preocupada. En las ramas superiores, varios pichones dispersos con animación de llanto.",
+     "botones": "Ninguno durante la narración; transición automática.",
+     "animacion": "Pichones llorando levemente (movimiento de alas). Kapi mirando hacia arriba preocupado.",
+     "audio": "\"¡Kapi! Parece que algunos pichones todavía necesitan frutos. ¿Qué podemos hacer?\"\nKapi: \"¡Ya sé! Podemos dejarle un mensaje a Tataendy. Así podrá saber cuántos frutos necesitamos, aunque los pichones estén lejos.\"\nNarrador: \"Kapi prepara varios mensajes. Algunos tienen números, otros tienen dibujos y otros muestran puntos.\"\nKapi: \"Pero… ¡un momento! Hay varios mensajes y no sé cuáles representan la misma cantidad. ¿Me ayudás a descubrirlo?\"",
+     "condicionAvance": "Transición automática a la pantalla P1-07 una vez finalizada la alocución completa de los audios."
+    },
+    {
+     "id": "imp-e0947153b8dd4f61",
+     "idPantalla": "P3-02",
+     "nombre": "Selección y equiparación de tarjetas (Mazo 1 y Mazo 2)",
+     "proposito": "Evaluar y favorecer el reconocimiento de que un mismo cardinal (cantidad 6 y 7) se puede expresar mediante distintas representaciones.",
+     "contenidoTextual": "Observá los mensajes y seleccioná los que representan la misma cantidad.",
+     "imagenesFondo": "Esteros del Iberá, plano centrado despejado. Kapi a un lado de la pantalla en postura atenta y de acompañamiento. Tataendy aparece al validar correctamente. 4 tarjetas por mazo dispuestas en una grilla de 2x2 sin superposición.\nTARJETAS: en ambos casos aparecen 4 tarjetas. Las cuatro tarjetas se presentan de manera independiente, con suficiente espacio entre ellas para que puedan ser seleccionadas.\nPrimer grupo: El niño debe seleccionar las tarjetas que representan la cantidad 6.\nTarjeta 1: 6 dibujos de frutos de la palmera de pindó con una organización diferente a la de los puntos del dado. pueden ir todos alineados\nTarjeta 2: los números 1,2,3,4,5,6. pueden ir 123 arriba y 456 debajo.\nTarjeta 3: el número 6.\nTarjeta 4: 6 puntos organizados como en un dado.\nSegundo grupo: El niño debe seleccionar las tarjetas que representan la cantidad 7.\nTarjeta 1: El número 7 en espejo\nTarjeta 2: el número 7.\nTarjeta 3: 7 frutos de la palmera de inga distribuidos de la siguiente manera: 2-3-2 de arriba a abajo.\nTarjeta 4: 7 puntos distribuidos en filas de la siguiente manera: 3- 3-1",
+     "botones": "Botón de reproducción de audio de consigna (icono de parlante).\nBotón ENVIAR (deshabilitado hasta seleccionar al menos una tarjeta).",
+     "animacion": "Al presionar una tarjeta: resplandor dorado en los bordes. Al desmarcar: retorno a posición base y desaparición del resplandor. Al resolver correctamente: Tataendy sobrevuela la escena con animación alegre.",
+     "audio": "Audio de consigna: \"Observá los mensajes y seleccioná los que representan la misma cantidad.\"\nAudios de feedback de Kapi y Tataendy según interacción.",
+     "condicionAvance": "Para pasar de Mazo 1 a Mazo 2: Seleccionar correctamente las 3 tarjetas equivalentes al 6 y presionar ENVIAR. Para finalizar la Actividad 3: Seleccionar correctamente las 3 tarjetas equivalentes al 7 en el Mazo 2 y presionar ENVIAR."
+    }
+   ],
+   "interacciones": [
+    {
+     "id": "imp-56881a375bdc469d",
+     "accion": "Escuchar.",
+     "descripcion": "El niño presiona el botón de audio con icono de parlante situado junto a la consigna.",
+     "respuesta": "Se reproduce la locución de la consigna en voz alta y se ilumina levemente el icono de parlante mientras suena el audio."
+    },
+    {
+     "id": "imp-8933e56461234528",
+     "accion": "Tocar/ Seleccionar",
+     "descripcion": "El niño selecciona una tarjeta",
+     "respuesta": "La tarjeta se desplaza 5px hacia arriba, su borde se torna de color verde/dorado y se reproduce un efecto sonoro suave (pop/clic). Se registra la tarjeta en el estado interno de la selección actual. Se habilita el botón ENVIAR , si hay al menos una tarjeta seleccionada."
+    },
+    {
+     "id": "imp-6da8c040efc5413b",
+     "accion": "Tocar/seleccionar",
+     "descripcion": "El niño realiza un segundo tap sobre una tarjeta que ya se encontraba seleccionada.",
+     "respuesta": "La tarjeta regresa a su posición original, pierde el borde destacado y se emite un sonido sutil de cancelación. Se remueve de la lista de selección actual. Si no quedan tarjetas elegidas, el botón ENVIAR, y vuelve a estado deshabilitado."
+    },
+    {
+     "id": "imp-e843fbe001054fb2",
+     "accion": "Tocar/ Confirmar.",
+     "descripcion": "El niño presiona el botón ENVIAR.",
+     "respuesta": "El sistema evalúa el conjunto de tarjetas elegidas contra el patrón correcto (cardinal 6 en Mazo 1, cardinal 7 en Mazo 2) y dispara el estado pedagógico correspondiente (Respuesta correcta, parcialmente correcta, error frecuente, etc.)."
+    }
+   ],
+   "estados": [
+    {
+     "id": "imp-5840c5374d444641",
+     "estado": "Respuesta correcta",
+     "queHizo": "En Mazo 1 eligió exactamente las 3 tarjetas del cardinal 6 (Frutos, Numeral 6, Puntos del dado). En el mazo 2 eligió exactamente las 3 tarjetas del cardinal 7 (Numeral 7, Frutos ingá 2-3-2, Puntos 3-3-1). Presionó ENVIAR.",
+     "queInterpreta": "El niño reconoce el cardinal de la colección y su equivalencia en distintas formas de representación (dibujo, constelación y cifra).",
+     "queOcurre": "Las 3 tarjetas seleccionadas brillan. Aparece Tataendy volando alegremente y pronuncia su frase de validación.",
+     "proximoPaso": "Si fue en Mazo 1, se limpian las tarjetas y se despliega el Mazo 2. Si fue en Mazo 2, avanza automáticamente a la Actividad 4."
+    },
+    {
+     "id": "imp-d24b56efaf4c4d71",
+     "estado": "Respuesta incorrecta (Incluye tarjeta distractora)",
+     "queHizo": "Seleccionó al menos una tarjeta que no corresponde a la cantidad requerida (ej. eligió la tarjeta 1 2 3 4 5 6 en Mazo 1, o el 7 en espejo en Mazo 2) y presionó ENVIAR.",
+     "queInterpreta": "la respuesta es incorrecta",
+     "queOcurre": "Las tarjetas permanecen seleccionadas. Kapi realiza una animación de duda y emite el audio de revisión. No se descuentan puntos ni se bloquea la pantalla.",
+     "proximoPaso": "El niño puede desmarcar la tarjeta incorrecta y probar nuevamente."
+    },
+    {
+     "id": "imp-760f989903884c22",
+     "estado": "Respuesta parcialmente correcta (Selección incompleta)",
+     "queHizo": "Seleccionó 1 o 2 tarjetas correctas (ej. solo la tarjeta del número 6 y la de los puntos), pero omitió la tercera tarjeta correcta, y presionó ENVIAR.",
+     "queInterpreta": "El niño identificó la equivalencia en algunas representaciones, pero no ha completado el análisis de la totalidad de las opciones disponibles.",
+     "queOcurre": "Se mantienen marcadas las tarjetas que eligió. Kapi interviene motivando a buscar más tarjetas que expresan la misma cantidad.",
+     "proximoPaso": "El niño continúa observando el mazo, selecciona la tarjeta faltante y presiona nuevamente ENVIAR."
+    },
+    {
+     "id": "imp-b0b0ef08d61e4ed8",
+     "estado": "Error frecuente identificado (Elección del 7 en espejo)",
+     "queHizo": "En el Mazo 2, incluyó la Tarjeta 1 (reflectbox7) dentro de su selección y presionó ENVIAR.",
+     "queInterpreta": "El niño identifica el valor cardinal 7 pero se encuentra en etapa de conceptualización de la orientación de las escrituras numéricas (escritura en espejo).",
+     "queOcurre": "El sistema activa una pista sutil: la tarjeta del 7 en espejo parpadea suavemente y Kapi ofrece una retroalimentación específica orientativa.",
+     "proximoPaso": "El niño desmarca el 7 en espejo, selecciona el 7 escrito correctamente y confirma la elección."
+    },
+    {
+     "id": "imp-1d892bffe6584658",
+     "estado": "Sin respuesta",
+     "queHizo": "La pantalla P1-07 se mantiene cargada durante 25 segundos sin que el niño realice ningún tap sobre las tarjetas ni sobre el audio.",
+     "queInterpreta": "El alumno puede estar dudando, distraído o no haber comprendido la consigna de selección.",
+     "queOcurre": "Kapi realiza un pequeño movimiento para llamar la atención (saluda con la mano) y el botón de audio se ilumina suavemente.",
+     "proximoPaso": "Se reproduce automáticamente el audio de apoyo/recordatorio de Kapi."
+    }
+   ],
+   "feedback": [
+    {
+     "id": "imp-27e06698146d4ddb",
+     "estadoRef": "Respuesta correcta (Mazo 1 y Mazo 2).",
+     "queSignifica": "Feedback 1: Validación de Mazo Completo (Respuesta correcta)\nAfirmación del logro; ratificación de que distintas representaciones (dibujo, puntos, cifra) refieren a una misma cantidad cardinal.",
+     "queDebe": "Animación de Tataendy volando felizmente sobre la escena.",
+     "textoExacto": "no aplica",
+     "audioExacto": "\"¡Entendido! Estas tarjetas representan la misma cantidad.\"",
+     "quienLoDice": "Tataendy.",
+     "velocidad": "Normal (1.0x), tono festivo y claro."
+    },
+    {
+     "id": "imp-8bb7334266d047d1",
+     "estadoRef": "Respuesta incorrecta.",
+     "queSignifica": "Feedback 2: Detección de Tarjetas Erróneas (Respuesta incorrecta / Incluye distractor)\nPromover la autocrítica y revisión de la estrategia sin sanción; invitar a desmarcar la opción no equivalente.",
+     "queDebe": "Animación de Kapi rascándose la cabeza con gesto pensativo.",
+     "textoExacto": "no aplica",
+     "audioExacto": "\"Mmm… Parece que no todas representan la misma cantidad. Revisá tus elecciones y quitá la que no corresponde.\"",
+     "quienLoDice": "Kapi.",
+     "velocidad": "Pausada (0.9x), registro afectivo y cercano."
+    },
+    {
+     "id": "imp-deddea4c5b7a4eb3",
+     "estadoRef": "Respuesta parcialmente correcta.",
+     "queSignifica": "Feedback 3: Selección Incompleta (Respuesta parcialmente correcta)\nEstimular el análisis exhaustivo del mazo para reconocer que existen más formas de representar la misma cantidad en pantalla.",
+     "queDebe": "Kapi señalando hacia las tarjetas del tapete.",
+     "textoExacto": "no aplica",
+     "audioExacto": "\"Todavía podés encontrar otro mensaje que represente la misma cantidad. Volvé a observar las tarjetas.\"",
+     "quienLoDice": "Kapi.",
+     "velocidad": "Normal (1.0x), tono motivador."
+    },
+    {
+     "id": "imp-5cbb1b0d609f4490",
+     "estadoRef": "Error frecuente identificado (Tarjeta $\\reflectbox{7}$ en Mazo 2).",
+     "queSignifica": "Feedback 4: Orientación por Escritura en Espejo (Error frecuente identificado)\nGuiar la atención hacia el trazo convencional de la cifra sin desacreditar la noción numérica del niño.",
+     "queDebe": "Iluminación/titileo suave en la tarjeta del 7 en espejo.",
+     "textoExacto": "no aplica",
+     "audioExacto": "\"Mmm... ese número parece estar mirando hacia el otro lado. ¿Probamos con el 7 escrito correctamente?\"",
+     "quienLoDice": "Kapi.",
+     "velocidad": "Pausada (0.9x), tono amable y explicativo."
+    },
+    {
+     "id": "imp-954fe556e4a54147",
+     "estadoRef": "Sin respuesta.",
+     "queSignifica": "Feedback 5: Prompteo por Inactividad (Sin respuesta)\nAndamiaje de atención; reorientar al alumno hacia la consigna del juego.",
+     "queDebe": "Resplandor intermitente en el botón de audio y leve wave de Kapi.",
+     "textoExacto": "no aplica",
+     "audioExacto": "\"Recordá que podés contar los puntos y frutos de las tarjetas para encontrar las que son iguales.\"",
+     "quienLoDice": "Kapi.",
+     "velocidad": "Normal (1.0x)."
+    }
+   ],
+   "personaje": [
+    {
+     "id": "imp-519f2984c0424940",
+     "quienHabla": "Narrador / Kapi",
+     "cuandoAparece": "Pantalla P3-01 (Inicio de la Actividad 3 - Ambientación).",
+     "audio": "Narrador: \"¡Kapi! Parece que algunos pichones todavía necesitan frutos. ¿Qué podemos hacer?\"\nKapi: \"¡Ya sé! Podemos dejarle un mensaje a Tataendy. Así podrá saber cuántos frutos necesitamos, aunque los pichones estén lejos.\"\nNarrador: \"Kapi prepara varios mensajes. Algunos tienen números, otros tienen dibujos y otros muestran puntos.\"\nKapi: \"Pero… ¡un momento! Hay varios mensajes y no sé cuáles representan la misma cantidad. ¿Me ayudás a descubrirlo?\"",
+     "textoPantalla": "(Sin texto superpuesto en el inicio narrativo).",
+     "accionPersonaje": "Kapi mira hacia el árbol con pichones, pone cara de idea brillante al exclamar \"¡Ya sé!\" y muestra las tarjetas en sus manos.",
+     "accionNino": "Observar y escuchar la introducción narrativa."
+    },
+    {
+     "id": "imp-8989aa974c654a50",
+     "quienHabla": "Kapi",
+     "cuandoAparece": "Pantalla P3-02 (Durante la revisión de selecciones incorrectas o incompletas).",
+     "audio": "-",
+     "textoPantalla": "\"Mmm… Parece que no todas representan la misma cantidad. Revisá tus elecciones y quitá la que no corresponde.\"",
+     "accionPersonaje": "Coloca la pata en el mentón con pose pensativa.",
+     "accionNino": "Desmarcar la tarjeta sobrante/errónea y presionar nuevamente ENVIAR."
+    },
+    {
+     "id": "imp-88ffca0dcd8c4096",
+     "quienHabla": "Tataendy",
+     "cuandoAparece": "Pantalla P3-02 (Al resolver exitosamente Mazo 1 o Mazo 2).",
+     "audio": "\"¡Entendido! Estas tarjetas representan la misma cantidad.\"",
+     "textoPantalla": "-",
+     "accionPersonaje": "Tataendy entra volando desde el margen superior, da un giro alegre y se posa cerca de Kapi.",
+     "accionNino": "Observar el éxito de la interacción y prepararse para el siguiente mazo o la pantalla de cierre.",
+     "fraseConexion": "(Transición Mazo 1 a Mazo 2)\nAudio exacto (Kapi): \"¡Buenísimo! Ya descubrimos los mensajes del 6. ¡Ahora miremos estas nuevas tarjetas!\""
+    }
+   ],
+   "visual": {
+    "escenarioFondo": "-Paisaje ilustrado de los Esteros del Iberá al atardecer suave.\n-Vegetación nativa: juncos, palmeras de pindó y copas de árboles con tonalidades verdes cálidas y cielo celeste.\n-Textura de fondo limpia para mantener alto contraste con las tarjetas.",
+    "coloresDominantes": "Verde estero (#4CAF50), Celeste agua/cielo (#81D4FA), Marrón tierra/madera (#795548), Amarillo sol/oro (#FFD54F) para los elementos activos.",
+    "objetosPersonajes": "Kapi: Carpincho de trazos amables, tonos marrones cálidos, ubicado en el cuadrante inferior izquierdo.\nTataendy: Guacamayo rojo, azul y amarillo de alto contraste, ubicado en el área superior/central al aparecer.\nTarjetas de mensajes: Rectángulos de esquinas redondeadas en color crema/papel artesanal (#FFFDE7) con borde marrón suave.",
+    "tamanoUbicacion": "Área de consigna: Franja superior que se extiende de lado a lado con tipografía sans-serif legible (tamaño grande, contraste oscuro sobre claro). Icono de parlante a la izquierda de 48x48 px.\nGrilla de tarjetas (2x2): Ocupa el centro de la pantalla. Cada tarjeta tiene una dimensión mínima de 140x180 px para garantizar una superficie de tap amplia (cumpliendo pautas DUA y accesibilidad motriz).\nKapi: Ubicado en la esquina inferior izquierda (aproximadamente 20% del ancho de pantalla), acompañando sin ocultar las tarjetas.\nBotón ENVIAR MENSAJE: Ubicado en la esquina inferior derecha, tamaño destacado (ancho 220px, alto 60px), color verde brillante (#2E7D32) con texto en blanco de alto contraste.",
+    "iconografia": "Icono de parlante (Audio): Icono simple de altavoz en color azul.\nEstado de Tarjeta Inactiva: Fondo crema, borde marrón de 2px, sombra paralela tenue.\nEstado de Tarjeta Seleccionada: Resplandor exterior verde/dorado de 6px, elevación sutil, borde verde de 4px.\nEstado de Tarjeta Errónea (Feedback): Sacudida horizontal sutil (shake) y borde rojizo suave de 3px durante 1 segundo antes de volver al estado seleccionado/evaluable.\nEstado del Botón Confirmar: Deshabilitado: Color gris claro (#BDBDBD), sin sombra, no interactivo. Habilitado: Color verde vivo (#2E7D32), sombra de elevación, interactivo al tap."
+   },
+   "sonido": [
+    {
+     "id": "imp-01226ee1d6c746b4",
+     "sonId": "AUD-3-01",
+     "tipo": "Narración",
+     "duracion": "18 segundos",
+     "disparador": "Inicio automático al ingresar a la Pantalla P1-06 (ambientación narrativa de la Actividad 3).",
+     "alternativa": "Narrador: \"¡Kapi! Parece que algunos pichones todavía necesitan frutos. ¿Qué podemos hacer?\" / Kapi: \"¡Ya sé! Podemos dejarle un mensaje a Tataendy. Así podrá saber cuántos frutos necesitamos, aunque los pichones estén lejos.\" / Narrador: \"Kapi prepara varios mensajes. Algunos tienen números, otros tienen dibujos y otros muestran puntos.\" / Kapi: \"Pero… ¡un momento! Hay varios mensajes y no sé cuáles representan la misma cantidad. ¿Me ayudás a descubrirlo?\""
+    },
+    {
+     "id": "imp-06edb2d0068d40fc",
+     "sonId": "AUD-3-02",
+     "tipo": "Narración (Consigna principal)",
+     "duracion": "4 segundos",
+     "disparador": "Carga inicial de la Pantalla P1-07 (Mazo 1) o al presionar el botón con icono de parlante.",
+     "alternativa": "\"Observá los mensajes y seleccioná los que representan la misma cantidad.\""
+    },
+    {
+     "id": "imp-ee202d1404824b83",
+     "sonId": "SFX-3-01",
+     "tipo": "Sonido de interacción",
+     "duracion": "0.5 segundos",
+     "disparador": "Al hacer tap sobre cualquier tarjeta no seleccionada.",
+     "alternativa": "[Efecto sonoro breve: clic/pop de tono agudo]"
+    },
+    {
+     "id": "imp-a65c7934288f4b7e",
+     "sonId": "SFX-3-02",
+     "tipo": "Sonido de interacción",
+     "duracion": "0.5 segundos",
+     "disparador": "Al hacer tap sobre una tarjeta ya seleccionada para desmarcarla.",
+     "alternativa": "[Efecto sonoro breve: deslizó/de selección de tono grave]"
+    },
+    {
+     "id": "imp-83da3bdfab474dcf",
+     "sonId": "SFX-3-03",
+     "tipo": "Feedback sonoro",
+     "duracion": "1.5 segundos",
+     "disparador": "Al presionar ENVIAR MENSAJE y validar que la selección de tarjetas es correcta (Mazo 1 o Mazo 2).",
+     "alternativa": "[Efecto sonoro festivo: campanitas de logro / aleteo suave]"
+    },
+    {
+     "id": "imp-9b143e1a4c0346e0",
+     "sonId": "AUD-3-03",
+     "tipo": "Feedback sonoro (Narración de personaje)",
+     "duracion": "3 segundos",
+     "disparador": "Tras validación correcta de un mazo completo en la Pantalla P1-07.",
+     "alternativa": "Tataendy: \"¡Entendido! Estas tarjetas representan la misma cantidad.\""
+    },
+    {
+     "id": "imp-cd6934c2c3734191",
+     "sonId": "AUD-3-04",
+     "tipo": "Feedback sonoro (Narración de personaje)",
+     "duracion": "5 segundos",
+     "disparador": "Al presionar ENVIAR MENSAJE, habiendo seleccionado una tarjeta incorrecta o distractora.",
+     "alternativa": "Kapi: \"Mmm… Parece que no todas representan la misma cantidad. Revisá tus elecciones y quitá la que no corresponde.\""
+    },
+    {
+     "id": "imp-4fef18d288aa47a2",
+     "sonId": "AUD-3-05",
+     "tipo": "Feedback sonoro (Narración de personaje)",
+     "duracion": "5 segundos",
+     "disparador": "Al presionar ENVIAR MENSAJE, cuando la tarjeta del $7$ en espejo está seleccionada en el Mazo 2.",
+     "alternativa": "Kapi: \"Mmm... ese número parece estar mirando hacia el otro lado. ¿Probamos con el 7 escrito correctamente?\""
+    },
+    {
+     "id": "imp-f60592866aae412d",
+     "sonId": "MUS-3-01",
+     "tipo": "Música",
+     "duracion": "En bucle continuo (loop) durante la Actividad 3.",
+     "disparador": "Se reproduce suavemente de fondo desde la Pantalla P1-06 hasta finalizar P1-07.",
+     "alternativa": "[Música instrumental suave de ambiente chamamecero/naturaleza a volumen muy bajo (15%)]"
+    }
+   ],
+   "accesibilidad": {
+    "audioTexto": "Categoría: Sí.\nDetalle: Toda consigna y feedback expresado por el Narrador, Kapi o Tataendy aparece escrito en pantalla en texto fijo de alto contraste al mismo tiempo que se ejecuta la locución.",
+    "instruccionesClaras": "Categoría: Lenguaje claro.\nDetalle: Se utilizan frases cortas, vocabulario cotidiano del ámbito escolar correntino e indicaciones directas centradas en la acción (\"Observá\", \"Seleccioná\", \"Revisá\").",
+    "alternativasColor": "Tipo de alternativa: Forma, iconografía y texto.\nDetalle: La selección de las tarjetas no depende únicamente del cambio de color del borde; se incorpora una elevación visual de 5px, un borde resaltado y un icono de verificación (check) en la esquina superior de la tarjeta elegida.",
+    "tamanoBotones": "Categoría: Adecuada.\nDetalle: Las tarjetas tienen dimensiones mínimas de 140x180 px y el botón ¡ENVIAR! mide 220x60 px, superando la pauta mínima de accesibilidad táctil de 48x48 px (DUA / WCAG).",
+    "cantidadInfo": "Categoría: Una consigna principal.\nDetalle: En P3-02 se presenta una única consigna por mazo (\"Observá los mensajes y seleccioná los que representan la misma cantidad.\"), evitando la sobrecarga cognitiva al dividir la tarea en dos mazos sucesivos (Mazo 1 de la cantidad 6 y Mazo 2 de la cantidad 7)."
+   },
+   "accesibilidadExtra": {
+    "modoAlternativo": "Selección: Audio + Interacción táctil.\nDetalle: Cada bloque de texto explicativo o consigna cuenta con un botón de audio (icono de parlante) para permitir el acceso autónomo a niños que aún no consolidan la lectura fluida."
+   },
+   "datos": {
+    "queRegistra": "El ID único de las tarjetas seleccionadas por el niño al momento de accionar el botón ENVIAR en cada mazo.",
+    "tipoRespuesta": "Selección (Elección múltiple de equivalencias mediante tap).",
+    "respuestaEsperada": "Mazo 1 (Cantidad 6)\nSelección de Tarjeta 1 (6 frutos de pindó) + Tarjeta 3 (Numeral 6) + Tarjeta 4 (6 puntos estilo dado).\nMazo 2 (Cantidad 7)\nSelección de Tarjeta 2 (Numeral 7) + Tarjeta 3 (7 frutos de ingá 2-3-2) + Tarjeta 4 (7 puntos en filas 3-3-1).",
+    "alternativasValidas": "Ninguna. (Se requiere identificar las 3 representaciones del cardinal 6).\nNinguna.",
+    "parcialmenteValidas": "Selección de 1 o 2 de las tarjetas correctas sin haber incluido la tarjeta distractora (Tarjeta 2: serie 1,2,3,4,5,6). Dispara el estado de Respuesta parcialmente correcta.\nSelección de 1 o 2 tarjetas correctas sin incluir la tarjeta distractora (Tarjet"
+   },
+   "navFinal": {
+    "cuandoTermina": "Cuando el alumno resuelve exitosamente la selección del Mazo 1 (cardinal 6) y, posteriormente, la selección del Mazo 2 (cardinal 7) en la Pantalla P1-07.",
+    "cuandoHabilita": "Inmediatamente después de la validación correcta del Mazo 2 y tras finalizar el audio de felicitación de Tataendy (AUD-3-03), pasando de forma automática a la Pantalla P1-08 (Actividad 4: Sistematización).",
+    "completarTodo": "Debe completar la selección correcta en ambos mazos. No se permite avanzar con errores para asegurar la comprensión de la equivalencia entre representaciones del cardinal.",
+    "variosIntentos": "El sistema no descuenta puntos ni aplica sanciones. Si el niño comete 3 intentos fallidos consecutivos en el mismo mazo, se activa un andamiaje didáctico donde Kapi brinda una pista directa (desmarca automáticamente el distractor y resalta las tarjetas correctas que falten).",
+    "siAbandona": "Se almacena el estado en el perfil del niño. Al a 1: 7 en espejo). Dispara el estado de Respuesta parcialmente correcta."
+   },
+   "matriz": [
+    {
+     "id": "imp-07407f16f3b34b23",
+     "accionNino": "Ingresa a la pantalla P1-06 (Inicio Actividad 3)",
+     "respuestaEsperada": "Observar la pantalla y escuchar la introducción narrativa.",
+     "respuestaSistema": "Carga la escena del árbol con pichones llorando. Inicia la reproducción consecutiva del audio de la historia.",
+     "feedback": "AUD-3-01: Narrador y Kapi introducen la necesidad de enviar un mensaje con la cantidad.",
+     "proximaAccion": "Pasa automáticamente a la pantalla P1-07 al finalizar el audio."
+    },
+    {
+     "id": "imp-f17c8495ee3e465d",
+     "accionNino": "Escucha la consigna en P1-07 (Mazo 1)",
+     "respuestaEsperada": "Comprender la tarea de buscar las tarjetas que expresan la misma cantidad.",
+     "respuestaSistema": "Despliega el Mazo 1 (4 tarjetas) en grilla 2x2. Mantiene el botón ENVIAR desactivado.",
+     "feedback": "AUD-3-02: \"Observá los mensajes y seleccioná los que representan la misma cantidad.\"",
+     "proximaAccion": "Explora visualmente el mazo para seleccionar la primera tarjeta."
+    },
+    {
+     "id": "imp-0b596016079c4c0d",
+     "accionNino": "Hace tap sobre una tarjeta no elegida.",
+     "respuestaEsperada": "Seleccionar una tarjeta para compararla.",
+     "respuestaSistema": "Ilumina la tarjeta con borde verde/dorado, la eleva 5px y reproduce SFX-3-01. Activa el botón ENVIAR.",
+     "feedback": "Sin feedback verbal (solo respuesta táctil y sonora de selección).",
+     "proximaAccion": "Elige otra tarjeta o desmarca la actual."
+    },
+    {
+     "id": "imp-bfd6741ee7204c31",
+     "accionNino": "Hace tap sobre una tarjeta ya seleccionada.",
+     "respuestaEsperada": "Cancelar o modificar la elección realizada.",
+     "respuestaSistema": "Quita el resplandor y la elevación, regresando la tarjeta a su estado original. Emite SFX-3-02.",
+     "feedback": "Sin feedback verbal (solo respuesta de deselección).",
+     "proximaAccion": "Selecciona una nueva opción o toca ENVIAR."
+    },
+    {
+     "id": "imp-c57c68ecf46e4934",
+     "accionNino": "Selecciona las 3 tarjetas correctas del Mazo 1 y toca ENVIAR.",
+     "respuestaEsperada": "Elegir: 6 frutos + numeral 6 + 6 puntos (dado).",
+     "respuestaSistema": "Deshabilita la grilla temporalmente. Activa animación de brillo dorado en las 3 tarjetas elegidas y entrada de Tataendy.",
+     "feedback": "SFX-3-03 + AUD-3-03 (Tataendy): \"¡Entendido! Estas tarjetas representan la misma cantidad.\"",
+     "proximaAccion": "Mantiene las correctas unos segundos, limpia pantalla y despliega el Mazo 2 (cardinal 7)."
+    },
+    {
+     "id": "imp-8044b3d1fcae4193",
+     "accionNino": "Selecciona una tarjeta errónea (ej. serie 1-6) y toca ENVIAR.",
+     "respuestaEsperada": "Identificar la tarjeta que no equivale al cardinal requerido.",
+     "respuestaSistema": "Mantiene las elecciones en pantalla. Muestra animación de Kapi con gesto pensativo. No aplica sanciones ni borra selecciones.",
+     "feedback": "AUD-3-04 (Kapi): \"Mmm… Parece que no todas representan la misma cantidad. Revisá tus elecciones y quitá la que no corresponde.\"",
+     "proximaAccion": "Toca la tarjeta errónea para desmarcarla y presiona ENVIAR nuevamente."
+    },
+    {
+     "id": "imp-d089b9c1ff114ac5",
+     "accionNino": "Selecciona solo 1 o 2 tarjetas correctas y toca ENVIAR.",
+     "respuestaEsperada": "Encontrar las 3 representaciones del cardinal 6.",
+     "respuestaSistema": "Mantiene las selecciones actuales. Muestra a Kapi señalando suavemente el mazo.",
+     "feedback": "AUD-3-05 (Kapi): \"Todavía podés encontrar otro mensaje que represente la misma cantidad. Volvé a observar las tarjetas.\"",
+     "proximaAccion": "Explora las tarjetas restantes, elige la faltante y presiona ¡ENVIAR!."
+    },
+    {
+     "id": "imp-6f7f6ad3d5e742b3",
+     "accionNino": "Selecciona la tarjeta con el 7 en espejo en Mazo 2 y toca ENVIAR.",
+     "respuestaEsperada": "Reconocer la grafía convencional del número 7.",
+     "respuestaSistema": "Genera un titileo suave sobre la tarjeta del 7 en espejo sin borrar las selecciones.",
+     "feedback": "AUD-3-06 (Kapi): \"Mmm... ese número parece estar mirando hacia el otro lado. ¿Probamos con el 7 escrito correctamente?\"",
+     "proximaAccion": "Desmarca el 7 en espejo, selecciona el 7 correcto y confirma la elección."
+    },
+    {
+     "id": "imp-d85d7eca7d294905",
+     "accionNino": "Selecciona las 3 tarjetas correctas del Mazo 2 y toca ENVIAR.",
+     "respuestaEsperada": "Elegir: numeral 7 + 7 frutos (2-3-2) + 7 puntos (3-3-1).",
+     "respuestaSistema": "Brillo dorado en tarjetas correctas. Tataendy realiza vuelo de celebración. Registra la actividad como completada.",
+     "feedback": "SFX-3-03 + AUD-3-03 (Tataendy): \"¡Entendido! Estos mensajes representan la misma cantidad.\"",
+     "proximaAccion": "Transiciona automáticamente a la pantalla P1-08 (Actividad 4: Sistematización)."
+    }
+   ],
+   "storyboard": [
+    {
+     "id": "imp-eb95a47f9e184e6a",
+     "pantallaRef": "P3-01 (Ambientación Actividad 3)",
+     "queHaceSistema": "Carga inicial: Renderizar escenario de los Esteros con Kapi en el suelo y pichones en las ramas.\nAutoplay audio: Disparar AUD-3-01 (\"¡Kapi! Parece que algunos pichones...\").\nSincronización: Animar gotitas/llanto de pichones y gesto pensativo de Kapi según la alocución.\nTransición: Al detectar el evento onEnded del audio AUD-3-01, realizar un fade-out de 500 ms y cargar la pantalla P1-07."
+    },
+    {
+     "id": "imp-fd2da98350694f92",
+     "pantallaRef": "P3-02 — Mazo 1 (Cardinal 6)",
+     "queHaceSistema": "Carga inicial: Cargar la grilla 2x2 con las 4 tarjetas del Mazo 1. Renderizar a Kapi en la esquina inferior izquierda y el botón ENVIAR (estado disabled).\nAudio consigna: Ejecutar AUD-3-02 (\"Observá los mensajes...\").\nBucle de interacción:\nAl recibir onClick en tarjeta: actualizar estado local selectedCards. Modificar estilos CSS (borde/elevación) y emitir SFX-3-01 o SFX-3-02.\nActualizar estado del botón de envío: disabled = (selectedCards.length === 0).\nValidación al presionar ENVIAR:\nEvaluar si selectedCards es exactamente igual a [ID_6_FRUTOS, ID_NUMERAL_6, ID_6_PUNTOS].\nSi es correcto: Emitir SFX-3-03 + AUD-3-03. Mostrar a Tataendy volando. Esperar finalización de audio y desplegar componentes del Mazo 2 en la misma pantalla.\nSi es incorrecto: Ejecutar devolución correspondiente (AUD-3-04 o AUD-3-05) sin alterar la selección del niño."
+    },
+    {
+     "id": "imp-6955015203c842ef",
+     "pantallaRef": "P3-02 — Mazo 2 (Cardinal 7)",
+     "queHaceSistema": "Carga inicial: Reemplazar tarjetas del Mazo 1 por las 4 tarjetas del Mazo 2. Mantener interfaz y reiniciar.\nAudio de empalme: Ejecutar audio de transición de Kapi: \"¡Buenísimo! Ya descubrimos los mensajes del 6. ¡Ahora miremos estas nuevas tarjetas!\".\nBucle de interacción: Igual mecanismo táctil y visual que en Mazo 1.\nValidación al presionar ENVIAR\nEvaluar si selectedCards es exactamente igual a [ID_NUMERAL_7, ID_7_FRUTOS, ID_7_PUNTOS].\nSi detecta 7 en espejo: Disparar animación de titileo en esa tarjeta y reproducir AUD-3-06.\nSi es correcto: Emitir SFX-3-03 + AUD-3-03. Registrar evento ACTIVIDAD_3_COMPLETE en la base de datos local/servidor y transicionar a la Pantalla P1-08."
+    }
+   ],
+   "casosLimite": [
+    {
+     "id": "imp-1f6bba49cfd04754",
+     "situacion": "El niño no responde durante un tiempo prolongado.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-16f617613b8d4c12",
+     "situacion": "Toca repetidamente sin avanzar.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-e81104f3404c4cf4",
+     "situacion": "Arrastra un objeto a una zona incorrecta.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-4dd30751ea044d51",
+     "situacion": "Intenta colocar un objeto donde no corresponde.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-7b6479f8671b4efa",
+     "situacion": "Responde parcialmente.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-dfe5c6efec3e447a",
+     "situacion": "Selecciona dos opciones a la vez.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-91af7887d84442a9",
+     "situacion": "Borra una respuesta ya dada.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-b5678fe079ca4281",
+     "situacion": "Abandona la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-00799f24246b4a06",
+     "situacion": "Vuelve a entrar (reingreso).",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-155e120ca06447e5",
+     "situacion": "Reinicia la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-a7bece0070fa4f70",
+     "situacion": "Pierde la conexión a mitad de la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-e5c36d75ae4f443a",
+     "situacion": "Usa una pantalla reducida.",
+     "comportamiento": "Se pausa la reproducción del audio actual y la música de fondo. Al retornar, la pantalla se reanuda en el mismo estado con el audio pausado y el botón de voz listo para reproducir.",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": "Situación en el documento: Interrupción por llamada entrante o bloqueo de pantalla durante el audio"
+    },
+    {
+     "id": "imp-595389368a2e4e2f",
+     "situacion": "Usa tablet.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-8cac295e3bd944b6",
+     "situacion": "Usa netbook.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-69e264e44c4a4a8f",
+     "situacion": "Escucha sin mirar la pantalla.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-887c6a5385834781",
+     "situacion": "Mira sin escuchar.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-71042d0baf6446e6",
+     "situacion": "Multitap rápido (tocar repetidamente varias tarjetas a la vez)",
+     "comportamiento": "El sistema bloquea los eventos táctiles paralelos procesando solo un tap a la vez con un retardo (debounce) de 200 ms. Evita fallos de interfaz o descalce en el registro de la lista de selección.",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-38b3f2e616c44b02",
+     "situacion": "Presión accidental continuada (mantener el dedo sobre una tarjeta)",
+     "comportamiento": "Se interpreta como un único tap al soltar el dedo (touchEnd). No activa menús emergentes del dispositivo ni zoom en pantalla.",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-d066be3f74af48fc",
+     "situacion": "Tocar áreas fuera de las tarjetas o botones",
+     "comportamiento": "El sistema ignora el toque sin reproducir sonidos de error ni alterar el estado visual actual.",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-ac3477f334c3484b",
+     "situacion": "Presionar ENVIAR MENSAJE, repetidamente durante la validación",
+     "comportamiento": "El botón se deshabilita instantáneamente al primer tap mientras se ejecutan las animaciones o audios de feedback, impidiendo múltiples evaluaciones simultáneas.",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    }
+   ]
+  },
+  {
+   "numero": 4,
+   "importado": [
+    {
+     "id": "imp-d48e2cceeab54cdf",
+     "bloque": "consigna",
+     "tab": "situacion",
+     "titulo": "E.3 — encabezado del documento",
+     "texto": "E.3 - Consigna “Recuperamos lo aprendido”"
+    },
+    {
+     "id": "imp-ec15c249d01f44d0",
+     "bloque": "feedback",
+     "tab": "interacciones",
+     "titulo": "Bloque I — Feedback — encabezado del documento",
+     "texto": "Bloque I — Retroalimentación / devolución no aplica"
+    },
+    {
+     "id": "imp-fb2c936965bc451f",
+     "bloque": "matriz",
+     "tab": "navegacion",
+     "titulo": "Bloque V — Matriz",
+     "texto": "Una acción por cada momento del recorrido de la Actividad 4: “Lo que aprendimos con Kapi y Tataendy”."
+    }
+   ],
+   "nombre": "“Lo que aprendimos con Kapi y Tataendy”",
+   "objetivo": "Institucionalizar los conocimientos matemáticos construidos durante las actividades anteriores, recuperando y organizando las estrategias utilizadas para determinar cantidades y relacionarlas con diferentes representaciones.",
+   "contenido": "Comparación de colecciones y posiciones utilizando distintas estrategias: correspondencia, estimación y conteo. Recorte: Reconocimiento, conteo y representación de cantidades hasta 10.",
+   "propositoDidactico": "Favorecer la reflexión y sistematización de los procedimientos utilizados por los niños, ayudándolos a reconocer el conteo como una estrategia eficaz para determinar y conservar cantidades, y a establecer relaciones entre una cantidad y sus diferentes representaciones.",
+   "relacionAnterior": "La actividad retoma directamente la confrontación realizada en la Actividad 3, en la que los niños debieron identificar distintas representaciones correspondientes a una misma cantidad.",
+   "relacionSiguiente": "Los conocimientos sistematizados serán utilizados en la Actividad 5, en la que el niño deberá resolver una nueva situación con mayor autonomía, relacionando una colección con el número que representa",
+   "evidencia": "no aplica en este momento del módulo",
+   "pasajeSiguiente": "Se habilita el botón SEGUIR, una vez que el niño recorrió los dos paneles de sistematización. Al seleccionarlo, continúa con la Actividad 5.",
+   "situacion": {
+    "contexto": "La pantalla aparece automáticamente al finalizar la Actividad 3, luego del momento de confrontación y puesta en común. Se produce un cambio en el ritmo de la propuesta: disminuyen los movimientos y sonidos del ambiente y aparece una pantalla más despejada, indicando que comienza un momento destinado a recuperar, organizar y poner en palabras lo aprendido.",
+    "escenario": "Los Esteros del Iberá. Aparece un espacio visual tranquilo, relacionado con la aventura desarrollada por Kapi y Tataendy.",
+    "personajes": "Kapi- Tataendy- Narrador.",
+    "queOcurre": "Kapi y Tataendy recuperan las experiencias realizadas durante las actividades anteriores. Aparecen dos hojas que se incorporan al bolsito de Kapi. Cada hoja representa uno de los aprendizajes matemáticos construidos.",
+    "queProblema": "No se presenta un nuevo problema matemático. El desafío consiste en recuperar, organizar y reconocer los conocimientos construidos durante la aventura, para poder utilizarlos posteriormente."
+   },
+   "consigna": {
+    "textoPantalla": "“¿Qué aprendimos durante esta aventura?”",
+    "textoAudio": "“¿Qué aprendimos durante esta aventura?”\nTataendy: “Kapi, ya juntamos los frutos y elegimos los mensajes correctos. ¿Qué aprendimos durante esta aventura?”\nKapi: “Aprendimos varias cosas. ¡Vamos a guardarlas en mi bolsito para no olvidarlas!”",
+    "quienLoDice": "Tataendy y Kapi.",
+    "tono": "Cálido, amigable y reflexivo.",
+    "velocidad": "moderada"
+   },
+   "mapa": {
+    "puntoEntrada": "La experiencia comienza automáticamente al finalizar la Actividad 3. Pantalla P4-01.",
+    "pantallasInvolucradas": "P4-01 – Recuperamos lo aprendido. P4-02 – Contar para saber cuántos hay. P4-03 – Una misma cantidad, distintas formas. P4-04 – Cierre y pasaje a la Actividad 5.",
+    "decisionesNino": "La actividad presenta una experiencia principalmente lineal. El niño debe observar, escuchar y seleccionar los botones CONTINUAR y posteriormente SEGUIR.",
+    "caminosPosibles": "No existen bifurcaciones de contenido. El recorrido es lineal.",
+    "reintentosAyudas": "no aplica",
+    "recorrido": "INICIO: Al finalizar la Actividad 3, aparece automáticamente una pantalla más despejada y tranquila. Aparecen Kapi y Tataendy. Tataendy pregunta qué aprendieron durante la aventura y Kapi propone guardar los aprendizajes en su bolsito. Luego aparecen dos hojas que representan los saberes matemáticos construidos durante las actividades anteriores.\nACCIÓN: El niño observa y escucha el diálogo inicial. Luego observa el primer panel, “Contar para saber cuántos hay”, donde se recuperan imágenes de las Actividades 1 y 2. Después de observar y escuchar la explicación, presiona CONTINUAR para acceder al segundo panel.\nDECISIÓN: El niño decide cuándo avanzar de un panel al siguiente mediante la selección del botón CONTINUAR. En el segundo panel observa tres representaciones de una misma cantidad: 6 frutos, el número 6 y 6 puntos como en un dado.\nCONSECUENCIA: Al seleccionar CONTINUAR en el primer panel, se presenta el segundo panel, “Una misma cantidad, distintas formas”. Allí se explicita que los 6 dibujos, el número 6 y los 6 puntos representan la misma cantidad, aunque tengan diferentes formas de representación. Al seleccionar nuevamente CONTINUAR, finaliza el recorrido de sistematización y aparecen Kapi y Tataendy.\nFEEDBACK: El sistema brinda una devolución mediante la combinación de imágenes, texto y audio. En el primer panel se explicita que contar permite saber cuántos objetos hay y que también resulta útil cuando los objetos están separados o ya no pueden verse juntos. En el segundo panel se muestra que diferentes representaciones pueden expresar una misma cantidad. Al finalizar, Kapi y Tataendy recuperan verbalmente los aprendizajes construidos.\nPRÓXIMA ACCIÓN: Luego de recorrer los dos paneles, el niño observa cómo Kapi y Tataendy guardan las dos hojas en el bolsito. Después debe seleccionar el botón SEGUIR para continuar con la actividad siguiente.\nCIERRE: Al seleccionar SEGUIR, finaliza la Actividad 4 de sistematización y se habilita el pasaje a la Actividad 5: “¡La gran misión de Tataendy!”, en la que los niños reutilizarán los conocimientos construidos de manera más autónoma."
+   },
+   "pantallas": [
+    {
+     "id": "imp-233f510c6c9e41ad",
+     "idPantalla": "P4-01",
+     "nombre": "Recuperamos lo aprendido.",
+     "proposito": "Introducir el momento de sistematización.",
+     "contenidoTextual": "“¿Qué aprendimos durante esta aventura?”",
+     "imagenesFondo": "Kapi y Tataendy en un escenario tranquilo de los Esteros del Iberá. Aparecen dos hojas que serán incorporadas al bolsito de Kapi.",
+     "botones": "Ninguno al inicio.",
+     "animacion": "Aparición suave de los personajes y de las hojas.",
+     "audio": "Diálogo inicial de Tataendy y Kapi.",
+     "condicionAvance": "Finalización del audio y aparición automática del primer panel."
+    },
+    {
+     "id": "imp-832e16a321f04d83",
+     "idPantalla": "P4-02",
+     "nombre": "Contar para saber cuántos hay.",
+     "proposito": "Sistematizar el conteo como estrategia para determinar y recordar cantidades.",
+     "contenidoTextual": "“Contar nos ayuda a saber cuántos objetos hay. También podemos usar el conteo cuando los objetos están separados o cuando ya no podemos verlos juntos.”",
+     "imagenesFondo": "Imágenes recuperadas de las Actividades 1 y 2: frutos de la palmera y Tataendy recogiendo frutos luego de observar a los pichones.",
+     "botones": "CONTINUAR.",
+     "animacion": "Aparición de las imágenes y resaltado de los elementos principales.",
+     "audio": "Lectura del texto fijo.",
+     "condicionAvance": "Selección del botón CONTINUAR."
+    },
+    {
+     "id": "imp-65dda4684fad429e",
+     "idPantalla": "P4-03",
+     "nombre": "Una misma cantidad, distintas formas.",
+     "proposito": "Sistematizar la relación entre una cantidad y sus diferentes representaciones.",
+     "contenidoTextual": "“6 dibujos, el número 6 y 6 puntitos como en el dado representan la misma cantidad, aunque se vean diferentes.”",
+     "imagenesFondo": "6 frutos. Número escrito 6. 6 puntos organizados como en un dado.",
+     "botones": "CONTINUAR.",
+     "animacion": "Las tres representaciones aparecen juntas y se iluminan una por una.",
+     "audio": "Lectura del texto fijo.",
+     "condicionAvance": "Selección de CONTINUAR."
+    },
+    {
+     "id": "imp-60ea6b82973a47a4",
+     "idPantalla": "P4-04",
+     "nombre": "Guardamos lo aprendido.",
+     "proposito": "Cerrar la sistematización y conectar con la próxima misión.",
+     "contenidoTextual": "ninguno",
+     "imagenesFondo": "Kapi y Tataendy guardando las dos hojas en el bolsito.",
+     "botones": "SEGUIR.",
+     "animacion": "Las hojas ingresan al bolsito de Kapi.",
+     "audio": "Diálogo final.\nTataendy: - ¡Ahora sí! Ya sabemos cómo podemos averiguar cuántos frutos necesitamos.”\nKapi: - Y también aprendimos que una misma cantidad puede representarse de distintas maneras.”\nTataendy:- ¡Todo esto nos va a servir para nuestra próxima misión!”",
+     "condicionAvance": "Selección de SEGUIR ."
+    }
+   ],
+   "interacciones": [
+    {
+     "id": "imp-e2c0cac3233f4b58",
+     "accion": "Observa la pantalla.",
+     "descripcion": "Interacción 1 – Observar\nReconoce personajes, imágenes y representaciones matemáticas.",
+     "respuesta": "Presenta los elementos visuales y reproduce las animaciones correspondientes."
+    },
+    {
+     "id": "imp-87f3379828a74a14",
+     "accion": "Escucha el audio.",
+     "descripcion": "Interacción 2 – Escuchar\nRecibe la explicación oral acompañada de texto.",
+     "respuesta": "Reproduce la narración correspondiente."
+    },
+    {
+     "id": "imp-f2594a1a8aba4969",
+     "accion": "Selecciona CONTINUAR.",
+     "descripcion": "Interacción 3 – Seleccionar\nAvanza de un panel de sistematización al siguiente.",
+     "respuesta": "Cambia de pantalla."
+    },
+    {
+     "id": "imp-c5fbf8e4eed14578",
+     "accion": "Selecciona SEGUIR.",
+     "descripcion": "Interacción 4 – Seleccionar\nFinaliza la Actividad 4 y continúa con la Actividad 5.",
+     "respuesta": "Habilita la siguiente actividad."
+    }
+   ],
+   "estados": [
+    {
+     "id": "imp-e896cedbbffc4b33",
+     "estado": "Respuesta correcta",
+     "queHizo": "Selecciona CONTINUAR",
+     "queInterpreta": "Reconoce la acción requerida.",
+     "queOcurre": "Avanza al siguiente panel.",
+     "proximoPaso": "Continúa."
+    },
+    {
+     "id": "imp-676deb2d84c8473a",
+     "estado": "Respuesta incorrecta",
+     "queHizo": "No aplica",
+     "queInterpreta": "No se registra error de contenido.",
+     "queOcurre": "Permanece en la pantalla.",
+     "proximoPaso": "Puede volver a seleccionar."
+    }
+   ],
+   "personaje": [
+    {
+     "id": "imp-157594360eef41a3",
+     "quienHabla": "Tataendy",
+     "cuandoAparece": "Inicio y cierre.",
+     "audio": "“Kapi, ya juntamos los frutos y elegimos los mensajes correctos. ¿Qué aprendimos durante esta aventura?”\n“¡Ahora sí! Ya sabemos cómo podemos averiguar cuántos frutos necesitamos.”",
+     "textoPantalla": "no corresponde.",
+     "accionPersonaje": "Habla y acompaña el recorrido.",
+     "accionNino": "Escucha, observa y continúa.",
+     "fraseConexion": "“¿Qué aprendimos durante esta aventura?”"
+    },
+    {
+     "id": "imp-9a4b844f71ac4c97",
+     "quienHabla": "Kapi",
+     "cuandoAparece": "Inicio y cierre.",
+     "audio": "Kapi: “Aprendimos varias cosas. ¡Vamos a guardarlas en mi bolsito para no olvidarlas!”\nTataendy: “Y también aprendimos que una misma cantidad puede representarse de distintas maneras.”\nKapi: “¡Todo esto nos va a servir para nuestra próxima misión!”",
+     "textoPantalla": "No corresponde",
+     "accionPersonaje": "Recibe y guarda las hojas en su bolsito.",
+     "accionNino": "Observa y recupera los aprendizajes.",
+     "fraseConexion": "“¡Vamos a guardarlas en mi bolsito para no olvidarlas!”"
+    }
+   ],
+   "visual": {
+    "escenarioFondo": "Paisaje de los Esteros del Iberá, con una composición más despejada y tranquila que en las actividades anteriores.",
+    "coloresDominantes": "Colores naturales relacionados con el ambiente del Iberá: verdes, marrones y tonos claros.",
+    "objetosPersonajes": "Kapi, Tataendy, hojas de sistematización, bolsito de Kapi, frutos y representaciones numéricas.",
+    "tamanoUbicacion": "Los personajes deben ubicarse en sectores que no interfieran con el contenido matemático. Las hojas deben ocupar el centro de la pantalla y constituir el foco principal.",
+    "iconografia": "Botones claramente identificables con texto: CONTINUAR y SEGUIR."
+   },
+   "sonido": [
+    {
+     "id": "imp-9633b1a82b2140dc",
+     "sonId": "AUD-4-01",
+     "tipo": "Narración",
+     "duracion": "15–20 s",
+     "disparador": "Inicio de actividad",
+     "alternativa": "No aplica"
+    },
+    {
+     "id": "imp-22386594c2194cf3",
+     "sonId": "AUD-4-02",
+     "tipo": "Narración",
+     "duracion": "10–15 s",
+     "disparador": "Panel 1",
+     "alternativa": "Texto fijo visible"
+    },
+    {
+     "id": "imp-10b613b67659436f",
+     "sonId": "AUD-4-03",
+     "tipo": "Narración",
+     "duracion": "10–15 s",
+     "disparador": "Panel 2",
+     "alternativa": "Texto fijo visible"
+    },
+    {
+     "id": "imp-37f80f098d0e4b12",
+     "sonId": "AUD-4-04",
+     "tipo": "Narración",
+     "duracion": "15–20 s",
+     "disparador": "Cierre",
+     "alternativa": "No aplica"
+    },
+    {
+     "id": "imp-97cc568a61b04d1a",
+     "sonId": "SFX-4-01",
+     "tipo": "Efecto",
+     "duracion": "2–3 s",
+     "disparador": "Aparición de hojas",
+     "alternativa": "No aplica"
+    },
+    {
+     "id": "imp-425e3e113a334b66",
+     "sonId": "SFX-4-02",
+     "tipo": "Efecto",
+     "duracion": "2–3 s",
+     "disparador": "Guardado de hojas",
+     "alternativa": "No aplica"
+    }
+   ],
+   "accesibilidad": {
+    "audioTexto": "Sí. Los contenidos orales se presentan también mediante texto escrito.",
+    "instruccionesClaras": "Lenguaje claro. Se utilizan frases breves y vocabulario adecuado para niños de primer grado.",
+    "alternativasColor": "Sí. La información no depende únicamente del color; se utilizan texto, imágenes y formas.",
+    "tamanoBotones": "Adecuada. Los botones CONTINUAR y SEGUIR deben presentar un tamaño suficiente para facilitar la selección táctil.",
+    "cantidadInfo": "Una consigna principal. Cada panel presenta un único saber matemático para evitar sobrecarga de información."
+   },
+   "accesibilidadExtra": {
+    "modoAlternativo": "Audio + texto + interacción táctil."
+   },
+   "datos": {
+    "queRegistra": "Selección de los botones de navegación.",
+    "tipoRespuesta": "Selección.",
+    "respuestaEsperada": "CONTINUAR. SEGUIR .",
+    "alternativasValidas": "No existen alternativas de contenido. Se admite la selección táctil sobre cualquier zona del botón.",
+    "parcialmenteValidas": "Tocar fuera del botón no genera avance, pero tampoco se considera un error matemático."
+   },
+   "navFinal": {
+    "cuandoTermina": "Cuando el niño recorrió los dos paneles de sistematización y seleccionó SEGUIR .",
+    "cuandoHabilita": "Al seleccionar SEGUIR.",
+    "completarTodo": "Debe recorrer los dos paneles, ya que constituyen la sistematización de los aprendizajes. No hay respuestas matemáticas incorrectas en esta actividad.",
+    "variosIntentos": "Puede seleccionar nuevamente el botón correspondiente hasta avanzar.",
+    "siAbandona": "La actividad queda disponible para retomarse posteriormente."
+   },
+   "matriz": [
+    {
+     "id": "imp-f11631260dcd4145",
+     "accionNino": "Observar y escuchar la presentación inicial",
+     "respuestaEsperada": "Que el niño observe y escuche la presentación de Kapi y Tataendy, recuperando lo trabajado durante las actividades anteriores.",
+     "respuestaSistema": "Aparecen Kapi y Tataendy. Tataendy pregunta qué aprendieron durante la aventura y Kapi explica que guardarán lo aprendido en su bolsito. Luego aparecen las dos hojas y se presenta automáticamente el primer panel.",
+     "feedback": "No aplica como devolución evaluativa. La intervención de los personajes introduce el momento de sistematización."
+    },
+    {
+     "id": "imp-98800603a6404571",
+     "accionNino": "Observar y escuchar el Panel 1: “Contar para saber cuántos hay”.\nobservar y escuchar el Panel 1",
+     "respuestaEsperada": "Que el niño observe las imágenes recuperadas de las Actividades 1 y 2 y escuche la explicación relacionada con el conteo.",
+     "respuestaSistema": "Se presentan imágenes de la canasta con frutos de la palmera de pindó y de Tataendy recogiendo frutos. Aparece el texto y audio: “Contar nos ayuda a saber cuántos objetos hay. También podemos usar el conteo cuando los objetos están separados o cuando ya no podemos verlos juntos.”",
+     "feedback": "No aplica como devolución evaluativa. El texto y el audio permiten recuperar y organizar lo aprendido."
+    },
+    {
+     "id": "imp-067632f09eec4c69",
+     "accionNino": "Presionar “CONTINUAR”.\npresionar “CONTINUAR” en el Panel 1",
+     "respuestaEsperada": "Que el niño seleccione el botón para avanzar al siguiente momento de la sistematización.",
+     "respuestaSistema": "Se cierra el Panel 1 y aparece el Panel 2: “Una misma cantidad, distintas formas”, recuperando las representaciones trabajadas en la Actividad 3.",
+     "feedback": "No aplica."
+    },
+    {
+     "id": "imp-a21491852b4242d2",
+     "accionNino": "Observar y escuchar el Panel 2.\nobservar y escuchar el Panel 2",
+     "respuestaEsperada": "Que el niño observe las diferentes representaciones de la cantidad 6 y reconozca la relación entre ellas.",
+     "respuestaSistema": "Aparecen agrupadas las representaciones de 6 frutos, el número 6 y 6 puntos como en un dado. Las representaciones se iluminan una por una. Se presenta el texto y el audio: “6 dibujos, el número 6 y 6 puntitos como en el dado representan la misma cantidad, aunque se vean diferentes.”",
+     "feedback": "No aplica como devolución evaluativa. La presentación permite establecer que diferentes representaciones pueden expresar una misma cantidad."
+    },
+    {
+     "id": "imp-d08ca73e025240ae",
+     "accionNino": "-Presionar “CONTINUAR”.\npresionar “CONTINUAR” en el Panel 2",
+     "respuestaEsperada": "Que el niño seleccione el botón para completar el recorrido de sistematización.",
+     "respuestaSistema": "Finaliza la presentación de los dos paneles y vuelven a aparecer Kapi y Tataendy para realizar el cierre de la actividad.",
+     "feedback": "No aplica."
+    },
+    {
+     "id": "imp-dce5587fcb694c89",
+     "accionNino": "-Observar y escuchar el cierre de Kapi y Tataendy.\nobservar y escuchar el cierre.",
+     "respuestaEsperada": "Que el niño observe y escuche la recuperación final de los aprendizajes trabajados.",
+     "respuestaSistema": "Tataendy y Kapi recuperan los aprendizajes: cómo averiguar cuántos frutos necesitan y que una misma cantidad puede representarse de distintas maneras. Luego, Kapi y Tataendy guardan las dos hojas en el bolsito de Kapi.",
+     "feedback": "No aplica como devolución evaluativa. Es una instancia de cierre e institucionalización de los conocimientos construidos."
+    },
+    {
+     "id": "imp-7f735ba7d446479b",
+     "accionNino": "-Presionar “SEGUIR”.\npresionar “SEGUIR”",
+     "respuestaEsperada": "Que el niño seleccione el botón para finalizar la Actividad 4 y continuar con la propuesta.",
+     "respuestaSistema": "Se cierra la Actividad 4 y se da paso a la Actividad 5: “¡La gran misión de Tataendy!”.",
+     "feedback": "No aplica."
+    }
+   ],
+   "storyboard": [
+    {
+     "id": "imp-5a50bc534f6a4f9f",
+     "pantallaRef": "P4-01 – Recuperamos lo aprendido",
+     "queVe": "Aparecen Kapi y Tataendy en una pantalla más despejada. Se presentan dos hojas que se incorporarán al bolsito de Kapi.",
+     "queEscucha": "Tataendy: “Kapi, ya juntamos los frutos y elegimos los mensajes correctos. ¿Qué aprendimos durante esta aventura?”\nKapi: “Aprendimos varias cosas. ¡Vamos a guardarlas en mi bolsito para no olvidarlas!”",
+     "queHace": "El niño observa y escucha a los personajes, recuperando lo realizado durante las actividades anteriores.",
+     "quePuedePasar": "El niño puede reconocer algunas de las estrategias utilizadas durante la aventura, especialmente el conteo y las diferentes formas de representar una cantidad.",
+     "queHaceSistema": "Presenta las dos hojas que contienen los saberes matemáticos que se trabajarán en la sistematización. Luego habilita el primer panel.",
+     "feedback": "“¡Muy bien! Vamos a recordar todo lo que aprendimos durante la aventura.",
+     "comoContinua": "El niño selecciona “CONTINUAR” y accede al primer panel: “Contar para saber cuántos hay”."
+    },
+    {
+     "id": "imp-8079855a388947d2",
+     "pantallaRef": "P4-02 – CONTAR PARA SABER CUÁNTOS HAY",
+     "queVe": "Aparecen imágenes recuperadas de las actividades anteriores: la canasta con los frutos y Tataendy recogiendo frutos después de observar la cantidad de pichones.",
+     "queEscucha": "“Contar nos ayuda a saber cuántos objetos hay. También podemos usar el conteo cuando los objetos están separados o cuando ya no podemos verlos juntos.”",
+     "queHace": "El niño observa las imágenes y escucha la explicación, relacionando el conteo con las situaciones trabajadas anteriormente.",
+     "quePuedePasar": "El niño puede reconocer que utilizó el conteo para saber cuántos frutos necesitaba. También puede identificar que contar permite recordar una cantidad cuando los objetos ya no están a la vista.",
+     "queHaceSistema": "Presenta las imágenes y el mensaje de sistematización mediante texto y audio. Mantiene visible el panel hasta que el niño seleccione CONTINUAR.",
+     "feedback": "“¡Muy bien! Contar nos ayuda a saber cuántos hay y a recordar una cantidad.”",
+     "comoContinua": "El niño selecciona CONTINUAR y accede al segundo panel: “Una misma cantidad, distintas formas”."
+    },
+    {
+     "id": "imp-3db9c0a5c0334af8",
+     "pantallaRef": "P4-03 – UNA MISMA CANTIDAD, DISTINTAS FORMAS",
+     "queVe": "Se presentan juntas tres representaciones de la cantidad 6: 6 frutos. El número 6. 6 puntos organizados como en un dado.",
+     "queEscucha": "“6 dibujos, el número 6 y 6 puntitos como en el dado representan la misma cantidad, aunque se vean diferentes.”",
+     "queHace": "El niño observa las diferentes representaciones y reconoce que una misma cantidad puede mostrarse de distintas maneras.",
+     "quePuedePasar": "El niño puede reconocer que las tres representaciones corresponden a la misma cantidad. También puede recurrir al conteo para comprobarlo.",
+     "queHaceSistema": "Presenta las tres representaciones agrupadas y las ilumina una por una para favorecer la comparación.",
+     "feedback": "“¡Muy bien! Aunque se vean diferentes, las tres formas representan la misma cantidad.”",
+     "comoContinua": "El niño selecciona CONTINUAR y accede al cierre de la sistematización: “Guardamos lo aprendido”."
+    },
+    {
+     "id": "imp-890300d8d0ed42c0",
+     "pantallaRef": "P4-04 – GUARDAMOS LO APRENDIDO",
+     "queVe": "Aparecen nuevamente Kapi y Tataendy. Se muestran las dos hojas trabajadas y luego se guardan en el bolsito de Kapi mediante una breve animación.",
+     "queEscucha": "Tataendy: “¡Ahora sí! Ya sabemos cómo podemos averiguar cuántos frutos necesitamos.”\nKapi: “Y también aprendimos que una misma cantidad puede representarse de distintas maneras.”\nTataendy: “¡Todo esto nos va a servir para nuestra próxima misión!”",
+     "queHace": "El niño escucha el cierre y recupera los dos aprendizajes principales trabajados durante la sistematización.",
+     "quePuedePasar": "El niño puede reconocer que aprendió a utilizar el conteo para determinar y recordar una cantidad, y que una misma cantidad puede representarse de diferentes maneras.",
+     "queHaceSistema": "Guarda las dos hojas en el bolsito de Kapi y habilita el botón SEGUIR .",
+     "feedback": "“¡Muy bien! Ya tenemos guardado todo lo que aprendimos para usarlo en nuestra próxima misión.”",
+     "comoContinua": "El niño selecciona SEGUIR y continúa con la Actividad 5: “La gran misión de Tataendy”, donde podrá reutilizar los conocimientos construidos durante las actividades anteriores."
+    }
+   ],
+   "casosLimite": [
+    {
+     "id": "imp-862682830efb4c87",
+     "situacion": "El niño no responde durante un tiempo prolongado.",
+     "comportamiento": "El sistema mantiene visible el panel que se está presentando, junto con el texto, el audio y el botón CONTINUAR. No avanza automáticamente.",
+     "feedback": "",
+     "accionPosterior": "El niño puede retomar la interacción en cualquier momento y seleccionar CONTINUAR para seguir con la sistematización.",
+     "noAplica": false,
+     "condicion": "20 segundos sin interacción.",
+     "nota": ""
+    },
+    {
+     "id": "imp-ea0d984d92864430",
+     "situacion": "Toca repetidamente sin avanzar.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": true,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-a4017f313ef24e07",
+     "situacion": "Arrastra un objeto a una zona incorrecta.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": true,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-5be1ffac6eda4bc2",
+     "situacion": "Intenta colocar un objeto donde no corresponde.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": true,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-177fcbfbecaf4c3f",
+     "situacion": "Responde parcialmente.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": true,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-da410af083bf4e47",
+     "situacion": "Selecciona dos opciones a la vez.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": true,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-0c82d53cd4704e1a",
+     "situacion": "Borra una respuesta ya dada.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": true,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-d046246b776c446b",
+     "situacion": "Abandona la actividad.",
+     "comportamiento": "Se interrumpe la presentación de la sistematización.",
+     "feedback": "",
+     "accionPosterior": "Al volver a ingresar, el sistema retoma la actividad según el punto de recorrido que se haya podido conservar.",
+     "noAplica": false,
+     "condicion": "El niño sale de la actividad antes de finalizar el recorrido.",
+     "nota": "La actividad original no especifica una regla técnica de guardado ante abandono; esta definición corresponde a una decisión de implementación."
+    },
+    {
+     "id": "imp-ac1a96fbd6e447d1",
+     "situacion": "Vuelve a entrar (reingreso).",
+     "comportamiento": "Recupera el punto de la actividad alcanzado previamente, si este fue guardado.",
+     "feedback": "",
+     "accionPosterior": "El niño continúa con el recorrido de sistematización desde ese punto.",
+     "noAplica": false,
+     "condicion": "El niño abandona la actividad y vuelve a ingresar.",
+     "nota": ""
+    },
+    {
+     "id": "imp-e3699314b40d487b",
+     "situacion": "Reinicia la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-d04b584e743840b1",
+     "situacion": "Pierde la conexión a mitad de la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-3d2109f0508f4480",
+     "situacion": "Usa una pantalla reducida.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-eaf69f3989d4462c",
+     "situacion": "Usa tablet.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-1f9e2f1f62d4450e",
+     "situacion": "Usa netbook.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-69c99f08c6674da3",
+     "situacion": "Escucha sin mirar la pantalla.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-0a1db6685ca84d00",
+     "situacion": "Mira sin escuchar.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    }
+   ]
+  },
+  {
+   "numero": 5,
+   "importado": [
+    {
+     "id": "imp-ab786dc8dcdc45c4",
+     "bloque": "consigna_extra",
+     "tab": "situacion",
+     "titulo": "E.3 — (diálogo previo a la consigna 1)",
+     "texto": "Kapi: - ¡Genial! Con todo lo que aprendimos, podemos ayudar a otros pichones\nTataendy: - ¡Sí! Y puedo llevar un mensaje en mi pico para recordar cuántos frutos tengo que traer.\nQuién lo dice: Kapi y Tataendy, en diálogo, antes de que aparezca la primera consigna escrita\nTono: Alentador y cómplice — se apela a la autonomía y confianza ganada por el niño a lo largo del módulo.\nVelocidad: Moderada."
+    },
+    {
+     "id": "imp-214bddbbe6e4424d",
+     "bloque": "casos",
+     "tab": "navegacion",
+     "titulo": "Bloque T — Casos límite",
+     "texto": "Se recorren los 16 casos previstos por la plantilla, aplicados a la Actividad 5 (pantallas P5-01 y P5-02)."
+    },
+    {
+     "id": "imp-ba8ff431e0d14168",
+     "bloque": "matriz",
+     "tab": "navegacion",
+     "titulo": "Bloque V — Matriz",
+     "texto": "Una fila por cada acción del niño en el recorrido de la Actividad 5 (P5-01 y P5-02)."
+    }
+   ],
+   "nombre": "¡La gran misión de Tataendy!",
+   "objetivo": "Integrar y poner en juego, de manera autónoma los conocimientos construidos en torno a diferentes cantidades y representaciones numéricas del 1 al 10.",
+   "contenido": "Relación entre el número y la cantidad que representa; representación numérica convencional (tarjetas/lista del 1 al 10); el conteo como estrategia de verificación y autocorrección.",
+   "propositoDidactico": "Cierre integrador del módulo, que retoma lo trabajado en las actividades 1 a 4 exigiendo mayor autonomía del niño en la elección de estrategia.",
+   "relacionAnterior": "Retoma lo sistematizado en la Actividad 4 (\"Lo que aprendimos con Kapi y Tataendy\") — el conteo como estrategia experta y la equivalencia entre representaciones.",
+   "relacionSiguiente": "No aplica, es la última actividad del módulo",
+   "evidencia": "El niño reúne una colección de pichones, selecciona el número que representa esa cantidad, verifica su producción mediante el conteo y, si es necesario, la corrige.",
+   "pasajeSiguiente": "Se habilita al presionar el botón FINALIZAR, disponible únicamente tras una respuesta correcta; da paso a la décima pantalla.",
+   "situacion": {
+    "contexto": "Cierre de la propuesta: Kapi y Tataendy proponen ayudar a otro grupo de pichones de los esteros, poniendo en juego lo aprendido en las actividades anteriores.",
+    "escenario": "Esteros del Iberá, con pichones dispersos en la pantalla.",
+    "personajes": "Kapi, Tataendy, 10 pichones (sin diálogo propio).",
+    "queOcurre": "Kapi y Tataendy presentan la misión; el niño elige libremente cuántos pichones reunir en un solo nido. No hay una cantidad prefijada por el sistema. Luego selecciona el número que representa la cantidad que él mismo armó, para que Tataendy pueda traer los frutos de una sola vez.",
+    "queProblema": "Tataendy no puede volar varias veces para buscar los frutos: necesita saber de antemano, mediante un número, cuántos pichones debe alimentar."
+   },
+   "consigna": {
+    "textoPantalla": "Consigna 1: Formá un grupo de pichones.\nConsigna 2: Seleccioná el número que representa la cantidad de pichones del grupo.",
+    "textoAudio": "Consigna 1: Formá un grupo de pichones.\nConsigna 2: Seleccioná el número que representa la cantidad de pichones del grupo. (La consigna 2 aparece al presionar CONTINUAR)",
+    "quienLoDice": "Kapi.",
+    "tono": "Alentador y cómplice — se apela a la autonomía y confianza ganada por el niño a lo largo del módulo.",
+    "velocidad": "moderada"
+   },
+   "mapa": {
+    "puntoEntrada": "P5-01",
+    "pantallasInvolucradas": "P5-01, P5-02",
+    "decisionesNino": "Cuántos pichones incluir en su grupo (decisión libre, sin una cantidad mínima ni máxima impuesta, más allá del rango de la propuesta, 1 a 10); cuándo presionar CONTINUAR qué número de la lista del 1 al 10 seleccionar como mensaje para representar la cantidad que él mismo armó; cuándo presionar ENVIAR.",
+    "caminosPosibles": "Bifurcación simple según el resultado de la verificación: respuesta correcta habilita el avance directo (FINALIZAR); respuesta incorrecta habilita un ciclo de revisión guiada antes de poder reintentar.",
+    "reintentosAyudas": "Intentos ilimitados en caso de error. Como ayuda, el sistema realiza una animación de conteo automática (con o sin acierto) y Kapi interviene con una frase orientadora (\"contemos para estar seguros\") sin indicar la respuesta correcta.",
+    "recorrido": "INICIO: Aparecen Kapi, Tataendy y 10 pichones dispersos por la pantalla; se reproduce el diálogo inicial de Kapi y Tataendy presentando la misión.\nACCIÓN: El niño toca los pichones dispersos para reunirlos en un solo nido y, luego de presionar CONTINUAR, selecciona un número de una lista del 1 al 10.\nDECISIÓN: Cuántos pichones reunir y qué número enviarle a Tataendy como mensaje.\nCONSECUENCIA: Al presionar ENVIAR, el sistema compara la cantidad de pichones reunidos con el número elegido.\nFEEDBACK: Animación de conteo (cada pichón revolotea y se ilumina el número correspondiente en la serie hasta llegar al cardinal de la colección); Kapi celebra si es correcto o invita a revisar si es incorrecto.\nPRÓXIMA ACCIÓN: Si es correcto: presionar FINALIZAR . Si es incorrecto: volver a seleccionar el número y presionar ENVIAR nuevamente.\nCIERRE: Al finalizar la misión se pasa a la décima pantalla, donde Tataendy le entrega a Kapi un fragmento de mapa como cierre del módulo."
+   },
+   "pantallas": [
+    {
+     "id": "imp-6ce1e0b321dd40ac",
+     "idPantalla": "P5-01",
+     "nombre": "\"¡La gran misión de Tataendy!\"",
+     "proposito": "Que el niño integre, de manera autónoma, el conteo, la representación numérica y la verificación, resolviendo la actividad de cierre del módulo.",
+     "contenidoTextual": "Consigna 1: Formá un grupo de pichones.\nConsigna 2: Seleccioná el número que representa la cantidad de pichones del grupo.",
+     "imagenesFondo": "Kapi, Tataendy y pichones dispersos sobre fondo de esteros ( 10 disponibles), lista de números/tarjetas del 1 al 10 (aparecen en pantalla al mismo tiempo que la consigna 2); nido donde se reúnen los pichones seleccionados.",
+     "botones": "CONTINUAR (entre consigna 1 y 2); ENVIAR (habilitado luego de seleccionar un número de la serie); FINALIZAR (habilitado solo tras respuesta correcta).",
+     "animacion": "los pichones tocados revolotean y se desplazan hasta reunirse en el nido; animación de conteo (cada pichón revolotea mientras se ilumina el número correspondiente en la serie, hasta llegar al cardinal de la colección armada por el niño).",
+     "audio": "Diálogo inicial de Kapi y Tataendy (ver E.3); consignas 1 y 2; feedback de Kapi según el estado — correcto o incorrecto (ver Bloque I).",
+     "condicionAvance": "Consigna 1: haber seleccionado al menos 1 pichón y presionado CONTINUAR (no se exige una cantidad determinada). Consigna 2: haber enviado un mensaje cuya cantidad coincide con el grupo de pichones armado por el niño y haber presionado FINALIZAR."
+    },
+    {
+     "id": "imp-7adae4cadd2d4d01",
+     "idPantalla": "P5-02",
+     "nombre": "\"El primer pedacito de mapa\"",
+     "proposito": "Cerrar el módulo con la recompensa narrativa (fragmento de mapa) y proyectar la continuidad hacia futuros módulos.",
+     "contenidoTextual": "¡Finalizamos la misión!",
+     "imagenesFondo": "Kapi, Tataendy (de regreso, con un papel en el pico), el bolsito de Kapi, el fragmento de mapa, los paneles guardados en la Actividad 4.",
+     "botones": "FINALIZAR",
+     "animacion": "Tataendy entrega el fragmento de mapa a Kapi; el bolsito se abre brevemente mostrando el fragmento junto con los paneles guardados en la Actividad 4, y se cierra con una animación breve.",
+     "audio": "Narración y diálogos de Tataendy, Kapi y el Narrador (ver Bloque K).",
+     "condicionAvance": "Presiona FINALIZAR para avanzar al próximo módulo"
+    }
+   ],
+   "interacciones": [
+    {
+     "id": "imp-fcc02c6e420c4444",
+     "accion": "Tocar",
+     "descripcion": "El niño toca un pichón disperso en la pantalla para incluirlo en su grupo; si ya está seleccionado, puede volver a tocarlo para sacarlo del grupo.",
+     "respuesta": "Si no estaba seleccionado, el pichón tocado se desplaza y se reúne con los demás seleccionados en un único nido; si ya estaba seleccionado, vuelve a su posición original en la dispersión."
+    },
+    {
+     "id": "imp-df6f6493150940ab",
+     "accion": "Seleccionar",
+     "descripcion": "El niño elige, de una lista de números del 1 al 10, el que representa la cantidad de pichones reunidos.",
+     "respuesta": "El número seleccionado queda resaltado como el mensaje elegido."
+    },
+    {
+     "id": "imp-91f88dd15570401e",
+     "accion": "Tocar (botón CONTINUAR)",
+     "descripcion": "El niño presiona Continuar tras armar el grupo de pichones.",
+     "respuesta": "Se oculta la consigna 1 y aparece la consigna 2, manteniendo visibles los pichones ya reunidos."
+    },
+    {
+     "id": "imp-eaa988f856e44409",
+     "accion": "Tocar (botón ENVIAR)",
+     "descripcion": "El niño confirma el número elegido.",
+     "respuesta": "El sistema compara la cantidad de pichones con el número seleccionado y dispara la animación de conteo, seguida del feedback correspondiente."
+    },
+    {
+     "id": "imp-39427932ada24e60",
+     "accion": "Tocar (botón FINALIZAR)",
+     "descripcion": "El niño presiona el botón, habilitado solo tras una respuesta correcta.",
+     "respuesta": "Se cierra la Actividad 5 y se da paso a la pantalla P5-02."
+    }
+   ],
+   "estados": [
+    {
+     "id": "imp-0be6aedb8c3c43e1",
+     "estado": "Respuesta correcta",
+     "queHizo": "reunió una cantidad de pichones, seleccionó el número que coincide exactamente con esa cantidad y presionó ENVIAR.",
+     "queInterpreta": "la producción es correcta.",
+     "queOcurre": "se dispara la animación de conteo (cada pichón revolotea y se ilumina el número correspondiente en la serie hasta llegar al cardinal de la colección); Kapi celebra: «¡Misión cumplida! Ya estamos listos para nuestra próxima aventura.»",
+     "proximoPaso": "se habilita el botón FINALIZAR, que da paso a la décima pantalla."
+    },
+    {
+     "id": "imp-8b7731d7f84b4a2a",
+     "estado": "Respuesta incorrecta",
+     "queHizo": "seleccionó un número que no coincide con la cantidad de pichones reunidos.",
+     "queInterpreta": "la cantidad no coincide con el número elegido.",
+     "queOcurre": "la actividad no se considera fallida; se ofrece una oportunidad de revisión. Kapi, con cara dudosa, dice: «contemos para estar seguros». Se realiza la misma animación de conteo (cada pichón revolotea y se ilumina el número correspondiente en la serie).",
+     "proximoPaso": "al finalizar el conteo, el niño puede volver a seleccionar el número y presionar ENVIAR nuevamente."
+    },
+    {
+     "id": "imp-9e751fcb164243a5",
+     "estado": "Interacción incompleta",
+     "queHizo": "Intentó presionar CONTINUAR sin haber seleccionado ningún pichón (o, intentó presionar ENVIAR sin haber elegido ningún número).",
+     "queInterpreta": "la selección está vacía — no hay grupo armado (o no hay mensaje elegido) para avanzar.",
+     "queOcurre": "El botón correspondiente (CONTINUAR / ENVIAR ) permanece deshabilitado; opcionalmente se puede mostrar un mensaje breve invitando a elegir al menos un pichón o un número.",
+     "proximoPaso": "El niño toca al menos un pichón (o selecciona un número) para habilitar el botón y continuar."
+    }
+   ],
+   "feedback": [
+    {
+     "id": "imp-5f6abace36b34d1f",
+     "estadoRef": "Respuesta correcta",
+     "queSignifica": "Feedback — Respuesta correcta\nEl niño logró relacionar el número con la cantidad, usando el conteo para verificar su propia producción de manera autónoma.",
+     "queDebe": "CONSECUENCIA",
+     "textoExacto": "«¡Misión cumplida! Ya estamos listos para nuestra próxima aventura.»",
+     "audioExacto": "¡Misión cumplida! Ya estamos listos para nuestra próxima aventura.",
+     "quienLoDice": "Kapi.",
+     "velocidad": "Moderada, con tono festivo."
+    },
+    {
+     "id": "imp-693631a5bae742c1",
+     "estadoRef": "Respuesta incorrecta.",
+     "queSignifica": "Feedback — Respuesta incorrecta\nEl niño necesita revisar su producción; el error no se sanciona, se acompaña con una estrategia de verificación (el conteo).",
+     "queDebe": "OPORTUNIDAD DE REVISIÓN",
+     "textoExacto": "«Contemos para estar seguros»",
+     "audioExacto": "Contemos para estar seguros",
+     "quienLoDice": "Kapi.",
+     "velocidad": "Lenta-moderada, para acompañar el ritmo del conteo"
+    },
+    {
+     "id": "imp-1baa3d9bf3e14e82",
+     "estadoRef": "Interacción incompleta",
+     "queSignifica": "Feedback — interacción incompleta\nEl niño no seleccionó una cantidad de pichones o no seleccionó un número",
+     "queDebe": "OPORTUNIDAD DE REVISIÓN",
+     "textoExacto": "Armá tu grupo de pichones y elegí el mensaje",
+     "audioExacto": "Armá tu grupo de pichones y elegí el mensaje.",
+     "quienLoDice": "Kapi",
+     "velocidad": "Moderada, con tono alentador."
+    }
+   ],
+   "personaje": [
+    {
+     "id": "imp-f0203ec2a7ab4918",
+     "quienHabla": "Kapi",
+     "cuandoAparece": "Ficha 1 — Kapi · al iniciar la pantalla P5-01, antes de que aparezca la primera consigna",
+     "audio": "¡Genial! Ahora con lo que ya sabemos podemos ayudar a buscar frutos para otros pichones.",
+     "textoPantalla": "no aplica",
+     "accionPersonaje": "Acompaña, sin indicar la respuesta",
+     "accionNino": "Escucha.",
+     "fraseConexion": "da paso a la intervención de Tataendy"
+    },
+    {
+     "id": "imp-b553c07b495e498c",
+     "quienHabla": "Tataendy",
+     "cuandoAparece": "Ficha 2 — Tataendy · Inmediatamente después de la línea de Kapi, en P5-01",
+     "audio": "¡Sí! Y puedo llevar el mensaje en mi pico para acordarme cuántos traer.",
+     "textoPantalla": "Al finalizar el audio, aparece en pantalla la consigna 1 Formar un grupo de pichones.",
+     "accionPersonaje": "Presenta la misión.",
+     "accionNino": "Comienza a tocar los pichones dispersos.",
+     "fraseConexion": "introduce la consigna escrita."
+    },
+    {
+     "id": "imp-7ce9b7727b904135",
+     "quienHabla": "Kapi (feedback correcto)",
+     "cuandoAparece": "Ficha 3 — Kapi (feedback correcto) · Al presionar ENVIAR con respuesta correcta, tras la animación de conteo.",
+     "audio": "¡Misión cumplida! Ya estamos listos para nuestra próxima aventura.",
+     "textoPantalla": "¡Misión cumplida!",
+     "accionPersonaje": "celebra",
+     "accionNino": "puede presionar FINALIZAR",
+     "fraseConexion": "cierra la Actividad 5 y habilita el paso a la décima pantalla"
+    },
+    {
+     "id": "imp-1b20828910ee4f76",
+     "quienHabla": "Kapi (feedback incorrecto)",
+     "cuandoAparece": "Ficha 4 — Kapi (feedback incorrecto) · al presionar ENVIAR con respuesta incorrecta",
+     "audio": "«Contemos para estar seguros» (con cara de dudoso)",
+     "textoPantalla": "No aplica.",
+     "accionPersonaje": "Orienta la revisión sin indicar la respuesta.",
+     "accionNino": "Observa el conteo guiado y vuelve a seleccionar el número",
+     "fraseConexion": "Invita a un nuevo intento"
+    },
+    {
+     "id": "imp-c0bf4c3a5ac6444a",
+     "quienHabla": "Tataendy",
+     "cuandoAparece": "Ficha 5 — Tataendy · Al iniciar la décima pantalla (P5-02), dirigiéndose a Kapi",
+     "audio": "¡Gracias! Ya junté frutos para otros pichones de la laguna.",
+     "textoPantalla": "No aplica.",
+     "accionPersonaje": "Regresa y agradece.",
+     "accionNino": "Observa (pantalla narrativa, sin interacción de contenido)",
+     "fraseConexion": "Da pie a la respuesta de Kapi."
+    },
+    {
+     "id": "imp-08215319454c4398",
+     "quienHabla": "Kapi",
+     "cuandoAparece": "Ficha 6 — Kapi · inmediatamente después de la línea de Tataendy, en P5-02",
+     "audio": "¡Qué bueno!",
+     "textoPantalla": "No aplica.",
+     "accionPersonaje": "Responde",
+     "accionNino": "Observa",
+     "fraseConexion": "Da paso a la intervención del Narrador"
+    },
+    {
+     "id": "imp-a54aae58a55d4b6f",
+     "quienHabla": "Narrador",
+     "cuandoAparece": "Ficha 7 — Narrador · después de la línea de Kapi, en P5-02",
+     "audio": "Es hora de que Kapi vuelva a buscar el camino a casa. Aguarden… ¿Qué tiene Tataendy en su pico? Parece un papel.",
+     "textoPantalla": "No aplica",
+     "accionPersonaje": "No aplica (voz en off)",
+     "accionNino": "Observa",
+     "fraseConexion": "Dirige la atención hacia el pico de Tataendy, anticipando la entrega del mapa."
+    },
+    {
+     "id": "imp-fe848265017e441c",
+     "quienHabla": "Tataendy (entrega del mapa)",
+     "cuandoAparece": "Ficha 8 — Tataendy (entrega del mapa) · tras la intervención del Narrador",
+     "audio": "Desde las copas de los árboles veo bastante del estero... Encontré este pedacito de mapa; a lo mejor te sirve. Es solo un pedacito, eso sí. Dicen que el resto anda disperso, que cada amigo del estero tiene guardado el suyo.",
+     "textoPantalla": "No aplica",
+     "accionPersonaje": "Entrega un fragmento de mapa a Kapi",
+     "accionNino": "Observa",
+     "fraseConexion": "Se guarda el fragmento junto con lo demás en el bolsito."
+    },
+    {
+     "id": "imp-cf0080afdf364e15",
+     "quienHabla": "Kapi (cierre del módulo)",
+     "cuandoAparece": "Ficha 9 — Kapi (cierre del módulo) · Al recibir el fragmento de mapa.",
+     "audio": "¡Genial, ya tengo una pista! Gracias, Tataendy. Creo que me va a llevar un tiempo juntar todos los pedazos, pero por algo se empieza.",
+     "textoPantalla": "No aplica.",
+     "accionPersonaje": "Agradece y reflexiona.",
+     "accionNino": "Observa cómo se abre brevemente el bolsito, mostrando el fragmento junto con los paneles guardados en la Actividad 4.",
+     "fraseConexion": "Cierre del módulo 1, con proyección hacia los próximos módulos (más fragmentos de mapa por encontrar)."
+    }
+   ],
+   "visual": {
+    "escenarioFondo": "Esteros del Iberá, con vegetación y agua típica del humedal; en la décima pantalla, copas de árboles desde donde \"ve\" Tataendy.",
+    "coloresDominantes": "Verdes y marrones del estero, con acentos cálidos para Tataendy.",
+    "objetosPersonajes": "P5-01: Kapi, Tataendy, entre 10 y 12 pichones dispersos y nido único donde se reúnen, serie de números del 1 al 10. P5-02: Kapi, Tataendy, bolsito de Kapi, fragmento de mapa, paneles guardados en la Actividad 4.",
+    "tamanoUbicacion": "(a definir con el equipo de diseño gráfico).",
+    "iconografia": "El número/tarjeta seleccionado se resalta como \"mensaje elegido\"; los pichones reunidos se agrupan visualmente en el nido; durante el conteo se ilumina progresivamente cada número de la serie y cada pichón del nido."
+   },
+   "sonido": [
+    {
+     "id": "imp-5995b1820f8a437d",
+     "duracion": "pendiente de definición"
+    },
+    {
+     "id": "imp-e4e11d0cb27e41e1",
+     "sonId": "AUD-5-01",
+     "tipo": "Narración",
+     "disparador": "Al ingresar a P5-01, antes de la consigna 1 — línea de Kapi.",
+     "alternativa": "No aplica"
+    },
+    {
+     "id": "imp-e85f237c9d864664",
+     "sonId": "AUD-5-02",
+     "tipo": "Narración",
+     "disparador": "Inmediatamente después de AUD-5-01 — línea de Tataendy.",
+     "alternativa": "No aplica"
+    },
+    {
+     "id": "imp-5dd0d0f52c4047a4",
+     "sonId": "AUD-5-03",
+     "tipo": "Feedback sonoro / narración",
+     "disparador": "Al finalizar la animación de conteo, si la respuesta es correcta",
+     "alternativa": "Subtítulo con el mismo texto"
+    },
+    {
+     "id": "imp-80f525ee70c84c4c",
+     "sonId": "AUD-5-04",
+     "tipo": "Feedback sonoro / narración",
+     "disparador": "Al comparar la respuesta, si es incorrecta (antes de la animación de conteo)",
+     "alternativa": "Subtítulo con el mismo texto"
+    },
+    {
+     "id": "imp-d2599f766c464254",
+     "sonId": "SFX-5-01",
+     "tipo": "Efecto / sonido de interacción",
+     "disparador": "Durante la animación de conteo, una vez por cada pichón contado",
+     "alternativa": "Descripción: \"sonido de conteo\""
+    },
+    {
+     "id": "imp-1f83defe6d954c14",
+     "sonId": "AUD-5-05 a AUD-5-09",
+     "tipo": "Narración",
+     "disparador": "En secuencia, al ingresar a P5-02 (diálogos de Tataendy, Kapi y el Narrador — ver Bloque K, fichas 5 a 9)",
+     "alternativa": "subtítulos con el mismo texto"
+    }
+   ],
+   "accesibilidad": {
+    "audioTexto": "Categoría: Sí — todos los diálogos y consignas descriptos cuentan con audio narrado y, en el caso de las consignas, también aparecen como texto en pantalla.",
+    "instruccionesClaras": "Categoría: Lenguaje claro — las consignas \"Armá tu grupo de pichones\", \"Elegí un mensaje...\" usan oraciones breves y directas, acordes al nivel de primer grado.",
+    "alternativasColor": "Tipo de alternativa: pendiente de definición",
+    "tamanoBotones": "Categoría: Pendiente de Guía de Pautas (no se especifican medidas en el documento fuente).",
+    "cantidadInfo": "Categoría: Una consigna principal — las dos consignas de P5-01 se presentan de forma secuencial, no simultánea, separadas por el botón \"Continuar\"."
+   },
+   "accesibilidadExtra": {
+    "modoAlternativo": "Selección: Audio + interacción táctil (tocar pichones, seleccionar número, presionar botones)."
+   },
+   "datos": {
+    "queRegistra": "La cantidad de pichones reunidos por el niño y el número/tarjeta seleccionado como mensaje.",
+    "tipoRespuesta": "Selección (tocar pichones para agruparlos) + selección (elegir un número de una lista del 1 al 10).",
+    "respuestaEsperada": "Coherencia entre el grupo de pichones armado libremente por el niño y el número que selecciona para representarlo — no existe una cantidad \"correcta\" externa impuesta por el sistema; lo correcto es la correspondencia entre su propia producción y su representación numérica.",
+    "alternativasValidas": "No aplica",
+    "parcialmenteValidas": "No aplica"
+   },
+   "navFinal": {
+    "cuandoTermina": "Cuando el niño envía un mensaje (número) que coincide con la cantidad de pichones reunidos y presiona FINALIZAR.",
+    "cuandoHabilita": "El botón FINALIZAR se habilita solo tras una respuesta correcta; al presionarlo, se pasa a la décima pantalla.",
+    "completarTodo": "Debe establecer la correspondencia correcta para avanzar; los errores no dan la actividad por fallida, pero sí requieren revisión antes de continuar.",
+    "variosIntentos": "Puede volver a seleccionar el número y presionar ENVIAR las veces que sea necesario; cada intento incorrecto dispara la misma animación de conteo guiado y la frase de Kapi (\"contemos para estar seguros\").",
+    "siAbandona": "se reinicia la actividad"
+   },
+   "matriz": [
+    {
+     "id": "imp-d542942c97e841ad",
+     "accionNino": "tocar un pichón disperso",
+     "respuestaEsperada": "Que el niño seleccione, con total libertad, la cantidad de pichones que considere para su grupo — no hay una cantidad mínima ni máxima impuesta, dentro del pool de pichones disponibles en pantalla.",
+     "respuestaSistema": "Si el pichón no estaba seleccionado, se desplaza y se reúne con los demás en el nido; si ya estaba seleccionado, vuelve a su posición original (el niño puede agregar o quitar pichones las veces que quiera).",
+     "feedback": "Ninguno punitivo; se actualiza visualmente la cantidad de pichones ya seleccionados.",
+     "proximaAccion": "Seguir tocando pichones, o presionar CONTINUAR cuando decida que su grupo está listo."
+    },
+    {
+     "id": "imp-fd144f85e961487d",
+     "accionNino": "presionar CONTINUAR",
+     "respuestaEsperada": "Haber seleccionado al menos 1 pichón (no se exige una cantidad determinada).",
+     "respuestaSistema": "Se oculta la consigna 1 y aparece la consigna 2 (\"Elegí un mensaje...\"), manteniendo visibles los pichones ya reunidos; queda fijada la cantidad de ese grupo.",
+     "feedback": "Ninguno; el botón permanece deshabilitado hasta que haya al menos un pichón seleccionado.",
+     "proximaAccion": "Seleccionar un número de la lista del 1 al 10."
+    },
+    {
+     "id": "imp-20ee8d5463264c0f",
+     "accionNino": "seleccionar un número de la lista (1 a 10)",
+     "respuestaEsperada": "Que el niño elija el número que, según su propio criterio, representa la cantidad de pichones que armó.",
+     "respuestaSistema": "El número seleccionado queda resaltado como el mensaje elegido; si toca otro número antes de enviar, se conserva la última selección tocada (ver Bloque T, caso 6).",
+     "feedback": "Ninguno; se habilita el botón ENVIAR.",
+     "proximaAccion": "presionar ENVIAR."
+    },
+    {
+     "id": "imp-606856171fae44b8",
+     "accionNino": "presionar ENVIAR.",
+     "respuestaEsperada": "Haber seleccionado un número antes de presionar.",
+     "respuestaSistema": "Compara la cantidad de pichones del grupo armado por el niño con el número elegido, y dispara la animación de conteo (cada pichón revolotea y se ilumina el número correspondiente en la serie hasta llegar al cardinal de la colección).",
+     "feedback": "Rama correcta — Kapi: «¡Misión cumplida! Ya estamos listos para nuestra próxima aventura.» · rama incorrecta — Kapi (con cara dudosa): «contemos para estar seguros», sin indicar la respuesta correcta.",
+     "proximaAccion": "Rama correcta: presionar FINALIZAR · rama incorrecta: volver a seleccionar un número y presionar ENVIAR nuevamente."
+    },
+    {
+     "id": "imp-495a7cc250964b31",
+     "accionNino": "presionar FINALIZAR",
+     "respuestaEsperada": "Haber logrado la coincidencia entre el grupo armado y el número elegido (botón habilitado solo en ese caso).",
+     "respuestaSistema": "cierra la Actividad 5 y da paso a la décima pantalla (P5-02).",
+     "feedback": "No aplica (el feedback ya se dio en el paso anterior).",
+     "proximaAccion": "Observar la escena narrativa de la décima pantalla."
+    },
+    {
+     "id": "imp-b4d87a2efa104457",
+     "accionNino": "observar la secuencia narrativa de la décima pantalla (P5-02)",
+     "respuestaEsperada": "No aplica — es una pantalla de cierre narrativo, sin consigna a resolver.",
+     "respuestaSistema": "Reproduce en secuencia los diálogos de Tataendy, Kapi y el Narrador; anima la entrega del fragmento de mapa y su guardado en el bolsito de Kapi junto con los paneles de la Actividad 4.",
+     "feedback": "no aplica.",
+     "proximaAccion": "cierre del módulo"
+    }
+   ],
+   "storyboard": [
+    {
+     "id": "imp-e7e979e6b8534b55",
+     "pantallaRef": "P5-01 (novena pantalla del módulo)",
+     "queVe": "Kapi, Tataendy y un pool de pichones dispersos sobre fondo de esteros (suficiente para que armar el grupo sea una elección real, dentro del rango de trabajo); tras presionar CONTINUAR, la lista de números del 1 al 10 y el nido con los pichones reunidos.",
+     "queEscucha": "Diálogo inicial de Kapi y Tataendy (ver E.3 del MDDI); feedback de Kapi al enviar el mensaje (correcto o incorrecto, ver Bloque I).",
+     "queHace": "Toca los pichones que decide incluir en su grupo, con cantidad totalmente libre; presiona CONTINUAR; selecciona un número de la lista; presiona ENVIAR MENSAJE.",
+     "quePuedePasar": "El número elegido coincide con la cantidad de su propio grupo (respuesta correcta) / no coincide (respuesta incorrecta) / intenta presionar CONTINUAR o ENVIAR MENSAJE sin haber seleccionado nada (interacción incompleta, ver Bloque T casos 1 a 7).",
+     "queHaceSistema": "Compara el grupo armado por el niño con el número elegido, dispara la animación de conteo y muestra el feedback correspondiente; habilita FINALIZAR MISIÓN solo en la rama correcta.",
+     "feedback": "Correcta → Kapi: «¡Misión cumplida! Ya estamos listos para nuestra próxima aventura.» · incorrecta → Kapi: «contemos para estar seguros», sin indicar la respuesta.",
+     "comoContinua": "Al presionar FINALIZAR MISIÓN (habilitado solo tras respuesta correcta), pasa a P5-02."
+    },
+    {
+     "id": "imp-4c834a8696024670",
+     "pantallaRef": "P5-02 (décima pantalla del módulo)",
+     "queVe": "Kapi, Tataendy (de regreso, con un papel en el pico), el bolsito de Kapi, el fragmento de mapa, los paneles guardados en la Actividad 4.",
+     "queEscucha": "Diálogos en secuencia de Tataendy, Kapi y el Narrador (ver Bloque K del MDDI, fichas 5 a 9).",
+     "queHace": "escucha",
+     "quePuedePasar": "No aplica",
+     "queHaceSistema": "Reproduce en orden los diálogos, anima la entrega del fragmento de mapa y muestra brevemente el bolsito abierto con el fragmento junto a los paneles de la Actividad 4, cerrándolo con una animación breve.",
+     "feedback": "no aplica — es una escena de cierre narrativo, no una verificación.",
+     "comoContinua": "cierre del módulo"
+    }
+   ],
+   "casosLimite": [
+    {
+     "id": "imp-2c559662f0f1430f",
+     "situacion": "El niño no responde durante un tiempo prolongado.",
+     "comportamiento": "Aparece Kapi con cara de pensativo.",
+     "feedback": "",
+     "accionPosterior": "El niño puede retomar la interacción en cualquier momento, ya que no se describe ningún límite de tiempo ni bloqueo.",
+     "noAplica": false,
+     "condicion": "20 segundos sin interacción",
+     "nota": ""
+    },
+    {
+     "id": "imp-b7f29b3f687a494b",
+     "situacion": "Toca repetidamente sin avanzar.",
+     "comportamiento": "Cada toque alterna su estado: si no estaba seleccionado, se suma al grupo; si ya lo estaba, se lo quita (ver Bloque G — interacción \"Tocar\"). No hay penalización ni mensaje de error.",
+     "feedback": "",
+     "accionPosterior": "El niño continúa armando su grupo con la cantidad que decida antes de presionar CONTINUAR.",
+     "noAplica": false,
+     "condicion": "El niño toca varias veces el mismo pichón disperso.",
+     "nota": ""
+    },
+    {
+     "id": "imp-0abc965829824301",
+     "situacion": "Arrastra un objeto a una zona incorrecta.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": true,
+     "condicion": "",
+     "nota": "La actividad no utiliza interacciones de arrastrar y soltar (\"drag and drop\"); toda la interacción es por toque/selección (tocar pichones, elegir un número, presionar botones)."
+    },
+    {
+     "id": "imp-77aa37b7845f4975",
+     "situacion": "Intenta colocar un objeto donde no corresponde.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": true,
+     "condicion": "",
+     "nota": "El mismo motivo que el caso anterior: no hay objetos que deban colocarse en zonas específicas."
+    },
+    {
+     "id": "imp-7c23406571254b3b",
+     "situacion": "Responde parcialmente.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": true,
+     "condicion": "",
+     "nota": "La actividad no tiene una noción de respuesta parcial: el niño arma su grupo completo (con la cantidad que decida) y elige un único número antes de presionar ENVIAR MENSAJE; recién ahí el sistema evalúa. No existe un estado intermedio de \"parcialmente resuelto\" que deba guardarse."
+    },
+    {
+     "id": "imp-ab9aba48dd0b48eb",
+     "situacion": "Selecciona dos opciones a la vez.",
+     "comportamiento": "Se conserva la última selección realizada como el mensaje elegido; el sistema resalta únicamente esa opción y retira el resaltado de la anterior.",
+     "feedback": "",
+     "accionPosterior": "El niño continúa normalmente con el número que quedó seleccionado, listo para presionar ENVIAR.",
+     "noAplica": false,
+     "condicion": "El niño toca dos números diferentes de la lista (por ejemplo, si llega a tocar uno y luego otro antes de enviar el mensaje).",
+     "nota": ""
+    },
+    {
+     "id": "imp-e0cc1d6b09a84919",
+     "situacion": "Borra una respuesta ya dada.",
+     "comportamiento": "El pichón vuelve a su posición original en la dispersión (deja de formar parte del grupo), o el número elegido se actualiza al último tocado — en ningún caso se muestra un mensaje de error.",
+     "feedback": "",
+     "accionPosterior": "El niño puede seguir ajustando su grupo o su elección las veces que quiera, antes de presionar CONTINUAR o ENVIAR.",
+     "noAplica": false,
+     "condicion": "El niño vuelve a tocar un pichón ya seleccionado (para sacarlo del grupo), o toca un número distinto al ya elegido antes de enviar el mensaje.",
+     "nota": ""
+    },
+    {
+     "id": "imp-554c1fd14def4513",
+     "situacion": "Abandona la actividad.",
+     "comportamiento": "No conserva la jugada",
+     "feedback": "",
+     "accionPosterior": "La actividad se reinicia al reingresar.",
+     "noAplica": false,
+     "condicion": "el niño sale del juego",
+     "nota": ""
+    },
+    {
+     "id": "imp-0a5f2ddb6c784eb3",
+     "situacion": "Vuelve a entrar (reingreso).",
+     "comportamiento": "No conserva la jugada",
+     "feedback": "",
+     "accionPosterior": "La actividad se reinicia al reingresar.",
+     "noAplica": false,
+     "condicion": "El niño sale del juego y vuelve a ingresar",
+     "nota": ""
+    },
+    {
+     "id": "imp-c08edf91c1ca459c",
+     "situacion": "Reinicia la actividad.",
+     "comportamiento": "No conserva la jugada",
+     "feedback": "",
+     "accionPosterior": "La actividad se reinicia al reingresar.",
+     "noAplica": false,
+     "condicion": "El niño sale del juego y vuelve a ingresar",
+     "nota": ""
+    },
+    {
+     "id": "imp-fb3aba88cc6144f3",
+     "situacion": "Pierde la conexión a mitad de la actividad.",
+     "comportamiento": "No conserva la jugada",
+     "feedback": "",
+     "accionPosterior": "La actividad se reinicia al reingresar.",
+     "noAplica": false,
+     "condicion": "El niño sale del juego por pérdida de conexión",
+     "nota": ""
+    },
+    {
+     "id": "imp-44f09240a4cd42cd",
+     "situacion": "Usa una pantalla reducida.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": true,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-87cdc09b82304f64",
+     "situacion": "Usa tablet.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": true,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-923fcada0691408b",
+     "situacion": "Usa netbook.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": true,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-b96a5a2cd453474a",
+     "situacion": "Escucha sin mirar la pantalla.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": true,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-b700c067ebcb4a27",
+     "situacion": "Mira sin escuchar.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": true,
+     "condicion": "",
+     "nota": ""
+    }
+   ]
+  }
+ ],
+ "importado": [
+  {
+   "id": "imp-c6e28a0e98cf4497",
+   "paso": "fundamentacion",
+   "titulo": "Bloque B — introducción del documento",
+   "texto": "El razonamiento pedagógico que sostiene este módulo toma como base los Objetivos de Aprendizaje y los Saberes/Contenidos previstos para la Unidad Pedagógica en el Diseño Curricular Jurisdiccional de Corrientes, así como las orientaciones didácticas para la enseñanza de los números en el Primer Ciclo. La propuesta se desarrolla en un contexto lúdico y significativo, situado en el universo narrativo de Kapi y Tataendy, donde los niños podrán resolver diferentes situaciones problemáticas vinculadas con la comparación de colecciones, la construcción de colecciones equivalentes (“tantos como”), el conteo y la representación de cantidades hasta 10.\nA partir de la confrontación de diferentes representaciones, se busca que los niños reconozcan que una misma cantidad puede expresarse mediante colecciones de objetos, configuraciones de puntos y escrituras numéricas, avanzando progresivamente hacia el reconocimiento del número como representación del cardinal."
+  }
+ ],
+ "origenImportacion": ""
+}

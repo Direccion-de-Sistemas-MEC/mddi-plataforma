@@ -1,0 +1,131 @@
+{
+ "fecha": "2026-09-29 10:58:14",
+ "modulo_id": "id-mumkbrkk-ag-485ixjgv",
+ "resultados": [
+  {
+   "n": 1,
+   "prueba": "Crear un módulo en 1° grado",
+   "ok": true,
+   "detalle": "(creado en el servidor; antes había 1 módulo/s en 1°)"
+  },
+  {
+   "n": 2,
+   "prueba": "Aparece como Módulo 2 porque ya existe el Módulo 1",
+   "ok": true,
+   "detalle": "(servidor: 2, pantalla: 'Módulo 2')"
+  },
+  {
+   "n": 3,
+   "prueba": "Cargar título",
+   "ok": true,
+   "detalle": ""
+  },
+  {
+   "n": 4,
+   "prueba": "Cargar área",
+   "ok": true,
+   "detalle": ""
+  },
+  {
+   "n": 5,
+   "prueba": "Cargar objetivo (aprendizaje esperado)",
+   "ok": true,
+   "detalle": ""
+  },
+  {
+   "n": 6,
+   "prueba": "Los datos aparecen automáticamente en Orientaciones Didácticas (campos P)",
+   "ok": true,
+   "detalle": "(grado, área, nombre, duración y objetivo leídos del módulo)"
+  },
+  {
+   "n": 7,
+   "prueba": "Completar un campo de Orientaciones Didácticas",
+   "ok": true,
+   "detalle": "(y el vínculo es vivo: cambio de título reflejado = True)"
+  },
+  {
+   "n": 8,
+   "prueba": "Completar Estar Cerca",
+   "ok": true,
+   "detalle": "(incluye el texto fijo de pie)"
+  },
+  {
+   "n": 9,
+   "prueba": "Completar Mapa de Verbos (verbo elegido de la lista)",
+   "ok": true,
+   "detalle": ""
+  },
+  {
+   "n": 10,
+   "prueba": "Cerrar sesión",
+   "ok": true,
+   "detalle": ""
+  },
+  {
+   "n": 11,
+   "prueba": "Volver a ingresar",
+   "ok": true,
+   "detalle": ""
+  },
+  {
+   "n": 12,
+   "prueba": "Todo continúa guardado después de salir y volver a entrar",
+   "ok": true,
+   "detalle": ""
+  },
+  {
+   "n": 13,
+   "prueba": "Abrir el mismo módulo desde otro navegador/dispositivo",
+   "ok": true,
+   "detalle": ""
+  },
+  {
+   "n": 14,
+   "prueba": "Aparece la información almacenada en el servidor",
+   "ok": true,
+   "detalle": ""
+  },
+  {
+   "n": 15,
+   "prueba": "Simular pérdida de conexión (la plataforma muestra 'Sin conexión')",
+   "ok": true,
+   "detalle": ""
+  },
+  {
+   "n": 16,
+   "prueba": "Modificar información sin conexión",
+   "ok": true,
+   "detalle": ""
+  },
+  {
+   "n": 17,
+   "prueba": "Los cambios no se pierden (recarga sin conexión y cierre del navegador)",
+   "ok": true,
+   "detalle": "(siguen en el equipo; todavía no llegaron al servidor)"
+  },
+  {
+   "n": 18,
+   "prueba": "Recuperar conexión (se reabre el navegador con Internet, sin volver a escribir nada)",
+   "ok": true,
+   "detalle": ""
+  },
+  {
+   "n": 19,
+   "prueba": "Sincronización automática: el cambio hecho sin conexión llegó a la base de datos",
+   "ok": true,
+   "detalle": "(PostgreSQL: '¿Qué semillas conocen? (escrito SIN conexión)')"
+  },
+  {
+   "n": 20,
+   "prueba": "Un cambio de un usuario no elimina accidentalmente la información de otro",
+   "ok": true,
+   "detalle": "(campo editado por ambos: se conservó el de Coordinación y la versión de la docente quedó en un aviso recuperable; campo editado solo por Coordinación: intacto)"
+  }
+ ],
+ "control_de_cambios": {
+  "guardados": 12,
+  "version": "13",
+  "usuarios": "Coordinación (otra compu), Docente de prueba"
+ }
+}

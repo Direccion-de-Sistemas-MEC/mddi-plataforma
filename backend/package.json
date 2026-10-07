@@ -1,0 +1,20 @@
+{
+  "name": "mddi-backend",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "API y persistencia centralizada de la Plataforma MDDI — Educa Primaria",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "migrar": "node src/db.js --migrar",
+    "seed": "node src/seed.js"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.21.2",
+    "helmet": "^7.2.0",
+    "pg": "^8.13.1"
+  }
+}

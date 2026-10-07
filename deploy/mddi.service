@@ -1,0 +1,22 @@
+[Unit]
+Description=Plataforma MDDI — Educa Primaria
+After=network.target postgresql.service
+Requires=postgresql.service
+
+[Service]
+Type=simple
+User=mddi
+Group=mddi
+WorkingDirectory=/opt/mddi/backend
+EnvironmentFile=/etc/mddi/mddi.env
+ExecStart=/usr/bin/node src/server.js
+Restart=always
+RestartSec=3
+# Endurecimiento
+NoNewPrivileges=true
+ProtectSystem=full
+ProtectHome=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target

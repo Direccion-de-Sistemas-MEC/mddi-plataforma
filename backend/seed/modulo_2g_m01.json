@@ -1,0 +1,2119 @@
+{
+ "codigo": "2G-M01",
+ "grado": "2º grado",
+ "area": "Lengua",
+ "ejeCurricular": "Práctica de la oralidad",
+ "contenido": "Escucha y producción de narraciones orales sobre experiencias de un personaje (anécdotas), con la colaboración del docente, respetando los turnos de intercambio y conservando el hilo argumental del relato. Recorte: escucha y narración de anécdotas ficcionales, en clave de secuencia episódica.",
+ "titulo": "¡Cuidado con el tronco que respira!",
+ "subtitulo": "Kapi y el mensaje del viento",
+ "docentesResponsables": "Romero, Victoria Beatriz; Lator, Elena; Centurión, Daniela.",
+ "especialistaResponsable": "Passicot, Natalia.",
+ "fundamentacion": {
+  "propositoGeneral": "Que el niño pueda apropiarse de la estructura básica de una anécdota, reconociéndola como una forma de organizar y compartir experiencias, avanzando desde el relato oral espontáneo hacia formas más organizadas de narrar, sin perder el hilo argumental de lo que se cuenta.\nEl módulo toma como disparador el conflicto de \"El mensaje del viento\": Kapi, esperando en la orilla de la laguna a que llegue Ñasaindy, ve cómo el aviso urgente sobre la creciente se le escapa de las patas y se hace pedazos entre los pastizales. Decide correr a buscar a Yrupe, la garza que mejor sabe mirar en el estero, para pedirle ayuda. En el camino se desata la lluvia, se refugia junto a lo que cree un tronco caído y resulta ser Mbyja (la yarará), se resbala y cae en un pozo de barro, sigue corriendo embarrado y se cruza de golpe con Yvytu, hasta llegar por fin, agitado y cubierto de barro, a la casa de Yrupe. Al ofrecerle una toalla, Yrupe descubre que Kapi trae pegado en la espalda el primer fragmento del mensaje de Ñasaindy: para poder leerlo y deducir dónde cayeron los fragmentos restantes, deben poner en orden los sucesos del relato.",
+  "aprendizajeEsperado": "El niño escucha y comprende una anécdota narrada oralmente por el personaje Kapi, identifica la secuencia de hechos que la componen, reconoce cuándo un relato está completo y ordenado, y practica la construcción de anécdotas ficcionales breves para otros personajes del universo, ensayando el mecanismo de armar un relato con inicio, complicación y desenlace.",
+  "relacionCurricular": "\"Escuchar y contar anécdotas personales y familiares y volver a narrar historias que les leyeron, les contaron o vieron\" (Diseño Curricular Jurisdiccional de Corrientes, página 83). Asimismo, el diseño curricular establece como saber/contenido la \"escucha y producción de narraciones orales, con la colaboración del docente, sobre sus propias experiencias de manera comprensible y completa, respetando los turnos de intercambio\" (página 83), y señala que a lo largo del Primer Ciclo el docente promoverá \"narraciones de experiencias personales, renarraciones de historias que han escuchado, visto o leído\" (página 84).",
+  "conocimientosPrevios": "El niño trae consigo su propio repertorio narrativo oral, construido en su entorno familiar y comunitario: palabras de su casa y su barrio, historias que le han contado y programas o películas que ha visto (Diseño Curricular Jurisdiccional, página 17). Además, cuenta con la experiencia de Nivel Inicial y primer grado en situaciones de renarración con la colaboración del docente, quien fue cediendo responsabilidades de manera progresiva (Cuaderno para el Aula, Lengua 2, página 42).",
+  "lengua": {
+   "propositoComunicativo": "Comprender una anécdota narrada por otro y poder renarrarla de forma completa y ordenada, para poder entender cómo llegó hasta ahí el fragmento del mensaje perdido, así como reconocer qué hace que un relato esté bien contado (fiel, completo, con su hilo argumental sostenido), y ensayar la construcción de una anécdota propia, breve y con sentido.",
+   "practicaLenguajeDetalle": "Oralidad. Aunque el niño no produce oralmente de forma hablada en la pantalla, todas las interacciones simulan y ejercitan comprensión y producción de narraciones orales: escucha atenta, reconstrucción de secuencia, comparación de versiones y armado de relato.",
+   "situacion": "- Desafío 1: escucha de una narración oral en primera persona, contada por Kapi a Yrupe, sobre la pérdida del mensaje y la odisea en el camino.\n- Desafío 2: renarración implícita a través de la reconstrucción del orden cronológico de las nueve escenas, para que Yrupe pueda entender cómo llegó el fragmento del mensaje hasta la espalda de Kapi.\n- Desafío 3: escucha comparativa de múltiples versiones orales de un mismo hecho (Mbyja, Tataendy e Yrupe) para evaluar cuál es la versión fiel y completa.\n- Desafío 5: producción guiada de una anécdota oral breve estructurada en tres partes.",
+   "destinatario": "Yrupe, la garza, en el Desafío 2 (ya escuchó la anécdota completa de boca de Kapi, y necesita ordenarla junto al niño para poder entender cómo llegó el fragmento del mensaje hasta ahí). Kapi, como validador y oyente en los desafíos de sistematización y producción. El docente y los estudiantes, en una instancia posterior fuera del entorno digital, como destinatarios reales de una anécdota personal que el niño compartirá en el aula.",
+   "generoTextual": "Anécdota: relato breve de un episodio en primera persona, con estructura de inicio, complicación y desenlace. En este módulo, el relato ficcional está contextualizado en la búsqueda del mensaje del viento en el estero.",
+   "decisionesNino": "- Desafío 2: definir en qué orden cronológico ubicar las nueve escenas para que Yrupe pueda entender cómo llegó el fragmento del mensaje.\n- Desafío 3: decidir cuál de las tres versiones orales es la más fiel y completa, descartando exageraciones u omisiones.\n- Desafío 4: definir a qué función de la estructura narrativa corresponde cada momento del relato (algo pasó, se complicó, así terminó).\n- Desafío 5: elegir una combinación de inicio, de complicación y de desenlace para armar la historia de un nuevo personaje.",
+   "autonomiaEsperada": "Alta. El módulo está diseñado para la resolución autónoma mediante pistas y devoluciones reflexivas ofrecidas por Kapi a través del sistema.",
+   "intervencionesNecesarias": "Sistema, a través de Kapi: interviene ante cualquier estado no esperado con preguntas abiertas que invitan a la reflexión, sin corrección punitiva.\nAcompañante: interviene fuera de la plataforma antes del módulo para contextualizar el universo y el conflicto de la creciente, y después, en el aula, para acompañar la narración de experiencias personales reales.",
+   "practicaLenguaje": "Oralidad"
+  }
+ },
+ "momentos": {
+  "1": "Presentar una escena contextualizada que genere la necesidad genuina de un saber nuevo. Kapi llega a los tropezones, agitado y hecho una estatua de barro, a la casa de Yrupe, quien lo recibe sorprendida y le ofrece una toalla. Le cuenta la anécdota completa: mientras esperaba en la orilla de la laguna a que llegara Ñasaindy, vio caer y hacerse pedazos el mensaje urgente sobre la creciente, salió corriendo a buscar a Yrupe, empezó a llover, se refugió junto al tronco que resultó ser Mbyja, cayó en un pozo de barro y se cruzó con Yvytu antes de llegar. Mientras Kapi se está secando, Yrupe descubre que trae pegado en la espalda el primer fragmento del mensaje de Ñasaindy: para poder limpiarlo y entender cómo llegó hasta ahí, deben poner en orden los sucesos del relato.",
+  "2": "El estudiante despliega procedimientos propios, sin enseñanza previa del camino. Ordena libremente y sin corrección inmediata las nueve escenas de la anécdota (desde que Kapi espera en la orilla hasta el hallazgo del fragmento del mensaje) para entender cómo llegó ese papel hasta su espalda. Al confirmar con el botón LISTO, si el orden no es cronológico o se incluyó alguno de los dos distractores, Kapi interviene con preguntas reflexivas para orientar la reconstrucción.",
+  "3": "Se contrastan estrategias posibles a través del personaje guía. Kapi expone que en el estero circulan distintas versiones sobre cómo se perdió el mensaje y cómo terminó en el barro. El estudiante escucha a Mbyja (versión incompleta que omite el inicio y el desenlace), a Tataendy (versión exagerada con hechos inventados, ya que no estuvo presente y solo escuchó rumores) y a Yrupe (versión fiel y completa), eligiendo cuál relata los hechos tal como sucedieron.",
+  "4": "Se organiza y nombra el saber construido: de procedimiento personal a conocimiento compartido. El estudiante clasifica las escenas de la historia en tres carteles de madera estilo rústico: 1) “Algo pasó” (Kapi esperando en la orilla, la caída del mensaje y el comienzo de la lluvia). 2) “Se complicó” (el tronco que era Mbyja, la caída en el pozo de barro, la corrida embarrado y el choque con Yvytu). 3) “Así terminó” (la llegada a lo de Yrupe y el hallazgo del fragmento pegado en la espalda). Kapi nombra explícitamente el género narrativo: \"¿Sabés cómo se llama esto que te conté? ¡Una anécdota! Algo que te pasó y querés compartir...\", y seguido entrega la insignia de gran contador de anécdotas.",
+  "5": "Transferencia a una nueva situación o producción propia que evidencia lo aprendido. El estudiante practica la creación de una anécdota ficcional breve, eligiendo un personaje que aún no protagonizó su aventura (Yvytu, Tataendy o Yvy) y seleccionando una tarjeta para cada parte de la estructura (algo pasó, se complicó, así terminó). Kapi locuta en voz alta la historia armada y realiza el cierre institucional del módulo, motivando al estudiante a aplicar esa misma estructura para contarle una anécdota real de su propia vida a su docente y a sus compañeros en clase."
+ },
+ "actividades": [
+  {
+   "numero": 1,
+   "importado": [
+    {
+     "id": "imp-2946a57774724cd8",
+     "bloque": "situacion",
+     "tab": "situacion",
+     "titulo": "E.2 — Escenas y guion narrativo del documento",
+     "texto": "Escena de inicio: la llegada a lo de Yrupe (P1-01)\n(Efecto de sonido: agua tranquila del estero, cantos suaves de grillos. En pantalla se ve a Yrupe parada en una sola pata sobre un irupé, peinándose las plumas con mucha elegancia. De repente: ¡Chaf! ¡Splash! ¡Chaj! ¡Chaj! ¡Chaj! Ruido de barro salpicado y respiración agitada. Entra Kapi en pantalla rodando, todo lleno de barro, con hojas pegadas en la cabeza y los ojos muy abiertos).\nYrupe: «¡Por todos los esteros, Kapi! ¡Pero mirá cómo llegaste! Parecés una estatua de barro con patas. ¿Te cayó un rayo o te persiguió un yaguareté?».\nKapi: «¡Ay, Yrupe! No sabés…, ¡no sabés la aventura tremenda que me pasó recién mientras venía corriendo a buscarte!».\nYrupe: «A ver, a ver... Tranquilizá el corazón, tomá aire y contame despacio desde el principio: ¿por qué venías a buscarme y qué te pasó en el camino?».\nKapi: «Es que salí a buscarte porque vos sos la que mejor sabe mirar en el estero... ¡Pero en el camino se largó a llover y me pasó de todo! Escuchá...».\nEscena 2: la anécdota de Kapi, locución en primera persona (AUD-1-01 en P1-02)\n(Durante la voz en off de Kapi, la pantalla muestra las ilustraciones animadas de cada momento de su aventura, con mecánica táctil).\nKapi: «Yo estaba esperando en la orilla de la laguna a nuestra amiga Ñasaindy. El sol ya empezaba a bajar sobre los esteros cuando vi cómo a Ñasaindy se le escapaba de las patas el aviso urgente que nos traía... El mensaje cayó y se hizo pedazos entre los pastizales. Como el pastizal es enorme y se venía la noche, pensé en vos: 'Tengo que buscar a Yrupe, que es la que mejor sabe mirar'. ¡Y salí corriendo para tu casa! Pero en el camino el cielo se puso oscuro, más oscuro... ¡y se largó a llover con todo!» (Hito 1: tocar la nube oscura, SFX de lluvia fuerte).\n«Busqué rápido dónde taparme y vi un bulto grande que parecía un tronco caído. Me arrimé rapidito...» (Hito 2: se muestra el bulto quieto; el jugador debe tocarlo para avanzar; al tocarlo, el objeto cambia de animación, se desenrosca la yarará Mbyja y suena \"¡Sssssss!\").\n«¡Pero el 'tronco' se movió e hizo 'sssssss'! ¡Era Mbyja, la yarará, enroscada entre los pastos! ¡Qué susto me pegué! Salí corriendo como nunca, pero el piso era puro barro. ¡Chaf, chaf, chaf!, resbalé y ¡paf!, ¡me caí de cola en un pozo! Quedé todo embarrado» (Hito 3: tocar el pozo de lodo, SFX de caída y chapoteo).\n«Me levanté y seguí corriendo entre los matorrales, donde me crucé de golpe con Yvytu. Los dos pegamos un salto del susto y salimos disparados. Por fin llegué acá a buscarte... ¡Pero vengo con las manos vacías y todo embarrado!» (Hito 4: tocar a Yvytu, SFX de sobresalto).\nEscena 3: el hallazgo y la transición al juego (P1-03)\nYrupe: «Tranquilo, Kapi. En el estero, apurarse no ayuda. Esperá, mirá bien antes de seguir... ¡Pero mirá! ¡Entre el barro que traés pegado en la espalda viene enganchado un pedazo de papel!».\nKapi: «¡Es el primer fragmento del mensaje de Ñasaindy! ¡Lo traje sin darme cuenta!».\n(Animación: se despega el papel del barro de Kapi y revela: \"¡Alerta en el estero!\").\nYrupe: «¡Qué noticia! Vamos a limpiarlo para poder leerlo. Pero... ¿dónde se te habrá pegado? A lo mejor, si reconstruimos tu recorrido, podemos tener una pista de dónde cayó el resto del mensaje»."
+    },
+    {
+     "id": "imp-835428470d77479f",
+     "bloque": "visual",
+     "tab": "personaje",
+     "titulo": "Bloque L — Diseño visual (texto del documento — distribuir en los campos)",
+     "texto": "Paleta cálida de atardecer correntino (ocres, naranjas, verdes y marrones del bañado). Kapi modelado cubierto de fango con textura húmeda y hojas pegadas."
+    },
+    {
+     "id": "imp-b722a1bb14994d3b",
+     "bloque": "accesibilidad",
+     "tab": "accesibilidad",
+     "titulo": "Bloque N — Accesibilidad (texto del documento — distribuir en los campos)",
+     "texto": "Lenguaje claro; alternativas al color mediante siluetas, titileo y manito indicadora; zonas táctiles mínimas de 64 por 64 píxeles, con al menos 16 píxeles de separación entre elementos contiguos; relato reproducible íntegramente por audio. Para el caso de escucha sin apoyo visual, la zona táctil se amplía a toda la pantalla mientras un elemento está señalado, y se suma un sonido corto distintivo apenas aparece cada elemento."
+    },
+    {
+     "id": "imp-42333bfdf7844a01",
+     "bloque": "casos",
+     "tab": "navegacion",
+     "titulo": "Bloque T — Casos límite (resumen del documento)",
+     "texto": "Inactividad asistida: a los 8 segundos se intensifica el titileo, a los 20 segundos Kapi refuerza con una frase hablada, sin límite máximo de espera. Toques reiterados sobre un elemento ya activado se ignoran. Guardado de estado local ante corte de conexión. La velocidad del scroll parallax se sincroniza a la duración del audio de cada tramo, no a una velocidad fija en píxeles."
+    },
+    {
+     "id": "imp-bcd03c5c9ff84f40",
+     "bloque": "matriz",
+     "tab": "navegacion",
+     "titulo": "Bloque V — Matriz",
+     "texto": "Siete filas funcionales: Inicio, Escucha, Toque de hitos, Demora, Cierre, Abandono, Reingreso."
+    },
+    {
+     "id": "imp-619a9fb6a8584dcf",
+     "bloque": "storyboard",
+     "tab": "storyboard",
+     "titulo": "Bloque W — Guion de implementación",
+     "texto": "P1-01 (Apertura) hacia P1-02 (Scroll y toques) hacia P1-03 (Cierre y avance)."
+    },
+    {
+     "id": "imp-1804f0ac5b6041b2",
+     "bloque": "ficha",
+     "tab": "storyboard",
+     "titulo": "Ficha rápida para desarrolladores (texto del documento)",
+     "texto": "Escena narrativa horizontal con scroll tipo parallax en 3 pantallas, con 4 elementos interactivos que disparan transformaciones y efectos antes de revelar el Pedazo 1 en el lomo de Kapi. Recursos: 1 audio troncal (AUD-1-01), 5 efectos de sonido (SFX-1-01 a 1-05), 4 estados de sistema."
+    }
+   ],
+   "nombre": "Kapi te cuenta lo que le pasó",
+   "objetivo": "Presentar una anécdota ficcional contextualizada que articule el conflicto inicial de \"El mensaje del viento\", despierte el interés infantil y genere la necesidad genuina de escuchar y comprender un relato completo en primera persona.",
+   "contenido": "Escucha comprensiva de una narración ficcional oral contada en primera persona, enmarcada en un diálogo entre dos personajes.",
+   "relacionSecuencia": "Apertura del módulo. Plantea el conflicto de la crecida y el hallazgo del fragmento adherido en el barro que Kapi tiene en su cuerpo, presentando la anécdota completa que la Actividad 2 invitará a secuenciar para Yrupe.",
+   "propositoDidactico": "Que el estudiante comprenda una anécdota completa, reconociendo personajes, conflicto y desenlace, que sirva de base atencional para la reconstrucción cronológica.",
+   "relacionAnterior": "No aplica, es la primera actividad del módulo.",
+   "relacionSiguiente": "La Actividad 2 retoma los nueve hitos de esta anécdota para que el estudiante los ordene cronológicamente y descarte distractores para ayudar a Yrupe.",
+   "evidencia": "Seguimiento atencional: el estudiante toca cada elemento interactivo que se activa en pantalla durante la locución para avanzar el relato.",
+   "pasajeSiguiente": "Automático al concluir la Escena 3 (hallazgo del pedazo de papel) y al tocar el botón CONTINUAR en P1-03.",
+   "situacion": {
+    "contexto": "El atardecer en los Esteros del Iberá, con la inminente amenaza de la gran crecida que se aproxima.",
+    "escenario": "Orilla de la laguna y casa de Yrupe sobre el camalotal, con desplazamiento dinámico en parallax que ilustra el camino recorrido.",
+    "personajes": "Kapi (carpincho) (narrador) e Yrupe (garza) (receptora). En viñetas animadas: Ñasaindy (ave Jabiru), Mbyja (yarará) e Yvytu (mona carayá).",
+    "queOcurre": "Kapi llega rodando y embarrado a la casa de Yrupe. Tras calmarse, les cuenta a ella la aventura que vivió mientras corría a buscarla.",
+    "queProblema": "El aviso urgente sobre la crecida se rompe en pedazos y estos se dispersan. Kapi pasa por una tormenta, sustos y lodo, pero al llegar a la casa de Yrupe encuentra el primer pedazo pegado en su lomo."
+   },
+   "mapa": {
+    "puntoEntrada": "Pantalla P1-01 (Kapi rodando y diálogo inicial con Yrupe).",
+    "pantallasInvolucradas": "P1-01, P1-02, P1-03.",
+    "decisionesNino": "Marca el ritmo tocando los hitos activos señalados durante la locución.",
+    "caminosPosibles": "Recorrido lineal continuo.",
+    "reintentosAyudas": "Botón AYUDA fijo para repetir el fragmento de audio de la escena."
+   },
+   "pantallas": [
+    {
+     "id": "imp-01667a26a9644700",
+     "idPantalla": "P1-01",
+     "nombre": "Entrada",
+     "proposito": "Fondo de laguna al atardecer. Yrupe sobre un irupé; entra Kapi rodando, cubierto de lodo. Diálogo inicial y botón ESCUCHAR."
+    },
+    {
+     "id": "imp-49ee607800044967",
+     "idPantalla": "P1-02",
+     "nombre": "Relato en scroll parallax",
+     "proposito": "Desplazamiento visual con Kapi narrando. Hitos interactivos obligatorios: la nube de lluvia, el tronco quieto (que al tocarse se desenrosca en Mbyja con siseo), el pozo de barro con caída y el susto al cruzarse con Yvytu."
+    },
+    {
+     "id": "imp-585de0ec3df04eeb",
+     "idPantalla": "P1-03",
+     "nombre": "Hallazgo del Pedazo 1",
+     "proposito": "Yrupe limpia el lomo de Kapi con la toalla y descubre el fragmento de papel con la leyenda \"¡Alerta en el estero!\". Botón CONTINUAR hacia el Desafío 2."
+    }
+   ],
+   "interacciones": [
+    {
+     "id": "imp-116e407d57a744fe",
+     "accion": "",
+     "descripcion": "Tocar (elementos interactivos). Escuchar (narración en primera persona de Kapi)."
+    }
+   ],
+   "estados": [
+    {
+     "id": "imp-954d42939f124c1b",
+     "estado": "",
+     "queHizo": "Sin respuesta (más de 20 segundos de inactividad). Interacción incompleta. Abandono. Reingreso. No aplican errores de contenido."
+    }
+   ],
+   "feedback": [
+    {
+     "id": "imp-20f72c6ef14a4b48",
+     "estadoRef": "Sin respuesta (demora en tocar)",
+     "textoExacto": "«¿Viste dónde me quise esconder? Tocá el bulto entre los pastizales a ver qué pasa»."
+    },
+    {
+     "id": "imp-611c2c7393a143a4",
+     "estadoRef": "Reingreso",
+     "textoExacto": "«¡Seguimos donde estábamos!»."
+    }
+   ],
+   "personaje": [
+    {
+     "id": "imp-9f0c3e74a86843e6",
+     "quienHabla": "Kapi",
+     "accionPersonaje": "Relato en primera persona con modulación expresiva (sorpresa, alivio, susto cómico). Frase de conexión hacia la Actividad 2: «¡Encontré el primer pedazo sin saberlo! Pero Yrupe necesita que ordenemos todo para entender qué pasó... ¡Vamos a ayudarla!»."
+    }
+   ],
+   "sonido": [
+    {
+     "id": "imp-ea12f08f5d554a2a",
+     "sonId": "AUD-1-01",
+     "descripcion": "(relato continuo de Kapi)"
+    },
+    {
+     "id": "imp-0f8324a4b5174694",
+     "sonId": "SFX-1-01",
+     "descripcion": "(lluvia y viento)"
+    },
+    {
+     "id": "imp-7281ac4b46eb42be",
+     "sonId": "SFX-1-02",
+     "descripcion": "(siseo de Mbyja)"
+    },
+    {
+     "id": "imp-859fc96f62bc4777",
+     "sonId": "SFX-1-03",
+     "descripcion": "(splash y chapoteo de caída en pozo)"
+    },
+    {
+     "id": "imp-09cef04448ab4be2",
+     "sonId": "SFX-1-04",
+     "descripcion": "(grito/sobresalto de Yvytu)"
+    },
+    {
+     "id": "imp-48cd9102a5484853",
+     "sonId": "SFX-1-05",
+     "descripcion": "(campanita brillante al despegar el fragmento del papel)."
+    }
+   ],
+   "datos": {
+    "tipoRespuesta": "Selección (toque secuencial de los cuatro hitos visuales de la historia)"
+   },
+   "navFinal": {
+    "cuandoTermina": "Concluye al activar todos los hitos del relato y tocar CONTINUAR en P1-03."
+   },
+   "casosLimite": [
+    {
+     "id": "imp-fc51cf0acf244d35",
+     "situacion": "El niño no responde durante un tiempo prolongado.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-34981d1453b14e41",
+     "situacion": "Toca repetidamente sin avanzar.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-7c122b1e8347481a",
+     "situacion": "Arrastra un objeto a una zona incorrecta.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-7199d096c5754f33",
+     "situacion": "Intenta colocar un objeto donde no corresponde.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-aa036fee32784fba",
+     "situacion": "Responde parcialmente.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-7e186600ae5046c1",
+     "situacion": "Selecciona dos opciones a la vez.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-acc9af86722840d3",
+     "situacion": "Borra una respuesta ya dada.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-8851b36ede8942b7",
+     "situacion": "Abandona la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-2791c9cbdb2747da",
+     "situacion": "Vuelve a entrar (reingreso).",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-1107553e6ebc443e",
+     "situacion": "Reinicia la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-086be7ba046245ef",
+     "situacion": "Pierde la conexión a mitad de la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-ba347476221d404e",
+     "situacion": "Usa una pantalla reducida.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-caccf2bbbd654023",
+     "situacion": "Usa tablet.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-a44f3e8b4522463c",
+     "situacion": "Usa netbook.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-6dc4a9b00c184393",
+     "situacion": "Escucha sin mirar la pantalla.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-5266228905524617",
+     "situacion": "Mira sin escuchar.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    }
+   ]
+  },
+  {
+   "numero": 2,
+   "importado": [
+    {
+     "id": "imp-d62fb574e9db4c5b",
+     "bloque": "feedback",
+     "tab": "interacciones",
+     "titulo": "Bloque I — Feedback — nota del documento",
+     "texto": "Si el niño incluyó ambos distractores a la vez, el sistema prioriza señalar primero el que ocupa la posición más temprana en el riel, manteniendo la lógica de una reflexión por vez."
+    },
+    {
+     "id": "imp-a50a1749c61647f0",
+     "bloque": "visual",
+     "tab": "personaje",
+     "titulo": "Bloque L — Diseño visual (texto del documento — distribuir en los campos)",
+     "texto": "La casa de Yrupe en el estero; riel central de nueve casilleros; bandeja de once tarjetas."
+    },
+    {
+     "id": "imp-fd2a8c823f64457e",
+     "bloque": "accesibilidad",
+     "tab": "accesibilidad",
+     "titulo": "Bloque N — Accesibilidad (texto del documento — distribuir en los campos)",
+     "texto": "Lenguaje claro; alternativa al color mediante forma e ilustración propia de cada tarjeta; zonas táctiles mínimas de 64 por 64 píxeles; acceso alternativo por audio."
+    },
+    {
+     "id": "imp-d5431b016cce4d69",
+     "bloque": "casos",
+     "tab": "navegacion",
+     "titulo": "Bloque T — Casos límite (resumen del documento)",
+     "texto": "Reintentos ilimitados sin penalización; reubicación libre de tarjetas antes de confirmar; persistencia de datos ante cierre o desconexión; funcionamiento equivalente con dedo o mouse/touchpad."
+    },
+    {
+     "id": "imp-3678891f74954c35",
+     "bloque": "matriz",
+     "tab": "navegacion",
+     "titulo": "Bloque V — Matriz",
+     "texto": "Armado libre, confirmación incompleta, acierto, error por distractor 1, error por distractor 2, error por inversión temporal."
+    },
+    {
+     "id": "imp-a7506bcf020443d4",
+     "bloque": "storyboard",
+     "tab": "storyboard",
+     "titulo": "Bloque W — Guion de implementación",
+     "texto": "P2-01 (Consigna) hacia P2-02 (Riel y tarjetas) hacia P2-03 (Feedback y avance)."
+    },
+    {
+     "id": "imp-f6900a20bc7f4a18",
+     "bloque": "ficha",
+     "tab": "storyboard",
+     "titulo": "Ficha rápida para desarrolladores (texto del documento)",
+     "texto": "esto es automático\nMecánica de arrastre y suelta de 11 tarjetas en un riel de 9 casilleros, con validación solo al confirmar y reflexión guiada diferenciada según el tipo de error. Recursos: 5 audios de narración/reflexión más 11 audios individuales de tarjetas."
+    }
+   ],
+   "nombre": "Ayudemos a Yrupe a entender lo que pasó",
+   "objetivo": "Desplegar procedimientos propios para reconstruir el orden temporal de la anécdota, sin enseñanza previa del camino; volver a escuchar, mantener en la memoria, relacionar el episodio con los momentos de la narración e interactuar con las tarjetas para probar si logra organizarlas adecuadamente.",
+   "contenido": "Reconstrucción de la secuencia temporal de una narración oral ya escuchada, con el propósito narrativo de entender cómo llegó el fragmento del mensaje hasta la espalda de Kapi.",
+   "relacionSecuencia": "Retoma las nueve escenas presentadas en la Actividad 1. El orden logrado aquí es la materia prima que se contrasta con otras versiones en la Actividad 3.",
+   "propositoDidactico": "Que el estudiante reconstruya el orden temporal completo de la anécdota, incluyendo el hallazgo del fragmento, para resolver el conflicto general del mensaje perdido.",
+   "relacionAnterior": "Retoma directamente el relato completo escuchado por Yrupe en la Actividad 1.",
+   "relacionSiguiente": "El orden reconstruido aquí es la base para reconocer, en la Actividad 3, cuál de las tres versiones contadas por otros personajes es la más fiel y completa.",
+   "evidencia": "El niño logra ubicar las nueve escenas en el orden cronológico correcto, sin incluir los dos distractores, ya sea en el primer intento o después de una o más instancias de reflexión guiada.",
+   "pasajeSiguiente": "Al confirmar un orden correcto con el botón LISTO.",
+   "situacion": {
+    "contexto": "Inmediatamente después de haber escuchado la anécdota completa en la Actividad 1, y de haber descubierto el fragmento del mensaje pegado en la espalda de Kapi.",
+    "escenario": "El mismo estero, en la casa de Yrupe.",
+    "personajes": "Kapi (guía), Yrupe (destinataria de la renarración, que escuchó la anécdota y ahora necesita ordenarla para entender cómo llegó el fragmento hasta ahí).",
+    "queOcurre": "Yrupe le pide al estudiante que la ayude a ordenar lo que pasó, para poder entender la anécdota y avanzar con el hallazgo del mensaje.",
+    "queProblema": "Es necesario ordenar la narración correctamente para poder entenderla y deducir dónde cayeron los fragmentos restantes del mensaje."
+   },
+   "consigna": {
+    "textoPantalla": "(AUD-2-01)\nKapi: «Mi amiga Yrupe, la garza, quiere entender lo que me pasó. Ayudame a ordenar la anécdota».",
+    "textoAudio": "(AUD-2-01)\nKapi: «Mi amiga Yrupe, la garza, quiere entender lo que me pasó. Ayudame a ordenar la anécdota».",
+    "quienLoDice": "Kapi.",
+    "tono": "Cómplice, invitando a colaborar.",
+    "velocidad": "Moderada."
+   },
+   "mapa": {
+    "puntoEntrada": "Pantalla de presentación de Yrupe con Kapi y consigna (P2-01).",
+    "pantallasInvolucradas": "P2-01, P2-02, P2-03.",
+    "decisionesNino": "En qué orden ubicar las nueve escenas narrativas dentro del riel de casilleros, entre once tarjetas totales (las 9 escenas reales más 2 distractores de evento).\nLas nueve escenas reales:\n- Kapi está esperando a la orilla de la laguna.\n- Kapi ve que a Ñasaindy se le cae el mensaje.\n- Kapi es sorprendido por una lluvia fuerte.\n- Kapi se encuentra con Mbyja.\n- Kapi se resbala con el barro y se cae al pozo.\n- Kapi corre embarrado.\n- Kapi se asusta cuando se encuentra con Yvytu.\n- Kapi llega a la casa de Yrupe.\n- Kapi e Yrupe encuentran la primera parte del mensaje.\nLos dos distractores (eventos que nunca ocurrieron):\n- Kapi se sube a la copa de un timbó a mirar el cielo.\n- Kapi cruza la laguna nadando sobre un camalote.",
+    "caminosPosibles": "El niño puede armar el orden libremente, en cualquier secuencia, antes de confirmar; no hay restricción durante el armado.",
+    "reintentosAyudas": "Si el orden confirmado no es correcto, Kapi guía una reflexión con preguntas abiertas, apuntando a una escena por vez; el niño puede reintentar sin límite de veces."
+   },
+   "pantallas": [
+    {
+     "id": "imp-6fcd84530b2f49d7",
+     "idPantalla": "P2-01",
+     "nombre": "Presentación y consigna",
+     "proposito": "Kapi e Yrupe en escena. Botón ESCUCHAR para pasar al armado."
+    },
+    {
+     "id": "imp-a66e6a9ae65a4d4f",
+     "idPantalla": "P2-02",
+     "nombre": "Armado libre",
+     "proposito": "Once tarjetas ilustradas (9 escenas más 2 distractores) y un riel de nueve casilleros vacíos. Sin corrección visual durante el armado. Botón LISTO se habilita al completar los nueve casilleros."
+    },
+    {
+     "id": "imp-a3cb74545e9c4526",
+     "idPantalla": "P2-03",
+     "nombre": "Validación y reflexión",
+     "proposito": "Si el orden es correcto, Yrupe festeja y se habilita CONTINUAR. Si no, Kapi guía la reflexión y aparece REINTENTAR, volviendo a P2-02 con las tarjetas ya ubicadas."
+    }
+   ],
+   "interacciones": [
+    {
+     "id": "imp-6bc72002bd9d4609",
+     "accion": "",
+     "descripcion": "Arrastrar, Soltar, Tocar (LISTO), Escuchar (audio individual de cada tarjeta)."
+    }
+   ],
+   "estados": [
+    {
+     "id": "imp-cff81713a1d0485a",
+     "estado": "Interacción incompleta",
+     "queHizo": "intento de confirmar con casilleros vacíos."
+    },
+    {
+     "id": "imp-254b57afaba7426a",
+     "estado": "Respuesta correcta",
+     "queHizo": "las nueve escenas en orden cronológico, sin distractores."
+    },
+    {
+     "id": "imp-83142271718d48c4",
+     "estado": "Error frecuente, distractor 1 incluido",
+     "queHizo": "se ubicó la tarjeta del timbó."
+    },
+    {
+     "id": "imp-170b543db452407b",
+     "estado": "Error frecuente, distractor 2 incluido",
+     "queHizo": "se ubicó la tarjeta del camalote."
+    },
+    {
+     "id": "imp-ac930698457f45be",
+     "estado": "Error frecuente, inversión temporal",
+     "queHizo": "las nueve escenas reales pero en orden incorrecto."
+    },
+    {
+     "id": "imp-ecebd3f387684e70",
+     "estado": "",
+     "queHizo": "Abandono / Reingreso."
+    }
+   ],
+   "feedback": [
+    {
+     "id": "imp-19cdc50c9d12462c",
+     "estadoRef": "Respuesta correcta",
+     "textoExacto": "Kapi: «¡Genial! Así fue, tal cual. Ahora Yrupe entendió todito de punta a punta»."
+    },
+    {
+     "id": "imp-02fba2e7f252462c",
+     "estadoRef": "Distractor 1, el timbó",
+     "textoExacto": "Kapi: «¡Epa! Hacé memoria de lo que te conté recién... ¿En algún momento me subí a un árbol a mirar el cielo, o eso nunca pasó en esta aventura?»."
+    },
+    {
+     "id": "imp-e7a557ed58664254",
+     "estadoRef": "Distractor 2, el camalote",
+     "textoExacto": "Kapi: «¡Epa! Pensemos... ¿Yo crucé la laguna nadando arriba de un camalote, o eso no fue parte de lo que te conté?»."
+    },
+    {
+     "id": "imp-f7ff1f1eb9ab4d6a",
+     "estadoRef": "Inversión temporal",
+     "textoExacto": "Kapi: «A ver, pensemos juntos: ¿me encontré con Mbyja antes o después de que se largara a llover?»."
+    },
+    {
+     "id": "imp-f866dba6123c48a7",
+     "estadoRef": "Interacción incompleta",
+     "textoExacto": "Kapi: «Todavía faltan algunos lugares por completar. ¿Seguimos ordenando?»."
+    }
+   ],
+   "personaje": [
+    {
+     "id": "imp-e6d4c179af584ca8",
+     "quienHabla": "Kapi",
+     "accionPersonaje": "Presenta el desafío, guía la reflexión ante cada tipo de error y festeja el acierto. Frase de conexión hacia la Actividad 3: «Yrupe ya se enteró de la verdad, pero parece que en el estero otros andan contando mal lo que me pasó…»."
+    }
+   ],
+   "sonido": [
+    {
+     "id": "imp-d7b76d5fbb8c4889",
+     "sonId": "AUD-2-01",
+     "descripcion": "(consigna)"
+    },
+    {
+     "id": "imp-e1c877a0712141bf",
+     "sonId": "AUD-2-02",
+     "descripcion": "(once audios individuales de tarjetas)"
+    },
+    {
+     "id": "imp-10d7035276514141",
+     "sonId": "AUD-2-03a",
+     "descripcion": "(reflexión distractor timbó)"
+    },
+    {
+     "id": "imp-31232ea661174a85",
+     "sonId": "AUD-2-03b",
+     "descripcion": "(reflexión distractor camalote)"
+    },
+    {
+     "id": "imp-e943baf3fdde4079",
+     "sonId": "AUD-2-04",
+     "descripcion": "(reflexión inversión temporal)"
+    },
+    {
+     "id": "imp-7e87743e63c44c13",
+     "sonId": "AUD-2-05",
+     "descripcion": "(acierto)."
+    }
+   ],
+   "datos": {
+    "tipoRespuesta": "orden",
+    "respuestaEsperada": "las nueve escenas en su secuencia cronológica correcta, sin ninguno de los dos distractores. No admite respuestas alternativas válidas."
+   },
+   "navFinal": {
+    "cuandoTermina": "Concluye al lograr el orden correcto y confirmar con LISTO."
+   },
+   "casosLimite": [
+    {
+     "id": "imp-9f0233a3a1dd4ff6",
+     "situacion": "El niño no responde durante un tiempo prolongado.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-baf5d8cbb6484f53",
+     "situacion": "Toca repetidamente sin avanzar.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-ffcd19b4c3794662",
+     "situacion": "Arrastra un objeto a una zona incorrecta.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-95a2704c44da4a76",
+     "situacion": "Intenta colocar un objeto donde no corresponde.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-5efc2cbb1917474d",
+     "situacion": "Responde parcialmente.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-7eee258727f347ed",
+     "situacion": "Selecciona dos opciones a la vez.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-ebf4aca1d7c54126",
+     "situacion": "Borra una respuesta ya dada.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-e5caf3eb5a42420f",
+     "situacion": "Abandona la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-0efa46b1fbfb42b2",
+     "situacion": "Vuelve a entrar (reingreso).",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-e0fe38f8ff604cc7",
+     "situacion": "Reinicia la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-d4f6de5a8cc6482f",
+     "situacion": "Pierde la conexión a mitad de la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-5405139db0404ed2",
+     "situacion": "Usa una pantalla reducida.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-c849d643b9804304",
+     "situacion": "Usa tablet.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-ab9cca340a5a4a82",
+     "situacion": "Usa netbook.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-39115f567ba04014",
+     "situacion": "Escucha sin mirar la pantalla.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-7d33032a876a4f35",
+     "situacion": "Mira sin escuchar.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    }
+   ]
+  },
+  {
+   "numero": 3,
+   "importado": [
+    {
+     "id": "imp-243beb7d75754fc8",
+     "bloque": "visual",
+     "tab": "personaje",
+     "titulo": "Bloque L — Diseño visual (texto del documento — distribuir en los campos)",
+     "texto": "Paleta litoraleña al atardecer. Tres pedestales diferenciados por elementos del hábitat: juncos para Mbyja, ramas y hojas de palmera para Tataendy, hojas de irupé para Yrupe."
+    },
+    {
+     "id": "imp-080cd584ae6f49a9",
+     "bloque": "accesibilidad",
+     "tab": "accesibilidad",
+     "titulo": "Bloque N — Accesibilidad (texto del documento — distribuir en los campos)",
+     "texto": "Lenguaje claro; textos en mayúscula imprenta sincronizados con el audio; botones mínimo 64 por 64 píxeles; modo audio integral disponible."
+    },
+    {
+     "id": "imp-2d2a87104f634e15",
+     "bloque": "casos",
+     "tab": "navegacion",
+     "titulo": "Bloque T — Casos límite (resumen del documento)",
+     "texto": "Protección contra toques simultáneos; se recomienda reproducir al menos dos audios antes de habilitar la validación."
+    },
+    {
+     "id": "imp-ac289ec836ea412e",
+     "bloque": "matriz",
+     "tab": "navegacion",
+     "titulo": "Bloque V — Matriz",
+     "texto": "Escucha, elección, reflexión si es Mbyja o Tataendy, confirmación de Yrupe, transición a P4-01."
+    },
+    {
+     "id": "imp-dfe2513f328d40a3",
+     "bloque": "ficha",
+     "tab": "storyboard",
+     "titulo": "Ficha rápida para desarrolladores (texto del documento)",
+     "texto": "Selector comparativo de audio con tres opciones testimoniales, validación reactiva guiada por Kapi mediante preguntas reflexivas ante las versiones desfasadas. Tres pantallas. Recursos: 7 audios de locución más 2 efectos de sonido."
+    }
+   ],
+   "nombre": "¿Quién cuenta bien la historia?",
+   "objetivo": "Que el estudiante compare diferentes versiones orales de un mismo hecho y reconozca cuál conserva la veracidad, la completitud y el orden cronológico necesario para entender el recorrido y encontrar el resto del mensaje.",
+   "contenido": "Escucha comparativa y evaluación crítica de narraciones orales sobre un mismo suceso (versión incompleta, versión exagerada y versión fiel y completa).",
+   "relacionSecuencia": "Utiliza la secuencia de nueve hechos afianzada en la Actividad 2 para contrastarla con testimonios que circulan en el estero. Valida la versión de Yrupe, sirviendo de puente para clasificar las tres partes estructurales en la Actividad 4.",
+   "propositoDidactico": "Desarrollar la escucha atenta y la reflexión crítica sobre relatos orales, identificando cuándo una historia omite momentos fundamentales o añade exageraciones que desvirtúan lo sucedido.",
+   "relacionAnterior": "Se fundamenta en los nueve hechos cronológicos ordenados en la Actividad 2.",
+   "relacionSiguiente": "La versión verídica de Yrupe brinda los hitos exactos que se clasificarán en las tres columnas en la Actividad 4.",
+   "evidencia": "El niño escucha las tres opciones y selecciona la versión de Yrupe como la narración fiel y completa.",
+   "pasajeSiguiente": "Al seleccionar la versión de Yrupe y tocar CONTINUAR.",
+   "situacion": {
+    "contexto": "En el estero se corrió la voz de que a Kapi le pasó algo terrible y de que se perdió el aviso de Ñasaindy. Cada animal cuenta su propia versión y hay confusión sobre lo que ocurrió realmente en el trayecto.",
+    "escenario": "Un claro de la laguna con tres pedestales rústicos de madera donde aguardan los relatores: Mbyja (yarará), Tataendy (guacamayo) e Yrupe (garza).",
+    "personajes": "Kapi (moderador); Mbyja (testigo incompleto, estuvo presente en el momento del “tronco”, pero no vio el resto); Tataendy (testigo que exagera algunos sucesos, no estuvo presente y solo escuchó rumores en el estero); Yrupe (relatora fiel y completa, escuchó la anécdota entera de boca de Kapi).",
+    "queProblema": "Hay relatos contradictorios. Para encontrar las pistas de los pedazos del mensaje que faltan, necesitan saber cuál historia cuenta la verdad exacta sin omitir ni inventar."
+   },
+   "consigna": {
+    "textoPantalla": "ESCUCHÁ LAS TRES VERSIONES Y ELEGÍ QUIÉN CONTÓ LA HISTORIA COMPLETA Y SIN INVENTAR.",
+    "textoAudio": "(AUD-3-01)\n«¡Che, qué revuelo se armó en el estero! Parece que algunos amigos andan contando mi aventura, pero no todos dicen la verdad tal cual fue. Mbyja, Tataendy e Yrupe tienen sus propias versiones. Escuchá a los tres con atención y elegí quién la cuenta completa, en orden y sin inventar nada».",
+    "quienLoDice": "Kapi.",
+    "tono": "Cómplice, intrigado, reflexivo.",
+    "velocidad": "Moderada."
+   },
+   "mapa": {
+    "puntoEntrada": "P3-01, con los tres relatores frente a sus reproductores sonoros.",
+    "pantallasInvolucradas": "P3-01, P3-02, P3-03.",
+    "decisionesNino": "Escuchar las opciones y seleccionar cuál es la historia completa y fiel.",
+    "caminosPosibles": "Selección directa de Yrupe (acierto) o selección de Mbyja/Tataendy (reflexión guiada, permite volver a escuchar)."
+   },
+   "pantallas": [
+    {
+     "id": "imp-13b0e973aec24950",
+     "idPantalla": "P3-01",
+     "nombre": "Presentación del debate",
+     "proposito": "Kapi en el centro presentando la situación."
+    },
+    {
+     "id": "imp-dac4e67437b8485c",
+     "idPantalla": "P3-02",
+     "nombre": "Escucha y selección",
+     "proposito": "Tres pedestales con Mbyja, Tataendy e Yrupe. Al tocarlos, cada uno narra su versión. Debajo de cada uno, botón ELEGIR."
+    },
+    {
+     "id": "imp-3fcf3482ebc0452b",
+     "idPantalla": "P3-03",
+     "nombre": "Validación y feedback",
+     "proposito": "Animación de Kapi dialogando sobre la elección. Si es Yrupe, se habilita CONTINUAR hacia la Actividad 4."
+    }
+   ],
+   "interacciones": [
+    {
+     "id": "imp-16ed72f5976f4e66",
+     "accion": "",
+     "descripcion": "Escuchar (las tres versiones), Elegir (seleccionar un relator), Tocar (confirmar)."
+    }
+   ],
+   "estados": [
+    {
+     "id": "imp-773bcafb41a94734",
+     "estado": "Respuesta correcta",
+     "queHizo": "selección de Yrupe."
+    },
+    {
+     "id": "imp-eed351da0b964b8a",
+     "estado": "Error por omisión",
+     "queHizo": "selección de Mbyja."
+    },
+    {
+     "id": "imp-7ae69a02d5f54e84",
+     "estado": "Error por exageración",
+     "queHizo": "selección de Tataendy."
+    },
+    {
+     "id": "imp-b05a036f381149b7",
+     "estado": "",
+     "queHizo": "Sin respuesta, más de 20 segundos."
+    }
+   ],
+   "feedback": [
+    {
+     "id": "imp-937fe60412f64853",
+     "estadoRef": "Acierto (Yrupe)",
+     "textoExacto": "«¡Tal cual! Yrupe escuchó con mucha atención, no inventó nada y contó la historia completa con todo lo que pasó en el camino: la salida para recibir el mensaje, la lluvia, el susto con Mbyja, la caída al pozo y la llegada. ¡Esa es la historia verdadera!»."
+    },
+    {
+     "id": "imp-52055831b997427d",
+     "estadoRef": "Error por omisión (Mbyja)",
+     "textoExacto": "«Mbyja contó solo lo que ella vio... ¡Pero se olvidó de cómo empezó todo con el mensaje de Ñasaindy y de cómo terminó en casa de Yrupe! Una buena anécdota tiene que contarse completa. Entonces… ¿Quién contó todo el camino?»."
+    },
+    {
+     "id": "imp-0dabb61cdf364f56",
+     "estadoRef": "Error por exageración (Tataendy)",
+     "textoExacto": "«¡Qué imaginación la de Tataendy! Pero... ¿yo salí volando por el aire como un monstruo de barro feroz? Me parece que le agregó cosas que nunca ocurrieron. Escuchemos de nuevo a ver quién cuenta tal como fue»."
+    },
+    {
+     "id": "imp-d4cdb58756f6446f",
+     "estadoRef": "Sin respuesta",
+     "textoExacto": "«Tocá a cada animalito para escuchar cómo cuentan lo que pasó»."
+    }
+   ],
+   "personaje": [
+    {
+     "id": "imp-5e034f43f9df4fec",
+     "quienHabla": "Kapi",
+     "accionPersonaje": "Orienta sobre la importancia de la fidelidad y la completitud en una anécdota. Frase de conexión hacia la Actividad 4: «¡Qué bien! Ya sabemos quién cuenta bien la historia. Ahora te voy a mostrar el secreto de cómo está armada...»."
+    }
+   ],
+   "sonido": [
+    {
+     "id": "imp-ed83b8c4aa664c4c",
+     "sonId": "AUD-3-01",
+     "descripcion": "(consigna)"
+    },
+    {
+     "id": "imp-984bacf0c472446c",
+     "sonId": "AUD-3-02",
+     "descripcion": "(versión Mbyja)"
+    },
+    {
+     "id": "imp-2d68ee618f6d45c6",
+     "sonId": "AUD-3-03",
+     "descripcion": "(versión Tataendy)"
+    },
+    {
+     "id": "imp-8b3e7609da014204",
+     "sonId": "AUD-3-04",
+     "descripcion": "(versión Yrupe)"
+    },
+    {
+     "id": "imp-400aa7e8d66a4ac9",
+     "sonId": "AUD-3-05",
+     "descripcion": "(acierto)"
+    },
+    {
+     "id": "imp-d498336dd9934b7e",
+     "sonId": "AUD-3-06",
+     "descripcion": "(reflexión Mbyja)"
+    },
+    {
+     "id": "imp-bc1974c4d1884005",
+     "sonId": "AUD-3-07",
+     "descripcion": "(reflexión Tataendy). SFX-3-01 (clic de selección)"
+    },
+    {
+     "id": "imp-d74970981bbe43be",
+     "sonId": "SFX-3-02",
+     "descripcion": "(campanita de acierto)."
+    }
+   ],
+   "datos": {
+    "tipoRespuesta": "Selección simple",
+    "respuestaEsperada": "Yrupe."
+   },
+   "navFinal": {
+    "cuandoTermina": "Concluye al seleccionar la versión de Yrupe y tocar CONTINUAR."
+   },
+   "casosLimite": [
+    {
+     "id": "imp-3c9ea9a8aec24608",
+     "situacion": "El niño no responde durante un tiempo prolongado.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-a92f6cc6703a41e4",
+     "situacion": "Toca repetidamente sin avanzar.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-2e6760733e8748e4",
+     "situacion": "Arrastra un objeto a una zona incorrecta.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-a8c99bc9fd67435f",
+     "situacion": "Intenta colocar un objeto donde no corresponde.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-c58fc75696554dba",
+     "situacion": "Responde parcialmente.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-84273288db504d8e",
+     "situacion": "Selecciona dos opciones a la vez.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-75f8105cf3c24519",
+     "situacion": "Borra una respuesta ya dada.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-b8878d116ddf4a86",
+     "situacion": "Abandona la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-f1e225b6d8384e54",
+     "situacion": "Vuelve a entrar (reingreso).",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-4c767013710d4f73",
+     "situacion": "Reinicia la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-fa9a47aa664f40f2",
+     "situacion": "Pierde la conexión a mitad de la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-a27c598aa7f444dc",
+     "situacion": "Usa una pantalla reducida.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-a804ca8ac31445f1",
+     "situacion": "Usa tablet.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-579c404f190d4109",
+     "situacion": "Usa netbook.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-0c6cc13c1d41448d",
+     "situacion": "Escucha sin mirar la pantalla.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-640096dea1c546e3",
+     "situacion": "Mira sin escuchar.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    }
+   ]
+  },
+  {
+   "numero": 4,
+   "importado": [
+    {
+     "id": "imp-6b09bdbb6bb64a6f",
+     "bloque": "visual",
+     "tab": "personaje",
+     "titulo": "Bloque L — Diseño visual (texto del documento — distribuir en los campos)",
+     "texto": "Cartel de tres columnas diferenciadas suavemente por color de fondo; bandeja inferior."
+    },
+    {
+     "id": "imp-8e65926b4f7949fe",
+     "bloque": "accesibilidad",
+     "tab": "accesibilidad",
+     "titulo": "Bloque N — Accesibilidad (texto del documento — distribuir en los campos)",
+     "texto": "Audio y texto simultáneos en la consigna y el cierre; lenguaje claro; alternativa al color mediante rótulo escrito en cada columna."
+    },
+    {
+     "id": "imp-6263284767b340fb",
+     "bloque": "casos",
+     "tab": "navegacion",
+     "titulo": "Bloque T — Casos límite (resumen del documento)",
+     "texto": "Reubicación irrestricta antes de confirmar; preservación de casilleros ante desconexión."
+    },
+    {
+     "id": "imp-6c1d26eed7904c05",
+     "bloque": "matriz",
+     "tab": "navegacion",
+     "titulo": "Bloque V — Matriz",
+     "texto": "Clasificación, confirmación, validación conceptual o repregunta guiada."
+    },
+    {
+     "id": "imp-0bcf6ed2ed054968",
+     "bloque": "ficha",
+     "tab": "storyboard",
+     "titulo": "Ficha rápida para desarrolladores (texto del documento)",
+     "texto": "Mecánica de clasificación categórica de nueve elementos en tres columnas funcionales, con cierre institucional que nombra el género trabajado."
+    }
+   ],
+   "nombre": "Así se arma la historia que te pasó",
+   "objetivo": "Organizar y nombrar el saber construido, pasando de reconocer la anécdota a clasificar sus partes y a conceptualizar el género.",
+   "contenido": "Clasificación funcional de momentos narrativos (inicio, complicación, desenlace) y nombramiento explícito de \"anécdota\".",
+   "relacionSecuencia": "Usa las nueve escenas validadas en la Actividad 3. El concepto se transferirá a la creación en la Actividad 5.",
+   "propositoDidactico": "Que el estudiante pase de reconocer una anécdota a poder nombrar su estructura interna, institucionalizando el saber construido en las actividades anteriores.",
+   "relacionAnterior": "Usa las nueve escenas validadas como fieles en la Actividad 3.",
+   "relacionSiguiente": "El concepto de anécdota y su estructura de tres partes es lo que el estudiante va a aplicar, en clave de ensayo, en la Actividad 5.",
+   "evidencia": "Clasifica correctamente las nueve escenas según su función narrativa y puede reconocer el nombre del concepto trabajado al finalizar.",
+   "pasajeSiguiente": "Al clasificar correctamente y visualizar el collar guaraní de cierre.",
+   "situacion": {
+    "contexto": "Tras validar la versión fiel de Yrupe en la Actividad 3.",
+    "escenario": "El estero, con un cartel rústico de tres columnas.",
+    "personajes": "Kapi (guía).",
+    "queProblema": "Organizar las escenas según su función narrativa."
+   },
+   "consigna": {
+    "textoPantalla": "(AUD-4-01)\n«Mirá lo que descubrí: mi aventura tiene tres partes bien claritas. Primero pasa algo que nos pone en marcha, después la cosa se complica con un lío y, al final, todo se resuelve. Vamos a encontrarlas juntos».",
+    "textoAudio": "(AUD-4-01)\n«Mirá lo que descubrí: mi aventura tiene tres partes bien claritas. Primero pasa algo que nos pone en marcha, después la cosa se complica con un lío y, al final, todo se resuelve. Vamos a encontrarlas juntos».",
+    "quienLoDice": "Kapi.",
+    "tono": "Entusiasta y feliz por haber descubierto algo.",
+    "velocidad": "Moderada."
+   },
+   "mapa": {
+    "puntoEntrada": "P4-01, presentación de las tres partes.",
+    "pantallasInvolucradas": "P4-01, P4-02, P4-03.",
+    "decisionesNino": "Asigna cada una de las nueve escenas al casillero: ALGO PASÓ, SE COMPLICÓ o ASÍ TERMINÓ.\nDistribución esperada:\n- ALGO PASÓ (3 escenas): Kapi esperando en la orilla; Kapi ve caer el mensaje; Kapi es sorprendido por la lluvia.\n- SE COMPLICÓ (4 escenas): Kapi se encuentra con Mbyja; se resbala y cae en el pozo; corre embarrado; se asusta con Yvytu.\n- ASÍ TERMINÓ (2 escenas): Kapi llega a la casa de Yrupe; Kapi e Yrupe encuentran el fragmento del mensaje."
+   },
+   "pantallas": [
+    {
+     "id": "imp-a03e8304aad4444a",
+     "idPantalla": "P4-01",
+     "nombre": "Consigna",
+     "proposito": "Cartel de tres columnas. Botón ESCUCHAR."
+    },
+    {
+     "id": "imp-6bd8678f4ddc4258",
+     "idPantalla": "P4-02",
+     "nombre": "Clasificación",
+     "proposito": "Cartel con las tres columnas funcionales y bandeja con las nueve escenas. Botón LISTO se habilita al ubicar las nueve."
+    },
+    {
+     "id": "imp-ee881b4f62d94f4b",
+     "idPantalla": "P4-03",
+     "nombre": "Cierre conceptual",
+     "proposito": "Kapi con collar guaraní, festejando. Nombramiento explícito de la anécdota. Botón CONTINUAR."
+    }
+   ],
+   "interacciones": [
+    {
+     "id": "imp-70d1fbf708354244",
+     "accion": "",
+     "descripcion": "Arrastrar, Clasificar, Tocar (LISTO), Escuchar."
+    }
+   ],
+   "estados": [
+    {
+     "id": "imp-83a7d16f1a334df1",
+     "estado": "Respuesta correcta",
+     "queHizo": "3 escenas en \"Algo pasó\", 4 en \"Se complicó\", 2 en \"Así terminó\"."
+    },
+    {
+     "id": "imp-879b6696f3d34932",
+     "estado": "Error frecuente",
+     "queHizo": "confusión entre complicación y resolución."
+    },
+    {
+     "id": "imp-13b04303db8546de",
+     "estado": "Interacción incompleta",
+     "queHizo": "casilleros con escenas sin ubicar."
+    }
+   ],
+   "feedback": [
+    {
+     "id": "imp-bc33e13fc7ab44d4",
+     "estadoRef": "Acierto",
+     "textoExacto": "«¿Sabés cómo se llama esto que te conté? ¡Una anécdota! Es una historia que nos pasó de verdad, contada en tres pasos: algo pasa, se complica y se soluciona. ¡Te ganaste el collar guaraní de gran contador de anécdotas!»."
+    },
+    {
+     "id": "imp-c0d6601efbe94243",
+     "estadoRef": "Error funcional, hallazgo del mensaje",
+     "textoExacto": "«Pensemos: cuando llegamos a la casa de Yrupe y encontramos el mensaje pegado en mi espalda... ¿eso fue parte del lío o fue el momento en que todo se resolvió?»."
+    },
+    {
+     "id": "imp-1ad9eb48292f4980",
+     "estadoRef": "Error funcional, Mbyja en el inicio",
+     "textoExacto": "«Pensemos: cuando el tronco resultó ser Mbyja la yarará... ¿eso fue al principio cuando salí tranquilo o fue cuando se armó el lío?»."
+    },
+    {
+     "id": "imp-d6bc1bf2c7f14cf5",
+     "estadoRef": "Interacción incompleta",
+     "textoExacto": "«Todavía quedan algunos momentos por ubicar. ¿Seguimos ordenándolos?»."
+    }
+   ],
+   "personaje": [
+    {
+     "id": "imp-e08a3ca62e354b16",
+     "quienHabla": "Kapi",
+     "accionPersonaje": "Presenta, guía ante desajustes y bautiza el concepto. Frase de conexión hacia la Actividad 5: «Ahora que ya sabés los tres secretos de una anécdota... ¡practiquemos armando alguna!»."
+    }
+   ],
+   "sonido": [
+    {
+     "id": "imp-1b28b19c033a4988",
+     "sonId": "AUD-4-01",
+     "descripcion": "(consigna)"
+    },
+    {
+     "id": "imp-8a1894ad71e448d1",
+     "sonId": "AUD-4-02",
+     "descripcion": "(reflexión, variable según escena)"
+    },
+    {
+     "id": "imp-952ef8ac5448494d",
+     "sonId": "AUD-4-03",
+     "descripcion": "(cierre conceptual)"
+    },
+    {
+     "id": "imp-6e17f412470c4f50",
+     "sonId": "AUD-4-04",
+     "descripcion": "(conexión hacia la Actividad 5)."
+    }
+   ],
+   "datos": {
+    "tipoRespuesta": "Clasificación",
+    "respuestaEsperada": "3 escenas en \"Algo pasó\", 4 en \"Se complicó\", 2 en \"Así terminó\"."
+   },
+   "navFinal": {
+    "cuandoTermina": "Finaliza con la clasificación correcta y la visualización de P4-03."
+   },
+   "casosLimite": [
+    {
+     "id": "imp-51cde6d7f22847ec",
+     "situacion": "El niño no responde durante un tiempo prolongado.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-50149f6cfad64379",
+     "situacion": "Toca repetidamente sin avanzar.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-8f1a96cb9679468a",
+     "situacion": "Arrastra un objeto a una zona incorrecta.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-da99768f59ff47a3",
+     "situacion": "Intenta colocar un objeto donde no corresponde.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-d3fe4e72757c4064",
+     "situacion": "Responde parcialmente.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-67fdee641f824765",
+     "situacion": "Selecciona dos opciones a la vez.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-2ec8311ac5664c69",
+     "situacion": "Borra una respuesta ya dada.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-22c817c915964836",
+     "situacion": "Abandona la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-118869e1009749fc",
+     "situacion": "Vuelve a entrar (reingreso).",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-471db82b7f2f4a2d",
+     "situacion": "Reinicia la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-d266012e41354a22",
+     "situacion": "Pierde la conexión a mitad de la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-b4a1dfd0ae454dda",
+     "situacion": "Usa una pantalla reducida.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-1591d7ec6c034a01",
+     "situacion": "Usa tablet.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-3a4f48eefe154939",
+     "situacion": "Usa netbook.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-b3dcf65e7701401b",
+     "situacion": "Escucha sin mirar la pantalla.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-7514ad4b0d9c44a2",
+     "situacion": "Mira sin escuchar.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    }
+   ]
+  },
+  {
+   "numero": 5,
+   "importado": [
+    {
+     "id": "imp-6c5bdbfce6464444",
+     "bloque": "ident",
+     "tab": "identificacion",
+     "titulo": "E.1 Identificación",
+     "texto": "Momento didáctico (según el documento): Producción y cierre / Transferencia pedagógica"
+    },
+    {
+     "id": "imp-3900424226684910",
+     "bloque": "tarjetas",
+     "tab": "mapa",
+     "titulo": "Sección 4 — Tarjetas por personaje",
+     "texto": "Cada personaje cuenta con su propio set de 12 tarjetas (4 por columna), coherentes con su hábitat y personalidad, para que la variedad de inicios, conflictos y desenlaces sea genuina y no repetitiva.\nYvytu, el mono carayá (copas de los árboles)\nALGO PASÓ:\n- Estaba saltando de rama en rama buscando frutos de ambay maduros.\n- Estaba jugando a las escondidas entre las ramas más altas.\n- Estaba juntando frutos para compartir con sus amigos.\n- Estaba mirando todo el estero desde la copa más alta.\nSE COMPLICÓ:\n- Se le resbaló un fruto y cayó rodando de rama en rama.\n- Una rama se rompió justo cuando saltaba.\n- Se quedó enganchado de la cola en unas enredaderas.\n- Se cruzó de golpe con un ave que también buscaba frutos y los dos pegaron un salto del susto.\nASÍ TERMINÓ:\n- Sus amigos lo ayudaron a bajar.\n- Se rió tanto que se olvidó del susto.\n- Aprendió a mirar bien antes de saltar.\n- Terminaron todos juntos comiendo frutos.\nTataendy, el guacamayo rojo (copas altas y palmerales)\nALGO PASÓ:\n- Estaba volando muy alto, mirando todo el humedal.\n- Estaba contándoles a sus amigos lo que había visto esa mañana.\n- Estaba paseando en bandada con otros guacamayos.\n- Estaba posado en la palmera más alta, cantando fuerte.\nSE COMPLICÓ:\n- Un viento fuerte le hizo perder el rumbo.\n- Se le cayó una pluma y eso lo distrajo.\n- Contó algo exagerado y sus amigos no le creyeron nada.\n- Se peleó con otro guacamayo por el mismo lugar en la rama.\nASÍ TERMINÓ:\n- Encontró el camino de vuelta guiándose por el río.\n- Encontró la pluma escondida entre las hojas.\n- Prometió contar las cosas como son de ahora en más.\n- Pidió disculpas y quedó bien con su amigo.\nYvy, la tortuga (suelo del monte)\nALGO PASÓ:\n- Estaba caminando despacito hacia el río, como todos los días.\n- Estaba buscando el mejor lugar para tomar sol.\n- Estaba siguiendo un caminito nuevo que nunca había visto.\n- Estaba cargando una hoja grande sobre el caparazón.\nSE COMPLICÓ:\n- Se encontró con un pozo de barro en el medio del camino.\n- Perdió de vista el caminito entre los pastos altos.\n- El sol se escondió y no sabía si seguir o volver.\n- Se le resbaló la hoja del caparazón.\nASÍ TERMINÓ:\n- Encontró otro camino más largo, pero seguro.\n- Un amigo la ayudó a cruzar el pozo.\n- Llegó igual, aunque tarde, y valió la pena.\n- Aprendió que ir despacio también es avanzar."
+    },
+    {
+     "id": "imp-721515263ad74058",
+     "bloque": "visual",
+     "tab": "personaje",
+     "titulo": "Bloque L — Diseño visual (texto del documento — distribuir en los campos)",
+     "texto": "Paleta cálida de atardecer litoraleño; acentos dorados en el collar guaraní y en el fragmento recuperado; libro rústico en junco y madera."
+    },
+    {
+     "id": "imp-51e1400892944b28",
+     "bloque": "accesibilidad",
+     "tab": "accesibilidad",
+     "titulo": "Bloque N — Accesibilidad (texto del documento — distribuir en los campos)",
+     "texto": "Rótulos en mayúscula imprenta con íconos por columna; botones mínimos 64 por 64 píxeles; subtítulos dinámicos sincronizados; compatible con táctil o mouse/touchpad."
+    },
+    {
+     "id": "imp-635cf75f8573443d",
+     "bloque": "casos",
+     "tab": "navegacion",
+     "titulo": "Bloque T — Casos límite (resumen del documento)",
+     "texto": "Reemplazo ilimitado de tarjetas antes de confirmar; inactividad asistida a los 20 segundos sin sanción; guardado automático del progreso local."
+    },
+    {
+     "id": "imp-a579bb13728545a7",
+     "bloque": "ficha",
+     "tab": "storyboard",
+     "titulo": "Ficha rápida para desarrolladores (texto del documento)",
+     "texto": "Mecánica de producción guiada mediante tríptico de tres columnas funcionales, con selección previa entre tres personajes, motor de concatenación de audios, pantalla de cierre con animación de collar guaraní, inventario del mensaje y botón de pase al Módulo 2. Cuatro pantallas. Recursos: 5 audios de locución de Kapi, más 36 audios de tarjetas (12 por personaje), más 3 efectos de interacción, más 1 efecto de ambiente, más 1 fanfarria musical. Banco visual: 36 viñetas ilustradas (12 por personaje), avatares de Yvytu, Tataendy e Yvy, animación de escenificación por personaje y pantalla final con el mapa hacia el Módulo 2."
+    }
+   ],
+   "nombre": "Armemos una anécdota para el estero",
+   "objetivo": "Producir una narración ficcional breve (anécdota) seleccionando un personaje del universo que aún no protagonizó su propia aventura (Yvytu, Tataendy o Yvy), articulando sus tres partes constitutivas y transfiriendo el mecanismo a una experiencia personal real con la docente en el aula.",
+   "contenido": "Producción guiada de narraciones orales breves sobre experiencias ficcionales a partir de opciones estructuradas (inicio, complicación, resolución).",
+   "relacionSecuencia": "Retoma el saber institucionalizado en la Actividad 4 y lo pone en juego en una creación activa para un nuevo personaje.",
+   "propositoDidactico": "Que el niño aplique la estructura canónica de la anécdota trabajada, articulando el cierre del Módulo 1 con la continuidad hacia el Módulo 2.",
+   "relacionAnterior": "Aplica el esquema de tres partes institucionalizado en la Actividad 4.",
+   "relacionSiguiente": "Es el cierre del módulo; habilita la transición al Módulo 2 y el puente presencial al aula.",
+   "evidencia": "El niño selecciona un protagonista y una tarjeta para cada una de las tres partes, logrando un relato que Kapi valida y lee en voz alta.",
+   "pasajeSiguiente": "Al escuchar la narración armada y presionar el botón de avance hacia el Módulo 2 en P5-04.",
+   "situacion": {
+    "contexto": "El atardecer en el estero, luego de haber limpiado el primer fragmento del mensaje (\"¡Alerta en el estero!\") y de haber sistematizado las tres partes de una anécdota. A lo lejos, el bañado empieza a cubrirse de nubes bajas y negras.",
+    "escenario": "Un rincón junto a la laguna con camalotes, donde Kapi dispone de una mesa baja de madera con un libro de historias abierto.",
+    "personajes": "Kapi (guía y anfitrión) y los tres amigos elegibles: Yvytu (el mono carayá), Tataendy (el guacamayo rojo) e Yvy (la tortuga), ninguno de los cuales protagonizó su propia aventura hasta este momento del módulo.",
+    "queOcurre": "Kapi invita al estudiante a crear una nueva anécdota para uno de los amigos del estero, usando la fórmula de los tres pasos.",
+    "queProblema": "El personaje seleccionado necesita una aventura completa (inicio, lío y solución) para convertirse en una verdadera anécdota."
+   },
+   "consigna": {
+    "textoPantalla": "ELEGÍ A UN PERSONAJE Y ARMÁ SU ANÉCDOTA CON LAS TRES PARTES: ALGO PASÓ, SE COMPLICÓ Y ASÍ TERMINÓ.",
+    "textoAudio": "(AUD-5-01)\n«¡Llegó el gran momento! Ya sabés que para contar una buena anécdota necesitamos tres partes: algo que pasa al principio, un lío en el medio y cómo se resuelve al final. Elegí a qué amigo querés ayudar: ¿a Yvytu, a Tataendy o a Yvy? ¡Después elegí una tarjeta para cada parte y escuchemos cómo suena su aventura!».",
+    "quienLoDice": "Kapi.",
+    "tono": "Entusiasta, motivador, festivo.",
+    "velocidad": "Moderada."
+   },
+   "mapa": {
+    "puntoEntrada": "P5-01, Kapi junto al libro de historias y los tres personajes para elegir.",
+    "pantallasInvolucradas": "P5-01, P5-02, P5-03, P5-04.",
+    "decisionesNino": "Qué personaje protagoniza y qué tarjeta elige para cada una de las tres columnas.",
+    "caminosPosibles": "64 combinaciones por personaje (4x4x4), 192 combinaciones totales entre los tres. Todas narrativamente válidas.",
+    "reintentosAyudas": "Si omite una columna, el espacio titila y Kapi recuerda completarlo; puede sustituir cualquier tarjeta libremente antes de confirmar."
+   },
+   "pantallas": [
+    {
+     "id": "imp-b28c6e7c8f0743a0",
+     "idPantalla": "P5-01",
+     "nombre": "Elección del protagonista",
+     "proposito": "Kapi en primer plano y tres tarjetones ilustrados. Un botón por personaje: Yvytu, Tataendy, Yvy."
+    },
+    {
+     "id": "imp-e01c67202d2445fe",
+     "idPantalla": "P5-02",
+     "nombre": "Mesa de armado en tres partes",
+     "proposito": "Tablero tríptico con el avatar del personaje elegido; bandeja con doce tarjetas propias de ese personaje (cuatro por columna), con botón parlante individual. Botón central CONTAR, activo con las tres partes completas."
+    },
+    {
+     "id": "imp-cfc43ba8ab87499d",
+     "idPantalla": "P5-03",
+     "nombre": "Narración oral animada",
+     "proposito": "Escenario donde Kapi y el protagonista actúan las peripecias armadas, con subtítulos sincronizados. Botones PROBAR OTRA y CONTINUAR."
+    },
+    {
+     "id": "imp-e90cb5573a1c49ff",
+     "idPantalla": "P5-04",
+     "nombre": "Cierre, puente al aula y pie al Módulo 2",
+     "proposito": "Kapi sostiene el fragmento limpio; medidor con 1 de 5 casilleros iluminados; sendero hacia el Módulo 2. Botón IR AL MÓDULO 2."
+    }
+   ],
+   "interacciones": [
+    {
+     "id": "imp-e79b447630034414",
+     "accion": "",
+     "descripcion": "Elegir (protagonista), Seleccionar (tarjetas), Escuchar (concatenación oral), Tocar (pase al Módulo 2)."
+    }
+   ],
+   "estados": [
+    {
+     "id": "imp-d43a704b9b1b4606",
+     "estado": "Respuesta correcta",
+     "queHizo": "tres tarjetas asignadas y activación de la locución."
+    },
+    {
+     "id": "imp-c00c409edb314ade",
+     "estado": "Interacción incompleta",
+     "queHizo": "intento de validar con casilleros vacíos."
+    },
+    {
+     "id": "imp-0474992b91fb43b2",
+     "estado": "Sin respuesta en P5-01",
+     "queHizo": "inactividad prolongada al elegir personaje."
+    },
+    {
+     "id": "imp-1dbabc8bab3d4251",
+     "estado": "Sin respuesta en P5-02",
+     "queHizo": "inactividad prolongada en la mesa de armado."
+    },
+    {
+     "id": "imp-2223470faa2a4a3a",
+     "estado": "Abandono / Reingreso",
+     "queHizo": "guarda personaje y progreso local."
+    }
+   ],
+   "feedback": [
+    {
+     "id": "imp-f7ed086aa7774a8f",
+     "estadoRef": "Respuesta correcta",
+     "textoExacto": "«¡Qué gran anécdota armamos! Escuchá con atención cómo suena la historia completa de punta a punta»."
+    },
+    {
+     "id": "imp-7e569e7763f04fb1",
+     "estadoRef": "Interacción incompleta",
+     "textoExacto": "«¡Epa! Falta una parte. Completá el lugar que falta para escuchar tu anécdota»."
+    },
+    {
+     "id": "imp-ee37bb0efadf42f0",
+     "estadoRef": "Sin respuesta en P5-01",
+     "textoExacto": "«¿A qué amigo le inventamos una aventura hoy? Tocá a Yvytu, a Tataendy o a Yvy»."
+    },
+    {
+     "id": "imp-23d3fd41f2284899",
+     "estadoRef": "Sin respuesta en P5-02",
+     "textoExacto": "«¿Qué parte te gustaría agregar ahora? Tocá una tarjeta de la bandeja»."
+    }
+   ],
+   "personaje": [
+    {
+     "id": "imp-590fb4db2b6e4b1a",
+     "quienHabla": "Kapi",
+     "cuandoAparece": "apertura (P5-01)",
+     "accionPersonaje": "Presenta el desafío (AUD-5-01)."
+    },
+    {
+     "id": "imp-1c2ea78ac60342c7",
+     "quienHabla": "Kapi",
+     "cuandoAparece": "locución actuada (P5-03)",
+     "accionPersonaje": "Ensambla las tres tarjetas elegidas con conectores narrativos."
+    },
+    {
+     "id": "imp-b1b4c848bded4ac8",
+     "quienHabla": "Kapi",
+     "cuandoAparece": "cierre y pie al Módulo 2 (P5-04, AUD-5-05)",
+     "audio": "«¡Qué gran equipo somos! Ya sabés el secreto para contar una buena anécdota: qué pasó al principio, qué lío se armó en el medio y cómo se solucionó al final. Gracias a tu ayuda pudimos ordenar mi viaje y recuperar el primer pedazo del mensaje de Ñasaindy: '¡Alerta en el estero!'. Pero mirá allá a lo lejos… sigue negro el cielo y el agua del bañado ya empezó a subir, y todavía nos falta encontrar cuatro pedazos más. En el Módulo 2 tenemos que seguir el rastro entre los pastizales. Mientras tanto, pensá en una anécdota que te haya pasado a vos y contásela a tu maestra y a tus compañeros de clase. ¡Preparate, que la aventura recién empieza!»."
+    }
+   ],
+   "sonido": [
+    {
+     "id": "imp-c81cac3fcbfe4ea5",
+     "sonId": "AUD-5-01",
+     "descripcion": "(consigna)"
+    },
+    {
+     "id": "imp-dc8876865728475e",
+     "sonId": "AUD-5-02",
+     "descripcion": "(acierto)"
+    },
+    {
+     "id": "imp-0a901372970348fb",
+     "sonId": "AUD-5-03a/03b",
+     "descripcion": "(pistas por inactividad)"
+    },
+    {
+     "id": "imp-47b80963a6e048f5",
+     "sonId": "AUD-5-04",
+     "descripcion": "(incompleta)"
+    },
+    {
+     "id": "imp-23cab30345884afa",
+     "sonId": "AUD-5-05",
+     "descripcion": "(cierre institucional). AUD-5-06 a AUD-5-17: doce audios de tarjetas para Yvytu. AUD-5-18 a AUD-5-29: doce audios de tarjetas para Tataendy. AUD-5-30 a AUD-5-41: doce audios de tarjetas para Yvy. Total: 36 audios de tarjetas. SFX-5-01 a 03 (clic, encastre, vuelta de página)"
+    },
+    {
+     "id": "imp-8d3c7b388b0d4eae",
+     "sonId": "SFX-5-04",
+     "descripcion": "(murmullo decreciente)"
+    },
+    {
+     "id": "imp-66b3401e383341bc",
+     "sonId": "MUS-5-01",
+     "descripcion": "(música litoraleña)."
+    }
+   ],
+   "datos": {
+    "tipoRespuesta": "Selección combinatoria. Registra personaje elegido y las tres tarjetas seleccionadas. Guarda la insignia y el Fragmento 1 desbloqueado"
+   },
+   "navFinal": {
+    "cuandoTermina": "Concluye al escuchar la narración en P5-03 y presionar IR AL MÓDULO 2 en P5-04."
+   },
+   "casosLimite": [
+    {
+     "id": "imp-3802b7012c844785",
+     "situacion": "El niño no responde durante un tiempo prolongado.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-082bea567cd94b21",
+     "situacion": "Toca repetidamente sin avanzar.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-3258943f72fa4dab",
+     "situacion": "Arrastra un objeto a una zona incorrecta.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-5af1db3da9d64c74",
+     "situacion": "Intenta colocar un objeto donde no corresponde.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-6be8584bcf264e04",
+     "situacion": "Responde parcialmente.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-f3891736f0b040f9",
+     "situacion": "Selecciona dos opciones a la vez.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-5ec22153468140c4",
+     "situacion": "Borra una respuesta ya dada.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-1e66fba048bf442b",
+     "situacion": "Abandona la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-a302764198114338",
+     "situacion": "Vuelve a entrar (reingreso).",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-371bcb2bd48a49a4",
+     "situacion": "Reinicia la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-d48554a79bd84e0c",
+     "situacion": "Pierde la conexión a mitad de la actividad.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-86ba4c85e77d4495",
+     "situacion": "Usa una pantalla reducida.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-ce25557443184c1d",
+     "situacion": "Usa tablet.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-73afd79ff4004611",
+     "situacion": "Usa netbook.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-19d870f7deed4a64",
+     "situacion": "Escucha sin mirar la pantalla.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    },
+    {
+     "id": "imp-28c37649f2a84ba1",
+     "situacion": "Mira sin escuchar.",
+     "comportamiento": "",
+     "feedback": "",
+     "accionPosterior": "",
+     "noAplica": false,
+     "condicion": "",
+     "nota": ""
+    }
+   ]
+  }
+ ],
+ "recursos": [
+  {
+   "id": "imp-f5df6907f81e4b71",
+   "recId": "GRA-01",
+   "tipo": "Gráfico",
+   "estado": "",
+   "uso": "",
+   "responsable": "",
+   "recurso": "Kapi",
+   "descripcion": "(personaje, poses: mojado con toalla, corriendo, agitado, festejando, narrando)."
+  },
+  {
+   "id": "imp-ddca1b688d1849e4",
+   "recId": "GRA-02",
+   "tipo": "Gráfico",
+   "estado": "",
+   "uso": "",
+   "responsable": "",
+   "recurso": "Yrupe",
+   "descripcion": "(personaje, poses: elegante en el irupé, sorprendida, calma, entregando la toalla)."
+  },
+  {
+   "id": "imp-ec778a57e84847f5",
+   "recId": "GRA-03",
+   "tipo": "Gráfico",
+   "estado": "",
+   "uso": "",
+   "responsable": "",
+   "recurso": "Mbyja, la yarará",
+   "descripcion": "(poses: enroscada/quieta como tronco, desenroscada y despierta)."
+  },
+  {
+   "id": "imp-e5948e981d064d96",
+   "recId": "GRA-04",
+   "tipo": "Gráfico",
+   "estado": "",
+   "uso": "",
+   "responsable": "",
+   "recurso": "Yvytu, el mono carayá",
+   "descripcion": "(poses: saltando, sobresaltado)."
+  },
+  {
+   "id": "imp-52361b8cb7784364",
+   "recId": "GRA-05",
+   "tipo": "Gráfico",
+   "estado": "",
+   "uso": "",
+   "responsable": "",
+   "recurso": "Tataendy, el guacamayo rojo",
+   "descripcion": "(poses: volando, gesticulando exageradamente)."
+  },
+  {
+   "id": "imp-aab933b0b9304a47",
+   "recId": "GRA-06",
+   "tipo": "Gráfico",
+   "estado": "",
+   "uso": "",
+   "responsable": "",
+   "recurso": "Yvy, la tortuga",
+   "descripcion": "(poses: caminando, observando)."
+  },
+  {
+   "id": "imp-37cada68e5674e81",
+   "recId": "GRA-07",
+   "tipo": "Gráfico",
+   "estado": "",
+   "uso": "",
+   "responsable": "",
+   "recurso": "escenario del estero con parallax",
+   "descripcion": "(laguna, pastizal, camino embarrado, casa de Yrupe)."
+  },
+  {
+   "id": "imp-d5706e2594764b03",
+   "recId": "GRA-08",
+   "tipo": "Gráfico",
+   "estado": "",
+   "uso": "",
+   "responsable": "",
+   "recurso": "las nueve tarjetas ilustradas de las escenas de la anécdota",
+   "descripcion": "(Actividades 1, 2 y 4)."
+  },
+  {
+   "id": "imp-ebb1d54490424b90",
+   "recId": "GRA-09",
+   "tipo": "Gráfico",
+   "estado": "",
+   "uso": "",
+   "responsable": "",
+   "recurso": "dos tarjetas distractoras",
+   "descripcion": "(timbó, camalote)."
+  },
+  {
+   "id": "imp-47c01e07262946f1",
+   "recId": "GRA-10",
+   "tipo": "Gráfico",
+   "estado": "",
+   "uso": "",
+   "responsable": "",
+   "recurso": "fragmento de papel del mensaje, con textura de barro y estado limpio.",
+   "descripcion": ""
+  },
+  {
+   "id": "imp-72f947af747042e9",
+   "recId": "GRA-11",
+   "tipo": "Gráfico",
+   "estado": "",
+   "uso": "",
+   "responsable": "",
+   "recurso": "treinta y seis tarjetas ilustradas de situaciones ficcionales, doce por personaje elegible en la Actividad 5",
+   "descripcion": "(Yvytu, Tataendy, Yvy)."
+  },
+  {
+   "id": "imp-d5f23987acab46a8",
+   "recId": "GRA-12",
+   "tipo": "Gráfico",
+   "estado": "",
+   "uso": "",
+   "responsable": "",
+   "recurso": "Collar tejido guaraní \"Gran contador de anécdotas\" e insignia final del módulo.",
+   "descripcion": ""
+  },
+  {
+   "id": "imp-e08d17de7a314ac0",
+   "recId": "GRA-13",
+   "tipo": "Gráfico",
+   "estado": "",
+   "uso": "",
+   "responsable": "",
+   "recurso": "mapa general de los esteros con el medidor de cinco casilleros para los fragmentos del mensaje.",
+   "descripcion": ""
+  },
+  {
+   "id": "imp-ab0e6c8e457744a5",
+   "recId": "AUD-00",
+   "tipo": "Sonoro",
+   "estado": "",
+   "uso": "",
+   "responsable": "",
+   "recurso": "banco general de narraciones de Kapi",
+   "descripcion": "(relatos, reflexiones, cierres)."
+  },
+  {
+   "id": "imp-3f1bbdc13167425e",
+   "recId": "AUD-Y",
+   "tipo": "Sonoro",
+   "estado": "",
+   "uso": "",
+   "responsable": "",
+   "recurso": "banco de líneas de Yrupe",
+   "descripcion": "(diálogo con Kapi en las Actividades 1 y 2)."
+  },
+  {
+   "id": "imp-fe67a1afcd454c11",
+   "recId": "SFX-00",
+   "tipo": "Sonoro",
+   "estado": "",
+   "uso": "",
+   "responsable": "",
+   "recurso": "banco de efectos ambientales del estero",
+   "descripcion": "(lluvia, siseo, chapoteo, sobresaltos, viento)."
+  },
+  {
+   "id": "imp-313e08ab11b54465",
+   "recId": "MUS-00",
+   "tipo": "Sonoro",
+   "estado": "",
+   "uso": "",
+   "responsable": "",
+   "recurso": "música de cierre institucional",
+   "descripcion": "(fanfarria litoraleña)."
+  }
+ ],
+ "navegacion": {
+  "continuar": "CONTINUAR: avanza a la pantalla o actividad siguiente, solo si se cumple la condición de avance definida en cada actividad.",
+  "volver": "VOLVER: regresa a la pantalla anterior dentro de la misma actividad, sin perder el progreso ya registrado.",
+  "ayuda": "AYUDA: repite la consigna o el tramo de audio correspondiente al estado actual."
+ },
+ "tecnicas": "- Se prioriza que el arrastre de tarjetas (Actividades 2, 4 y 5) tenga una zona de tolerancia amplia, pensando en la motricidad fina de 6 a 7 años.\n- El reconocimiento de voz de otras propuestas del cuadernillo no se usa en este módulo.\n- La reflexión guiada ante cualquier estado no esperado (Actividades 2, 3 y 4) es siempre conducida por Kapi, quien puede mencionar a otros personajes dentro del diálogo sin cederles la conducción.\n- Ningún estado de error se marca con corrección punitiva ni con colores de alerta; las señales visuales usan formas, titileo y animaciones, nunca el color como único indicador.\n- Las consignas y devoluciones habladas por los personajes usan voseo (ayudame, escuchá, elegí); los botones de interfaz mantienen su forma corta convencional (ESCUCHAR, LISTO, etc.), sin necesidad de conjugar.\n- Velocidad del scroll parallax (Actividad 1): sincronizada a la duración del audio de cada tramo, no a una velocidad fija en píxeles por segundo.\n- Señal de manito indicadora (Actividad 1): intensificación a los 8 segundos sin toque, refuerzo hablado de Kapi a los 20 segundos, sin límite máximo de espera.\n- Tamaño mínimo de botones y zonas táctiles en todo el módulo: 64 por 64 píxeles, con al menos 16 píxeles de separación entre elementos interactivos contiguos.\n- Caso de escucha sin apoyo visual (Actividad 1, P1-02): la zona táctil se amplía a toda la pantalla mientras un elemento está señalado, y se suma un sonido corto distintivo apenas aparece cada elemento, como pista sonora adicional a la visual.\n- Set de tarjetas de la Actividad 5: se recomienda lanzamiento completo con las 36 tarjetas (12 por personaje); como alternativa de contingencia, priorizar la producción completa de un personaje y lanzar los otros dos con un set reducido, a definir con el equipo de arte según tiempos de producción.\n- Medidor de fragmentos del mensaje: vive en el mapa general del universo, no en las pantallas de este módulo. Se guarda como un dato simple en el perfil del alumno (fragmentos encontrados: 1 de 5) y se muestra como una tira horizontal de 5 íconos en la pantalla del mapa general. Dentro del Módulo 1, en la pantalla P5-04, solo se ve una animación del fragmento volando hacia el mapa, sin necesidad de replicar el medidor completo ahí.\n- Definición técnica a cargo de Desarrollo Digital; el equipo docente especifica únicamente la intención funcional descripta en cada bloque.",
+ "versiones": [
+  {
+   "version": "1.0",
+   "fecha": "",
+   "cambio": "creación del documento a partir de la anécdota original de Kapi en el estero (lluvia, tronco/yacaré, garza), con personajes genéricos.",
+   "responsable": "",
+   "motivo": "",
+   "aprobadoPor": "—"
+  },
+  {
+   "version": "1.1",
+   "fecha": "",
+   "cambio": "corrección de personajes, reemplazo de personajes del submundo de 1° grado (Itá, Yvoty, Arandu) por los correspondientes de 2° grado (Mbyja, Yvy, Tataendy, Yrupe, Yvytu).",
+   "responsable": "",
+   "motivo": "",
+   "aprobadoPor": "—"
+  },
+  {
+   "version": "1.2",
+   "fecha": "",
+   "cambio": "reducción de diez a seis bloques narrativos para la Actividad 2, por carga cognitiva de reordenamiento (versión luego revisada, ver v1.6).",
+   "responsable": "",
+   "motivo": "",
+   "aprobadoPor": "—"
+  },
+  {
+   "version": "1.3",
+   "fecha": "",
+   "cambio": "cambio de filosofía de feedback, reemplazo de la corrección inmediata (temblor, borde de color, probar de nuevo) por una instancia de reflexión guiada al final del intento.",
+   "responsable": "",
+   "motivo": "",
+   "aprobadoPor": "—"
+  },
+  {
+   "version": "1.4",
+   "fecha": "",
+   "cambio": "definición de Kapi como voz guía constante en todas las instancias de reflexión.",
+   "responsable": "",
+   "motivo": "",
+   "aprobadoPor": "—"
+  },
+  {
+   "version": "1.5",
+   "fecha": "",
+   "cambio": "conexión del módulo con el conflicto general del universo, \"El mensaje del viento\": se incorpora la pérdida del mensaje de Ñasaindy como disparador de la anécdota, y el hallazgo de un fragmento del mensaje pegado en el barro de Kapi como cierre de la Actividad 1.",
+   "responsable": "",
+   "motivo": "",
+   "aprobadoPor": "—"
+  },
+  {
+   "version": "1.6",
+   "fecha": "",
+   "cambio": "reemplazo de Yvy por Yrupe como destinataria de la renarración en la Actividad 2; expansión de seis bloques a nueve escenas individuales; incorporación de dos distractores de evento (timbó, camalote) en reemplazo del distractor de personaje.",
+   "responsable": "",
+   "motivo": "",
+   "aprobadoPor": "—"
+  },
+  {
+   "version": "1.7",
+   "fecha": "",
+   "cambio": "restitución de Tataendy como testigo exagerado en la Actividad 3, por resultar más coherente que quien exagera no haya estado presente en los hechos; ampliación de la Actividad 5 de dos a tres personajes elegibles (Yvytu, Tataendy, Yvy), cada uno con su propio set de doce tarjetas; separación del feedback del distractor en dos reflexiones independientes.",
+   "responsable": "",
+   "motivo": "",
+   "aprobadoPor": "—"
+  },
+  {
+   "version": "1.8",
+   "fecha": "",
+   "cambio": "confirmación del criterio de voseo para consignas habladas por los personajes, manteniendo los botones de interfaz en su forma corta convencional.",
+   "responsable": "",
+   "motivo": "",
+   "aprobadoPor": "—"
+  },
+  {
+   "version": "1.9",
+   "fecha": "",
+   "cambio": "mejora de la resolución causal de la Actividad 2: ordenar la anécdota pasa a servir para deducir dónde cayeron los fragmentos restantes del mensaje, en vez de ser un requisito arbitrario para limpiar el fragmento ya encontrado.",
+   "responsable": "",
+   "motivo": "",
+   "aprobadoPor": "—"
+  },
+  {
+   "version": "1.10",
+   "fecha": "",
+   "cambio": "definiciones técnicas resueltas para velocidad de parallax, tiempo de espera de la señal de manito, tamaño de zonas táctiles, estrategia de lanzamiento de tarjetas de la Actividad 5 y ubicación del medidor de fragmentos del mensaje.",
+   "responsable": "",
+   "motivo": "",
+   "aprobadoPor": "—"
+  }
+ ],
+ "versionActual": "1.10",
+ "importado": [
+  {
+   "id": "imp-052bac9d3cb44ac9",
+   "paso": "identificacion",
+   "titulo": "Bloque A — texto introductorio del documento",
+   "texto": "Este módulo se enmarca en el universo narrativo de Kapi, personaje guía basado en el libro Aprendemos con Kapi, y está destinado a estudiantes de 2° grado del área de Lengua del Nivel Primario, en el marco del Diseño Curricular Jurisdiccional de la provincia de Corrientes. En esta aventura se articula el conflicto inicial del ciclo \"El mensaje del viento\": el aviso urgente sobre la creciente del agua en los esteros que se le escapa a Ñasaindy y queda destrozado en pedazos por los pastizales."
+  },
+  {
+   "id": "imp-51e0f2cad4614483",
+   "paso": "recursos",
+   "titulo": "Bloque P/Q — texto del documento",
+   "texto": "Estado general de producción: en desarrollo, a actualizar por el equipo de arte y sonido a medida que se generen los assets definitivos."
+  },
+  {
+   "id": "imp-ec174ba976e341f3",
+   "paso": "navegacion",
+   "titulo": "Bloque R — botones y notas del documento",
+   "texto": "- ESCUCHAR: inicia la narración o consigna de audio de la pantalla actual.\n- LISTO: confirma un armado o clasificación para su validación (Actividades 2 y 4).\n- REINTENTAR: habilita un nuevo intento después de una reflexión guiada, sin reiniciar el progreso previo.\n- CONTAR: dispara la narración de una producción armada por el niño (Actividad 5).\nNota: los nombres de botones se mantienen en infinitivo o forma corta por convención de interfaz, independientemente del voseo usado en las consignas habladas por los personajes."
+  },
+  {
+   "id": "imp-d8418a1d985a46dc",
+   "paso": "trazabilidad",
+   "titulo": "Bloque AA — trazabilidad según el documento",
+   "texto": "- Actividad 1: presentar una anécdota ficcional contextualizada, narrada por Kapi a Yrupe, que genere la necesidad genuina de escuchar y comprender un relato personal completo, articulando el conflicto de \"El mensaje del viento\".\n- Actividad 2: el niño despliega procedimientos propios para reconstruir el orden cronológico de las nueve escenas, discriminando dos distractores, con el fin de ayudar a Yrupe a entender cómo llegó el fragmento del mensaje.\n- Actividad 3: se contrastan versiones posibles del relato a través de tres personajes guía (Mbyja, Tataendy, Yrupe), reconociendo cuál conserva la veracidad y completitud necesarias.\n- Actividad 4: se organiza y nombra el saber construido, de procedimiento personal a conocimiento compartido, institucionalizando el concepto de anécdota y su estructura tripartita.\n- Actividad 5: transferencia a una nueva situación. El niño produce una anécdota ficcional breve para uno de tres personajes (Yvytu, Tataendy o Yvy), como ensayo del mecanismo que después podrá aplicar a una experiencia real junto al docente."
+  },
+  {
+   "id": "imp-d52a4ea636854ed8",
+   "paso": "validacion",
+   "titulo": "Bloque AB — Ready for development según el documento",
+   "texto": "Condiciones de inicio definidas (Bloque D):\nCompletas para las cinco actividades.\nCasos límite previstos (Bloque T):\nCompletos para las cinco actividades, incluyendo la resolución del caso de escucha sin apoyo visual mediante zona táctil ampliada y pista sonora adicional.\nDefiniciones técnicas resueltas:\n- Velocidad de parallax: sincronizada a la duración del audio de cada tramo.\n- Señal de manito: intensificación a los 8 segundos, refuerzo hablado a los 20 segundos.\n- Tamaño mínimo de botones y zonas táctiles: 64 por 64 píxeles, con 16 píxeles de separación mínima.\n- Set de tarjetas de la Actividad 5: recomendación de lanzamiento completo con las 36 tarjetas; alternativa de contingencia definida.\n- Medidor de fragmentos del mensaje: ubicado en el mapa general del universo, guardado como dato simple en el perfil del alumno.\nMódulo 1 listo para desarrollo, sin pendientes de definición pedagógica ni técnica abiertos."
+  }
+ ],
+ "origenImportacion": ""
+}
